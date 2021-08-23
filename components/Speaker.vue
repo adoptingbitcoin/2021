@@ -1,10 +1,10 @@
 <template>
   <article class="p-3">
     <div class="image-border bg-red-400 rounded-full">
-      <img :src="computedImg" alt="" class="w-18 h-18 rounded-full object-cover p-1 md:p-2"/>
+      <img :src="computedImg" alt="" class="rounded-full object-cover p-1 md:p-2"/>
     </div>
     <h2 class="text-lg font-semibold text-white my-2 text-center">
-      {{ name }}
+      {{ speaker.name }}
     </h2>
   </article>
 </template>
@@ -13,12 +13,15 @@
 export default {
   name: 'Speaker',
   props: {
-    name: String,
-    image: String
+    speaker: Object
   },
   computed: {
     computedImg () {
-      return require('~/assets/images/person/' + this.image)
+      if (this.speaker.img) {
+        return require('~/assets/images/person/' + this.speaker.img)
+      } else {
+        return null
+      }
     }
   }
 }
@@ -30,5 +33,11 @@ article{
 }
 .image-border{
   background: linear-gradient(to right, red, purple);
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
+img{
+  max-height: 250px;
 }
 </style>

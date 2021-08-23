@@ -5,12 +5,7 @@
         ANNOUNCED SPEAKERS
       </h2>
       <div class="grid grid-cols-2 md:grid-cols-3  grid-flow-row gap-4">
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
-        <Speaker name="Person 1" image="person1.jpg"></Speaker>
+        <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
       </div>
     </div>
   </div>
@@ -20,7 +15,8 @@
 import Speaker from '~/components/Speaker'
 export default {
   name: 'SpeakerList',
-  components: { Speaker }
+  components: { Speaker },
+  props: ['speakers']
 }
 </script>
 
