@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 py-10">
+  <div class="container mx-auto px-4 py-10" id="tickets">
     <h2 class="color-title text-3xl mb-5 text-white text-center">GRAB YOU TICKET HERE</h2>
     <p class="text-center text-xl my-5">and get the <b>early-bird special</b> with an stunning <b>15% discount on all tickets</b> until 15 September.</p>
 
