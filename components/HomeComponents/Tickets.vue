@@ -37,12 +37,12 @@ export default {
   background-position: center center;
 }
 .ticket-1{
-  background-image: url("~/assets/images/ticket_1.png");
+  background-image: url("~/assets/images/ticket_1.jpg");
 }
 .ticket-2{
-   background-image: url("~/assets/images/ticket_2.png");
+   background-image: url("~/assets/images/ticket_2.jpg");
  }
 .ticket-3{
-    background-image: url("~/assets/images/ticket_3.png");
+    background-image: url("~/assets/images/ticket_3.jpg");
   }
 </style>
