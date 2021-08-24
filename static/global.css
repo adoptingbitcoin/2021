@@ -7,3 +7,12 @@
 html {
   font-family: "Ubuntu";
 }
+
+
+.color-title{
+  background: -webkit-linear-gradient(10deg, #991b1b, blue, blue);
+  width: fit-content;
+  margin: auto;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

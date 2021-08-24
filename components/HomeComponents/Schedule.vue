@@ -1,11 +1,11 @@
 <template>
   <div class="background">
     <div class="container mx-auto px-4 py-10">
-      <h2 class="text-3xl mb-5 text-white text-center">
+      <h2 class="color-title text-3xl mb-5 text-white text-center">
         CONVENTION SCHEDULE
       </h2>
-      <div class="my-10">
-        <h3 class="text-blue-500">DAY 1</h3>
+      <div class="my-10 scheduleDay mx-auto">
+        <h3 class="text-4xl text-blue-500">DAY 1</h3>
         <span class="font-bold">Tuesday 16, San Salvador</span>
         <ul>
           <li>101 workshop on Lightning</li>
@@ -13,8 +13,8 @@
           <li>Economic track</li>
         </ul>
       </div>
-      <div class="my-10">
-        <h3 class="text-blue-500">DAY 2</h3>
+      <div class="my-10 scheduleDay mx-auto">
+        <h3 class="text-4xl text-blue-500">DAY 2</h3>
         <span class="font-bold">Wednesday 17, San Salvador</span>
         <ul>
           <li>101 workshop on Lightning</li>
@@ -23,8 +23,8 @@
         </ul>
       </div>
 
-      <div class="my-10">
-        <h3 class="text-blue-500">DAY 3</h3>
+      <div class="my-10 scheduleDay mx-auto">
+        <h3 class="text-4xl text-blue-500">DAY 3</h3>
         <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
         <ul>
           <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>
@@ -46,8 +46,8 @@ export default {
 .background::before{
   background-image: url("~/assets/images/lightning_background_color.jpeg");
   background-size: cover;
-  -webkit-filter: grayscale(100%); /* Safari 6.0 - 9.0 */
-  filter: grayscale(100%);
+  background-position: center center;
+  filter: grayscale(100%) brightness(270%);
   position: absolute;
   top: 0;
   left: 0;
@@ -58,5 +58,7 @@ export default {
 }
 .background{
   position: relative;
+}
+.scheduleDay{
 }
 </style>

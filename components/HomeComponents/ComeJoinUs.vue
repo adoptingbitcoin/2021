@@ -1,8 +1,8 @@
 <template>
   <div class="header">
-    <div class="title-container container m-auto p-3 px-16" style="width: fit-content">
+    <div class="title-container container mx-auto p-3 px-4">
       <h5 class="text-2xl">Come join us in beautiful El Salvador</h5>
-      <div class="bg-gradient-to-r from-yellow-400 via-red-500 to-red-800 rounded my-5" style="height: 10px"></div>
+      <div class="bg-gradient-to-r from-yellow-400 via-red-500 to-red-800 rounded my-5" style="height: 5px"></div>
       <h5 class="text-2xl">16. - 18. November 2021</h5>
       <button class="bg-white hover:bg-blue-700 text-blue-300 text-sm font-bold py-2 px-4 m-5">
         GRAB YOUR TICKET NOW
