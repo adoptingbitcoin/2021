@@ -1,36 +1,39 @@
 <template>
   <BGGrey>
     <Container>
-      <GradientHeader class="mx-auto">
+      <GradientHeader class="mx-auto mb-5">
         CONVENTION SCHEDULE
       </GradientHeader>
-      <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue">DAY 1</h3>
-        <span class="font-bold">Tuesday 16, San Salvador</span>
-        <ul>
-          <li>101 workshop on Lightning</li>
-          <li>Tech/developer track (research/tech, for developers)</li>
-          <li>Economic track</li>
-        </ul>
-      </div>
-      <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue">DAY 2</h3>
-        <span class="font-bold">Wednesday 17, San Salvador</span>
-        <ul>
-          <li>101 workshop on Lightning</li>
-          <li>Tech/developer track (research/tech, for developers)</li>
-          <li>Economic track</li>
-        </ul>
-      </div>
 
-      <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue">DAY 3</h3>
-        <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
-        <ul>
-          <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>
-          <li>Food court 10a - 6p in El Zonte</li>
-          <li>Party in El Tunco for the night</li>
-        </ul>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row gap-10">
+        <div class="scheduleDay mx-auto">
+          <h3 class="text-4xl text-blue">DAY 1</h3>
+          <span class="font-bold">Tuesday 16, San Salvador</span>
+          <ul>
+            <li>101 workshop on Lightning</li>
+            <li>Tech/developer track (research/tech, for developers)</li>
+            <li>Economic track</li>
+          </ul>
+        </div>
+        <div class="scheduleDay mx-auto">
+          <h3 class="text-4xl text-blue">DAY 2</h3>
+          <span class="font-bold">Wednesday 17, San Salvador</span>
+          <ul>
+            <li>101 workshop on Lightning</li>
+            <li>Tech/developer track (research/tech, for developers)</li>
+            <li>Economic track</li>
+          </ul>
+        </div>
+
+        <div class="scheduleDay mx-auto">
+          <h3 class="text-4xl text-blue">DAY 3</h3>
+          <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
+          <ul>
+            <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>
+            <li>Food court 10a - 6p in El Zonte</li>
+            <li>Party in El Tunco for the night</li>
+          </ul>
+        </div>
       </div>
     </Container>
   </BGGrey>

@@ -1,7 +1,7 @@
 <template>
   <BGGrey>
     <Container>
-      <GradientHeader class="mx-auto">
+      <GradientHeader class="mx-auto mb-10">
         ANNOUNCED SPEAKERS
       </GradientHeader>
       <div class="grid grid-cols-2 md:grid-cols-3  grid-flow-row gap-4">

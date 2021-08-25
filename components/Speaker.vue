@@ -32,7 +32,7 @@ article{
   filter: none;
 }
 .image-border{
-  background: linear-gradient(to right, red, purple);
+  background: linear-gradient(to right, #ffcc00, #e60000);
   width: fit-content;
   height: fit-content;
   margin: auto;

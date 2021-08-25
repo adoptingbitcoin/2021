@@ -1,23 +1,26 @@
 <template>
   <Container>
-    <GradientHeader class="mx-auto">
+    <GradientHeader class="mx-auto mb-5">
       THE LOCATIONS
     </GradientHeader>
-    <br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br>
-    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4">
+      <Location v-for="(location, i) in locations" :key="i" :index="i" :location="location" />
+    </div>
   </Container>
 </template>
 
 <script>
 import GradientHeader from '~/components/GradientHeader'
 import Container from '~/components/Container'
+import Location from '~/components/Location'
 export default {
   name: 'Locations',
-  components: { Container, GradientHeader }
+  components: { Location, Container, GradientHeader },
+  props: [
+    'locations'
+  ]
 }
 </script>
 
 <style scoped>
-
 </style>

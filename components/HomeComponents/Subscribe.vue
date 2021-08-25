@@ -1,10 +1,17 @@
 <template>
   <BGGrey>
     <Container>
-      <BlueTitle class="mx-auto">
+      <BlueTitle class="mx-auto text-center">
         Subscribe to the latest news!
       </BlueTitle>
-      <CTA class="mx-auto" href="#">
+
+      <div class="cta-border p-1 rounded mx-auto my-5 text-center">
+        <div class="bg-white px-5 py-2">
+          <input type="text" placeholder="ENTER YOUR EMAIL">
+        </div>
+      </div>
+
+      <CTA class="mx-auto text-center" href="#">
         YES SIGN ME UP!
       </CTA>
     </Container>
@@ -23,4 +30,12 @@ export default {
 </script>
 
 <style scoped>
+.cta-border{
+  background: linear-gradient(to right, red, blue);
+  width: fit-content;
+  height: fit-content;
+}
+input{
+  text-align: center;
+}
 </style>
