@@ -1,6 +1,8 @@
 <template>
-  <div class="container mx-auto px-4 py-10" id="tickets">
-    <h2 class="color-title text-3xl mb-5 text-white text-center">GRAB YOU TICKET HERE</h2>
+  <div id="tickets" class="container mx-auto px-4 py-10">
+    <GradientHeader class="mx-auto">
+      GRAB YOU TICKET HERE
+    </GradientHeader>
     <p class="text-center text-xl my-5">and get the <b>early-bird special</b> with an stunning <b>15% discount on all tickets</b> until 15 September.</p>
 
     <div class="ticket ticket-1 m-5 p-10 text-center text-white">
@@ -16,7 +18,7 @@
       <span>500 $</span>
     </div>
     <div class="my-10"></div>
-    <h3 class="text-4xl text-blue-500 my-5">Early Adopter</h3>
+    <h3 class="text-4xl text-blue my-5">Early Adopter</h3>
     <p>
       Pay over the lightning network and get another <b>5% discount on all tickets.</b> Bitcoin onchain payment give you 2% discount.
     </p>

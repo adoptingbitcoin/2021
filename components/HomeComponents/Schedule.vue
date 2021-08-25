@@ -1,11 +1,11 @@
 <template>
   <div class="background">
     <div class="container mx-auto px-4 py-10">
-      <h2 class="color-title text-3xl mb-5 text-white text-center">
+      <GradientHeader class="mx-auto">
         CONVENTION SCHEDULE
-      </h2>
+      </GradientHeader>
       <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue-500">DAY 1</h3>
+        <h3 class="text-4xl text-blue">DAY 1</h3>
         <span class="font-bold">Tuesday 16, San Salvador</span>
         <ul>
           <li>101 workshop on Lightning</li>
@@ -14,7 +14,7 @@
         </ul>
       </div>
       <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue-500">DAY 2</h3>
+        <h3 class="text-4xl text-blue">DAY 2</h3>
         <span class="font-bold">Wednesday 17, San Salvador</span>
         <ul>
           <li>101 workshop on Lightning</li>
@@ -24,7 +24,7 @@
       </div>
 
       <div class="my-10 scheduleDay mx-auto">
-        <h3 class="text-4xl text-blue-500">DAY 3</h3>
+        <h3 class="text-4xl text-blue">DAY 3</h3>
         <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
         <ul>
           <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>

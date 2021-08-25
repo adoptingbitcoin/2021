@@ -1,9 +1,9 @@
 <template>
   <div class="background">
     <div class="container mx-auto px-4 py-10">
-      <h2 class="text-3xl mb-5 text-white text-center">
+      <GradientHeader class="mx-auto">
         ANNOUNCED SPEAKERS
-      </h2>
+      </GradientHeader>
       <div class="grid grid-cols-2 md:grid-cols-3  grid-flow-row gap-4">
         <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
       </div>
@@ -13,9 +13,10 @@
 
 <script>
 import Speaker from '~/components/Speaker'
+import GradientHeader from '~/components/GradientHeader'
 export default {
   name: 'SpeakerList',
-  components: { Speaker },
+  components: { GradientHeader, Speaker },
   props: ['speakers']
 }
 </script>
