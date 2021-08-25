@@ -1,17 +1,19 @@
 <template>
   <div class="header">
-    <div class="title-container container mx-auto p-3 px-4">
+    <Container class="title-container">
       <h5 class="text-2xl">Come join us in beautiful El Salvador</h5>
-      <div class="bg-gradient-to-r from-yellow-400 via-red-500 to-red-800 rounded my-5" style="height: 5px"></div>
+      <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
       <h5 class="text-2xl">16. - 18. November 2021</h5>
-      <CTA />
+      <CTA href="#tickets">GRAB YOUR TICKET NOW</CTA>
+    </Container>
     </div>
-  </div>
 </template>
 
 <script>
+import Container from '~/components/Container'
 export default {
-  name: 'ComeJoinUs'
+  name: 'ComeJoinUs',
+  components: { Container }
 }
 </script>
 
@@ -27,7 +29,8 @@ export default {
     position: relative;
     height: 40vh;
     width: 100%;
-    background-image: url("~/assets/images/lightning_background_color.jpeg");
+    background-image: url("~/assets/images/adopting_bitcoin_el_zonte.jpg");
     background-size: cover;
+    background-position: center center;
   }
 </style>

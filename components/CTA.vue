@@ -1,8 +1,8 @@
 <template>
   <div class="cta-border p-1 rounded mx-0 my-5">
     <div class="bg-white">
-      <a href="#tickets" class="text-lg font-bold p-5 relative block">
-        GRAB YOUR TICKET NOW
+      <a :href="href" class="text-lg font-bold px-5 py-2 relative block">
+        <slot />
       </a>
     </div>
   </div>
@@ -11,7 +11,10 @@
 
 <script>
 export default {
-  name: 'CTA'
+  name: 'CTA',
+  props: [
+    'href'
+  ]
 }
 </script>
 

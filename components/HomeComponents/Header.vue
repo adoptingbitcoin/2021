@@ -1,20 +1,21 @@
 <template>
   <div class="header">
-    <div class="title-container container mx-auto p-3 px-4">
+    <Container class="title-container">
       <h1 class="text-3xl">Adopting Bitcoin</h1>
       <h5 class="text-2xl">A Lightning Summit in El Salvador</h5>
       <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
       <h5 class="text-2xl">16. - 18. November 2021</h5>
-      <CTA />
-    </div>
+      <CTA href="#tickets">GRAB YOUR TICKET NOW</CTA>
+    </Container>
   </div>
 </template>
 
 <script>
 import CTA from '~/components/CTA'
+import Container from '~/components/Container'
 export default {
   name: 'Header',
-  components: { CTA }
+  components: { Container, CTA }
 }
 </script>
 
@@ -30,7 +31,7 @@ export default {
     position: relative;
     height: 40vh;
     width: 100%;
-    background-image: url("~/assets/images/lightning_background_color.jpeg");
+    background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
     background-size: cover;
   }
 </style>

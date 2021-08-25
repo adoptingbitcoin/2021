@@ -1,5 +1,5 @@
 <template>
-  <div class="container mx-auto px-4 my-10">
+  <Container>
     <h2 class="text-3xl mb-5">
       Join the network in El Salvador!
     </h2>
@@ -10,12 +10,14 @@
       on Lightning, and general enthusiasts to form in-person connections with the largest group of Lightning builders and
       users, The Lightning Conference sets out to accelerate the growth of the network and drive adoption.
     </p>
-  </div>
+  </Container>
 </template>
 
 <script>
+import Container from '~/components/Container'
 export default {
-  name: 'JoinTheNetwork'
+  name: 'JoinTheNetwork',
+  components: { Container }
 }
 </script>
 

@@ -1,6 +1,6 @@
 <template>
-  <div class="background">
-    <div class="container mx-auto px-4 py-10">
+  <BGGrey>
+    <Container>
       <GradientHeader class="mx-auto">
         CONVENTION SCHEDULE
       </GradientHeader>
@@ -32,33 +32,23 @@
           <li>Party in El Tunco for the night</li>
         </ul>
       </div>
-    </div>
-  </div>
+    </Container>
+  </BGGrey>
 </template>
 
 <script>
+import GradientHeader from '~/components/GradientHeader'
+import Container from '~/components/Container'
+import BGGrey from '~/components/BGGrey'
 export default {
-  name: 'Schedule'
+  name: 'Schedule',
+  components: { BGGrey, Container, GradientHeader }
 }
 </script>
 
 <style scoped>
-.background::before{
-  background-image: url("~/assets/images/lightning_background_color.jpeg");
-  background-size: cover;
-  background-position: center center;
-  filter: grayscale(100%) brightness(270%);
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-  content: "";
-  z-index: -99999;
-}
-.background{
-  position: relative;
-}
-.scheduleDay{
+ul{
+  list-style: initial;
+  padding-left: 20pt;
 }
 </style>

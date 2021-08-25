@@ -7,6 +7,10 @@
     <NoBetterPlace />
     <Schedule />
     <Tickets />
+    <Sponsors />
+    <Locations />
+    <Subscribe />
+    <ContactUs></ContactUs>
   </div>
 </template>
 
@@ -18,8 +22,12 @@ import ComeJoinUs from '~/components/HomeComponents/ComeJoinUs'
 import NoBetterPlace from '~/components/HomeComponents/NoBetterPlace'
 import Schedule from '~/components/HomeComponents/Schedule'
 import Tickets from '~/components/HomeComponents/Tickets'
+import Sponsors from '~/components/HomeComponents/Sponsors'
+import Locations from '~/components/HomeComponents/Locations'
+import Subscribe from '~/components/HomeComponents/Subscribe'
+import ContactUs from '~/components/HomeComponents/ContactUs'
 export default {
-  components: { Tickets, Schedule, NoBetterPlace, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { ContactUs, Subscribe, Locations, Sponsors, Tickets, Schedule, NoBetterPlace, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'excerpt', 'img', 'slug'])
