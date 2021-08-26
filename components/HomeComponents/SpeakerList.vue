@@ -2,7 +2,7 @@
   <BGGrey class="pb-16">
     <Container>
       <GradientHeader class="mx-auto mb-10">
-        ANNOUNCED SPEAKERS
+        CONFIRMED SPEAKERS
       </GradientHeader>
       <div class="grid grid-cols-3 md:grid-cols-6  grid-flow-row gap-4">
         <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />

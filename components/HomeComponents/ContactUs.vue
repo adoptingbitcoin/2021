@@ -5,7 +5,7 @@
       <div class="my-10 mx-auto">
         <div class="my-5">
           <h5 class="font-bold text-2xl">
-            lightning summit
+            Adopting Bitcoin
           </h5>
           <p>
             4923 Market Street, Orlando FL
