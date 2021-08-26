@@ -1,6 +1,6 @@
 ---
 name: "Stephan Livera"
-excerpt: Podcaster and SwanBitcoin
+excerpt: Bitcoin Podcaster & Managing Director Swan International
 img: stephanlivera.jpg
 ---
 
