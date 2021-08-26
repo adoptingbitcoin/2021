@@ -1,14 +1,10 @@
 <template>
   <Container>
     <h2 class="text-3xl mb-5">
-      Join the network in El Salvador!
+      Join the Network in El Salvador!
     </h2>
     <p class="multicolumn">
-      The Lightning Conference is bringing together the Lightning community to build momentum and foster connections
-      for the future of the Lightning Network. This intimate gathering will include two days of renowned speakers,
-      engaging panels and a plentitude of project demos and hands-on workshops. Welcoming developers, businesses building
-      on Lightning, and general enthusiasts to form in-person connections with the largest group of Lightning builders and
-      users, The Lightning Conference sets out to accelerate the growth of the network and drive adoption.
+      The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic. This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!
     </p>
   </Container>
 </template>
