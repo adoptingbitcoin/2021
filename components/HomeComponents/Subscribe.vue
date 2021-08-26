@@ -1,5 +1,5 @@
 <template>
-  <BGGrey>
+  <BGGrey class="container mx-auto">
     <Container>
       <BlueTitle class="mx-auto text-center">
         Subscribe to the latest news!

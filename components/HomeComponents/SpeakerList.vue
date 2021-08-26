@@ -1,5 +1,5 @@
 <template>
-  <BGGrey>
+  <BGGrey class="container mx-auto">
     <Container>
       <GradientHeader class="mx-auto mb-10">
         ANNOUNCED SPEAKERS

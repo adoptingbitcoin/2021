@@ -1,5 +1,5 @@
 <template>
-  <BGColor>
+  <BGColor class="container mx-auto">
     <Container class="text-white">
       <h2 class="text-4xl font-bold text-white text-center">CONTACT US</h2>
       <div class="my-10 mx-auto">
