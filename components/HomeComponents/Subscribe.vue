@@ -1,19 +1,21 @@
 <template>
   <BGGrey class="container mx-auto">
     <Container>
-      <BlueTitle class="mx-auto text-center">
+      <BlueTitle class="">
         Subscribe to the latest news!
       </BlueTitle>
-
-      <div class="cta-border p-1 rounded mx-auto my-5 text-center">
-        <div class="bg-white px-5 py-2">
-          <input type="text" placeholder="ENTER YOUR EMAIL">
+      <div class="mx-auto" style="width: fit-content">
+        <div class="cta-border p-1 rounded mx-auto my-5 text-center inline-block">
+          <div class="bg-white px-5 py-2">
+            <input type="text" placeholder="ENTER YOUR EMAIL">
+          </div>
         </div>
+
+        <CTA class="mx-auto text-center inline-block " href="#">
+          YES SIGN ME UP!
+        </CTA>
       </div>
 
-      <CTA class="mx-auto text-center" href="#">
-        YES SIGN ME UP!
-      </CTA>
     </Container>
   </BGGrey>
 </template>

@@ -1,9 +1,9 @@
 <template>
   <Container id="tickets">
-    <GradientHeader class="mx-auto">
+    <GradientHeader class="">
       GRAB YOUR TICKET HERE
     </GradientHeader>
-    <p class="text-center text-xl my-5">
+    <p class="text-xl my-5">
       and get the <b>early-bird special</b> with an stunning <b>15% discount on all tickets</b> until 15 September.
     </p>
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">

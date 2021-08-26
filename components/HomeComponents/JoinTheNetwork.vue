@@ -1,8 +1,8 @@
 <template>
-  <Container>
-    <h2 class="text-3xl mb-5">
+  <Container class="mb-10">
+    <BlueTitle class="mb-5">
       Join the network in El Salvador!
-    </h2>
+    </BlueTitle>
     <p class="multicolumn">
       The Lightning Conference is bringing together the Lightning community to build momentum and foster connections
       for the future of the Lightning Network. This intimate gathering will include two days of renowned speakers,
@@ -15,9 +15,10 @@
 
 <script>
 import Container from '~/components/Container'
+import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'JoinTheNetwork',
-  components: { Container }
+  components: { BlueTitle, Container }
 }
 </script>
 
@@ -28,9 +29,9 @@ export default {
     -moz-column-count: 2;
     column-count: 2;
 
-    -webkit-column-gap: 20px;
-    -moz-column-gap: 20px;
-    column-gap: 20px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 50px;
+    column-gap: 50px;
 
   }
 }
