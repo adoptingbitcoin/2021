@@ -1,7 +1,7 @@
 ---
 name: "Alex Gladstein"
 excerpt: Human Rights Foundation
-img: alexgladstein.jpg
+img: alexgladstein.png
 ---
 
 # Alex Gladstein
