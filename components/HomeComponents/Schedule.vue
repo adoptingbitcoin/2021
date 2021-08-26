@@ -1,11 +1,11 @@
 <template>
-  <BGGrey class="container mx-auto">
+  <BGGrey class="pb-16">
     <Container>
-      <GradientHeader class="mx-auto mb-5">
+      <GradientHeader class="mb-10">
         CONVENTION SCHEDULE
       </GradientHeader>
 
-      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 grid-flow-row gap-10">
+      <div class="grid grid-cols-1 md:grid-cols-2 grid-flow-row gap-10">
         <div class="scheduleDay mx-auto">
           <h3 class="text-4xl text-blue">DAY 1</h3>
           <span class="font-bold">Tuesday 16, San Salvador</span>

@@ -1,7 +1,7 @@
 <template>
-  <BGGrey class="container mx-auto">
+  <BGGrey>
     <Container>
-      <GradientHeader class="mx-auto">
+      <GradientHeader class="">
         AMAZING SPONSORS
       </GradientHeader>
       <br><br><br>

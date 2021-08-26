@@ -1,9 +1,9 @@
 <template>
   <article class="p-3">
     <div class="image-border bg-red-400 rounded-full">
-      <img :src="computedImg" alt="" class="rounded-full object-cover p-1 md:p-2"/>
+      <img :src="computedImg" alt="" class="rounded-full object-cover p-1"/>
     </div>
-    <h2 class="text-lg font-semibold text-white my-2 text-center">
+    <h2 class="text-lg font-semibold text-blue my-2 text-center">
       {{ speaker.name }}
     </h2>
   </article>

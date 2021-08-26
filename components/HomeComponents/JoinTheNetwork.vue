@@ -1,8 +1,8 @@
 <template>
-  <Container>
-    <h2 class="text-3xl mb-5">
+  <Container class="mb-10">
+    <BlueTitle class="mb-5">
       Join the Network in El Salvador!
-    </h2>
+    </BlueTitle>
     <p class="multicolumn">
       The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic. This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!
     </p>
@@ -11,9 +11,10 @@
 
 <script>
 import Container from '~/components/Container'
+import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'JoinTheNetwork',
-  components: { Container }
+  components: { BlueTitle, Container }
 }
 </script>
 
@@ -24,9 +25,9 @@ export default {
     -moz-column-count: 2;
     column-count: 2;
 
-    -webkit-column-gap: 20px;
-    -moz-column-gap: 20px;
-    column-gap: 20px;
+    -webkit-column-gap: 50px;
+    -moz-column-gap: 50px;
+    column-gap: 50px;
 
   }
 }
