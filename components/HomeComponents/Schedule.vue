@@ -1,5 +1,5 @@
 <template>
-  <BGGrey class="container mx-auto">
+  <BGGrey class="">
     <Container>
       <GradientHeader class="mx-auto mb-5">
         CONVENTION SCHEDULE

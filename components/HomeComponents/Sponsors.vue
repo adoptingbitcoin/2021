@@ -1,5 +1,5 @@
 <template>
-  <BGGrey class="container mx-auto">
+  <BGGrey>
     <Container>
       <GradientHeader class="mx-auto">
         AMAZING SPONSORS
