@@ -35,7 +35,7 @@
         <a href="#">DISCLAIMER</a>
       </div>
       <div class="text-center md:text-left md:float-right my-5">
-        <a href="https://galoy.io/"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
+        <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
       </div>
       <div class="py-4"></div>
     </Container>
