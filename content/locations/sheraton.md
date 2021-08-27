@@ -1,6 +1,6 @@
 ---
-name: "Sheraton Presidente"
-description: "Re-energize at the pool, gather at the bar, and enjoy thoughtful service, like an airport shuttle-just steps from San Salvador‘s top shops."
+name: "Sheraton Presidente / San Salvador"
+description: "Re-energize at the pool, gather at the bar, and enjoy am excellent service. All of this is just a few steps away from San Salvador’s fabulous shops."
 img: adopting_bitcoin_el_presidente.jpg
 prio: 1
 ---
