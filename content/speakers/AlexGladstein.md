@@ -1,7 +1,7 @@
 ---
 name: "Alex <br>Gladstein"
 function: Human Rights Foundation
-img: alexgladstein.png
+img: alexgladstein.jpg
 ---
 
 # Alex Gladstein
