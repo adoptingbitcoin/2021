@@ -29,7 +29,7 @@
           <h3 class="text-2xl font-bold text-blue">DAY 3</h3>
           <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
           <ul>
-            <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>
+            <li>Meet the local people who started the bitcoin initiative <a href="https://twitter.com/bitcoinbeach" target="_blank">@BitcoinBeach</a></li>
             <li>Food court 10a - 6p in El Zonte</li>
             <li>Taproot Activation Party in El Tunco</li>
           </ul>

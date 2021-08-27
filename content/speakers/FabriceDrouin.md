@@ -1,5 +1,5 @@
 ---
-name: "Fabrice Drouin"
+name: "Fabrice <br>Drouin"
 function: ACINQ
 img: fabricedrouin.jpg
 ---

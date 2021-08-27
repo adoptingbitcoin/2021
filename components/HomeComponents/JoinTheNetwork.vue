@@ -1,11 +1,11 @@
 <template>
   <Container class="mb-10">
     <BlueTitle class="mb-5">
-      Join the Network in El Salvador!
+      Join the network in El Salvador!
     </BlueTitle>
     <p class="multicolumn">
-      The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic. 
-      This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!
+      The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic.
+      <br>This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!
     </p>
   </Container>
 </template>

@@ -1,5 +1,5 @@
 ---
-name: "Francis Pouliot"
+name: "Francis <br>Pouliot"
 function: Bull Bitcoin
 img: francispouliot.jpg
 ---

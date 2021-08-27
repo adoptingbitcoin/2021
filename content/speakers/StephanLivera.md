@@ -1,5 +1,5 @@
 ---
-name: "Stephan Livera"
+name: "Stephan <br> Livera"
 function: Bitcoin Podcaster & Swan International
 img: stephanlivera.png
 ---
