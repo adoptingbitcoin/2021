@@ -1,5 +1,5 @@
 ---
-name: "Alex Gladstein"
+name: "Alex <br>Gladstein"
 function: Human Rights Foundation
 img: alexgladstein.png
 ---

@@ -1,5 +1,5 @@
 ---
-name: "Bastien Teinturier"
+name: "Bastien <br>Teinturier"
 function: ACINQ
 img: bastienteinturier.jpg
 ---

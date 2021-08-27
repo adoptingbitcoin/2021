@@ -1,5 +1,5 @@
 ---
-name: "Romain Rouphael"
+name: "Romain <br>Rouphael"
 function: LN Markets
 img: romainrouphael.jpg
 ---

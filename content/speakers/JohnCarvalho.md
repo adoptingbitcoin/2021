@@ -1,5 +1,5 @@
 ---
-name: "John Carvalho"
+name: "John <br>Carvalho"
 function: The ₿iz
 img: johncarvalho.jpg
 ---

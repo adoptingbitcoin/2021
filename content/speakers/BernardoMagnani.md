@@ -1,5 +1,5 @@
 ---
-name: "Bernardo Magnani"
+name: "Bernardo <br>Magnani"
 function: Lastbit
 img: bernardomagnani.jpg
 ---

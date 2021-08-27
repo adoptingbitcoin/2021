@@ -1,5 +1,5 @@
 ---
-name: "Rodrigo Gómez"
+name: "Rodrigo <br>Gómez"
 function: Bitrefill
 img: rodrigogomez.jpg
 ---

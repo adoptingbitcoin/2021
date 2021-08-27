@@ -1,5 +1,5 @@
 ---
-name: "Alexander Leishman"
+name: "Alexander <br>Leishman"
 function: River Financial
 img: alexanderleishman.jpg
 ---

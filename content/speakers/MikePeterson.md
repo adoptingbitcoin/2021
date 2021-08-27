@@ -1,5 +1,5 @@
 ---
-name: "Mike Peterson"
+name: "Mike <br>Peterson"
 function: Bitcoin Beach
 img: mikepeterson.jpg
 ---
