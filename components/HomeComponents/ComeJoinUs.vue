@@ -3,7 +3,7 @@
     <div class="header">
       <Container><Logo class=""/></Container>
       <Container class="title-container">
-        <h5 class="text-2xl">“We are all equal before a wave.” (Laird Hamilton)</h5>
+        <h5 class="text-2xl">“We are all equal before a wave.” - Laird Hamilton</h5>
           <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
         <h5 class="text-lg md:text-2xl">16. - 18. November 2021</h5>
 <!--        <CTA href="#tickets">GET YOUR TICKET NOW</CTA>-->
