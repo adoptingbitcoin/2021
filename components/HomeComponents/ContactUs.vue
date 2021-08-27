@@ -10,7 +10,7 @@
           <p>
             Sheraton Presidente <br>
             Ave. La Revolucion, <br>
-            San Salvador El, Salvador
+            San Salvador, El Salvador
           </p>
         </div>
         <div class="my-5">
