@@ -9,13 +9,13 @@
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Basic
+          Early Bird
         </h5>
         <span>100 $</span>
       </a>
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Exclusive
+          Regular
         </h5>
         <span>200 $</span>
       </a>
@@ -38,10 +38,10 @@
 <!--      </div>-->
     </div>
     <BlueTitle class="mt-8">
-      Early Adopter
+      Early Adopters only
     </BlueTitle>
     <p class="mb-10">
-      Pay over the lightning network and get another <b>5% discount on all tickets.</b> Bitcoin onchain payment give you 2% discount.
+      Tickets for this event can be paid with bitcoin over Lightning only.
     </p>
   </Container>
 </template>
