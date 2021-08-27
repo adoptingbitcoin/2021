@@ -33,9 +33,10 @@
         <a href="#">PRIVACY POLICY</a><br>
         <a href="#">DISCLAIMER</a>
       </div>
-      <p class="text-center">
-        <span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span>
-      </p>
+      <div class="text-center md:text-left md:float-right my-5">
+        <a href="https://galoy.io/"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
+      </div>
+      <div class="py-4"></div>
     </Container>
   </BGColor>
 </template>

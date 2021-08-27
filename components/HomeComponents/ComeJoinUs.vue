@@ -1,6 +1,7 @@
 <template>
   <div class="container mx-auto">
     <div class="header">
+      <Logo class="absolute left-0 top-0 p-10"/>
       <Container class="title-container">
         <h5 class="text-2xl">Come join us in beautiful El Salvador</h5>
           <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>

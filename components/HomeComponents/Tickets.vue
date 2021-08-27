@@ -7,24 +7,35 @@
       and get the <b>early-bird special</b> with an stunning <b>15% discount on all tickets</b> until 15 September.
     </p>
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">
-      <div class="ticket ticket-1 p-10 text-center text-white">
+      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
         <h5 class="text-3xl">
           Basic
         </h5>
         <span>100 $</span>
-      </div>
-      <div class="ticket ticket-2 p-10 text-center text-white">
+      </a>
+      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-3xl">
           Exclusive
         </h5>
         <span>200 $</span>
-      </div>
-      <div class="ticket ticket-3 p-10 text-center text-white">
+      </a>
+
+      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-3 p-10 text-center text-white">
         <h5 class="text-3xl">
           VIP
         </h5>
         <span>500 $</span>
-      </div>
+      </a>
+<!--      <div class="ticket">-->
+<!--        <div class="pretix-widget-compat" event="https://pretix.eu/galoy/adoptingbitcoin/"></div>-->
+<!--        <noscript>-->
+<!--          <div class="pretix-widget">-->
+<!--            <div class="pretix-widget-info-message">-->
+<!--              JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/galoy/adoptingbitcoin/">click here</a>.-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </noscript>-->
+<!--      </div>-->
     </div>
     <BlueTitle class="mt-8">
       Early Adopter
