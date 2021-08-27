@@ -1,6 +1,6 @@
 ---
 name: "Nicolas <br>Burtey"
-function: galoy.io
+function: Galoy
 img: nicolasburtey.jpg
 ---
 
