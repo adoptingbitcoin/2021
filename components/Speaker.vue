@@ -3,9 +3,7 @@
     <div class="image-border bg-red-400 rounded-full">
       <img :src="computedImg" alt="" class="rounded-full object-cover p-1"/>
     </div>
-    <h2 class="text-lg font-semibold my-2 text-center">
-      {{ speaker.name }}
-    </h2>
+    <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
     <p class="text-xs italic text-center mx-auto">
       {{speaker.function}}
     </p>
