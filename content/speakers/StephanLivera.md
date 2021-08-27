@@ -1,7 +1,7 @@
 ---
 name: "Stephan <br> Livera"
 function: Bitcoin Podcaster & Swan International
-img: stephanlivera.png
+img: stephanlivera.jpg
 ---
 
 # Stephan Livera
