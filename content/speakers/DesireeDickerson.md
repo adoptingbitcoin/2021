@@ -1,7 +1,7 @@
 ---
 name: "Desiree Dickerson"
 function: Lightning Labs
-img: desireedickerson.png
+img: desireedickerson.jpg
 ---
 
 # Desiree Dickerson

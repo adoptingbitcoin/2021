@@ -1,7 +1,7 @@
 ---
 name: "Chase Perkins"
 function: Impervious.ai
-img: chaseperkins.png
+img: chaseperkins.jpg
 ---
 
 # Chase Perkins
