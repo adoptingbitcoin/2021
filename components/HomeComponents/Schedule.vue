@@ -1,7 +1,7 @@
 <template>
   <BGGrey class="pb-16">
     <Container>
-      <GradientHeader class="mb-10">
+      <GradientHeader class="mb-16">
         CONVENTION SCHEDULE
       </GradientHeader>
 

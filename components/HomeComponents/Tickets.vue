@@ -1,5 +1,5 @@
 <template>
-  <Container id="tickets">
+  <Container id="tickets py-16 mb-16">
     <GradientHeader class="">
       GET YOUR TICKET HERE
     </GradientHeader>
@@ -29,7 +29,7 @@
     <BlueTitle class="mt-8">
       Early Adopter
     </BlueTitle>
-    <p>
+    <p class="mb-10">
       Pay over the lightning network and get another <b>5% discount on all tickets.</b> Bitcoin onchain payment give you 2% discount.
     </p>
   </Container>

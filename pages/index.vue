@@ -6,7 +6,7 @@
     <ComeJoinUs />
     <Schedule />
     <Tickets />
-    <Sponsors />
+    <Sponsors :sponsors="sponsors" />
     <Locations :locations="locations" />
     <Subscribe />
     <ContactUs></ContactUs>
@@ -36,11 +36,16 @@ export default {
       .only(['name', 'description', 'img', 'slug'])
       .sortBy('prio', 'asc')
       .fetch()
-    console.log(locations)
+
+    const sponsors = await $content('sponsors', params.slug)
+      .only(['width', 'img', 'slug'])
+      .sortBy('width', 'desc')
+      .fetch()
 
     return {
       speakers,
-      locations
+      locations,
+      sponsors
     }
   }
 }
