@@ -1,7 +1,7 @@
 <template>
   <div class="my-5">
     <img :src="computedImg">
-    <BlueTitle>{{ location.name }}</BlueTitle>
+    <BlueTitle v-html="location.name"></BlueTitle>
     <p>
       {{ location.description }}
     </p>

@@ -1,5 +1,5 @@
 ---
-name: "Anthony Ronning"
+name: "Anthony <br>Ronning"
 function: Impervious.ai
 img: anthonyronning.jpg
 ---

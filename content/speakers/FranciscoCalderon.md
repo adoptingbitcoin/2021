@@ -1,5 +1,5 @@
 ---
-name: "Francisco Calderón"
+name: "Francisco <br>Calderón"
 function: Independent Software Engineer
 img: franciscocalderon.jpg
 ---
