@@ -8,10 +8,9 @@
             Adopting Bitcoin
           </h5>
           <p>
-            Sheraton Presidente San Salvador. <br>
+            Sheraton Presidente <br>
             Ave. La Revolucion, <br>
-            Col. San Benito, <br>
-            San Salvador El Salvador
+            San Salvador El, Salvador
           </p>
         </div>
         <div class="my-5">
