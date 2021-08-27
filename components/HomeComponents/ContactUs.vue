@@ -19,14 +19,14 @@
             adoptingbitcoin@galoy.io
           </a>
         </div>
-        <div class="my-5">
-          <h5 class="font-bold text-2xl">
-            Phone
-          </h5>
-          <p>
-            +1 (555) 902-8832
-          </p>
-        </div>
+<!--        <div class="my-5">-->
+<!--          <h5 class="font-bold text-2xl">-->
+<!--            Phone-->
+<!--          </h5>-->
+<!--          <p>-->
+<!--            +1 (555) 902-8832-->
+<!--          </p>-->
+<!--        </div>-->
       </div>
       <div class="py-16"></div>
 <!--      <div class="text-center md:text-left md:float-left my-5">-->
