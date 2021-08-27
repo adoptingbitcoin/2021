@@ -11,7 +11,7 @@
         <h5 class="text-lg md:text-2xl">A Lightning Summit in El Salvador</h5>
       </div>
       <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
-      <h5 class="text-lg md:text-2xl">16. - 18. November 2021</h5>
+      <h5 class="text-lg md:text-2xl">16 - 18 November 2021</h5>
 <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
     </Container>
   </div>
