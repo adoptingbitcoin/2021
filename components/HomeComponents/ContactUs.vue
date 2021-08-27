@@ -15,8 +15,8 @@
           <h5 class="font-bold text-2xl">
             Email
           </h5>
-          <a href="#">
-            info@adoptingbitcoin.org
+          <a href="mailto:adoptingbitcoin@galoy.io">
+            adoptingbitcoin@galoy.io
           </a>
         </div>
         <div class="my-5">
