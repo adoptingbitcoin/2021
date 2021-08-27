@@ -4,14 +4,14 @@
       <BlueTitle class="">
         Subscribe to the latest news!
       </BlueTitle>
-      <div class="mx-auto" style="width: fit-content">
-        <div class="cta-border p-1 rounded mx-auto my-5 text-center inline-block">
+      <div class="mx-auto">
+        <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
           <div class="bg-white px-5 py-2">
             <input type="text" placeholder="ENTER YOUR EMAIL">
           </div>
         </div>
 
-        <CTA class="mx-auto text-center inline-block " href="#">
+        <CTA class="mx-auto text-center w-100 md:inline-block md:w-auto" href="#">
           YES SIGN ME UP!
         </CTA>
       </div>
@@ -34,7 +34,6 @@ export default {
 <style scoped>
 .cta-border{
   background: linear-gradient(to right, red, blue);
-  width: fit-content;
   height: fit-content;
 }
 input{

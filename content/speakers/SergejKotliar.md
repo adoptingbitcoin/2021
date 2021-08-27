@@ -1,6 +1,6 @@
 ---
 name: "Sergej Kotliar"
-excerpt: CEO Bitrefill
+function: CEO Bitrefill
 img: sergejkotliar.jpg
 ---
 

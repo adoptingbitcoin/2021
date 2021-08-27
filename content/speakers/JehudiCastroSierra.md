@@ -1,6 +1,6 @@
 ---
 name: "Jehudi Castro Sierra"
-excerpt: Digital Transformation Advisor Republic of Colombia
+function: Digital Transformation Advisor Republic of Colombia
 img: jehudicastrosierra.png
 ---
 

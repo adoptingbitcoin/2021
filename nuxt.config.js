@@ -20,7 +20,12 @@ export default {
       { 'http-equiv': 'Pragma', content: 'no-cache'}
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
+      { rel: 'stylesheet', type: 'text/css', href: 'https://pretix.eu/galoy/adoptingbitcoin/widget/v1.css' }
+    ],
+    script: [
+      { src: 'https://pretix.eu/widget/v1.en.js', async: true, type: 'text/javascript' }
+
     ]
   },
   // Global CSS: https://go.nuxtjs.dev/config-css

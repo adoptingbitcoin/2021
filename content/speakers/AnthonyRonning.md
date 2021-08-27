@@ -1,6 +1,6 @@
 ---
 name: "Anthony Ronning"
-excerpt: Developer Impervious.ai
+function: Developer Impervious.ai
 img: anthonyronning.jpg
 ---
 

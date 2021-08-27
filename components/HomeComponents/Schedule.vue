@@ -7,7 +7,7 @@
 
       <div class="grid grid-cols-1 md:grid-cols-2 grid-flow-row gap-10">
         <div class="scheduleDay mx-auto">
-          <h3 class="text-4xl text-blue">DAY 1</h3>
+          <h3 class="text-2xl font-bold text-blue">DAY 1</h3>
           <span class="font-bold">Tuesday 16, San Salvador</span>
           <ul>
             <li>Lightning 101 Workshop</li>
@@ -16,7 +16,7 @@
           </ul>
         </div>
         <div class="scheduleDay mx-auto">
-          <h3 class="text-4xl text-blue">DAY 2</h3>
+          <h3 class="text-2xl font-bold text-blue">DAY 2</h3>
           <span class="font-bold">Wednesday 17, San Salvador</span>
           <ul>
             <li>Lightning 101 Workshop</li>
@@ -26,7 +26,7 @@
         </div>
 
         <div class="scheduleDay mx-auto">
-          <h3 class="text-4xl text-blue">DAY 3</h3>
+          <h3 class="text-2xl font-bold text-blue">DAY 3</h3>
           <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
           <ul>
             <li>Meet the local people who started the bitcoin initiative @BitcoinBeach</li>

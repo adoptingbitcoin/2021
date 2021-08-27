@@ -1,6 +1,6 @@
 ---
 name: "Francisco Calderón"
-excerpt: Software Engineer
+function: Software Engineer
 img: franciscocalderon.jpg
 ---
 

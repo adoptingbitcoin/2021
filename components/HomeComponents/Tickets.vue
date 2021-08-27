@@ -25,6 +25,16 @@
         </h5>
         <span>500 $</span>
       </div>
+<!--      <div class="ticket">-->
+<!--        <div class="pretix-widget-compat" event="https://pretix.eu/galoy/adoptingbitcoin/"></div>-->
+<!--        <noscript>-->
+<!--          <div class="pretix-widget">-->
+<!--            <div class="pretix-widget-info-message">-->
+<!--              JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/galoy/adoptingbitcoin/">click here</a>.-->
+<!--            </div>-->
+<!--          </div>-->
+<!--        </noscript>-->
+<!--      </div>-->
     </div>
     <BlueTitle class="mt-8">
       Early Adopter

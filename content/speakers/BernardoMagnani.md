@@ -1,6 +1,6 @@
 ---
 name: "Bernardo Magnani"
-excerpt: Co-Founder Lastbit
+function: Co-Founder Lastbit
 img: bernardomagnani.jpg
 ---
 

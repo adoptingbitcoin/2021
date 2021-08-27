@@ -6,15 +6,6 @@
     <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4">
       <Location v-for="(location, i) in locations" :key="i" :index="i" :location="location" />
     </div>
-
-    <GradientHeader class="mb-5">
-      DIRECTIONS
-    </GradientHeader>
-    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4">
-      <div class="">
-        <img src="" alt="">
-      </div>
-    </div>
   </Container>
 </template>
 

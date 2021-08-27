@@ -1,6 +1,6 @@
 ---
 name: "Mike Peterson"
-excerpt: Director Bitcoin Beach
+function: Director Bitcoin Beach
 img: mikepeterson.jpg
 ---
 

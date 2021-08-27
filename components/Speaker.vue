@@ -3,9 +3,12 @@
     <div class="image-border bg-red-400 rounded-full">
       <img :src="computedImg" alt="" class="rounded-full object-cover p-1"/>
     </div>
-    <h2 class="text-lg font-semibold text-blue my-2 text-center">
+    <h2 class="text-lg font-semibold my-2 text-center">
       {{ speaker.name }}
     </h2>
+    <p class="text-xs italic text-center mx-auto">
+      {{speaker.function}}
+    </p>
   </article>
 </template>
 
@@ -28,6 +31,9 @@ export default {
 </script>
 
 <style scoped>
+h2{
+  line-height: 100%;
+}
 article{
   filter: none;
 }

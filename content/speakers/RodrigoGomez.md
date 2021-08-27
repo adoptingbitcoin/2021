@@ -1,6 +1,6 @@
 ---
 name: "Rodrigo Gómez"
-excerpt: Country Manager Bitrefill
+function: Country Manager Bitrefill
 img: rodrigogomez.jpg
 ---
 

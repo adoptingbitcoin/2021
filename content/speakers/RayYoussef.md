@@ -1,6 +1,6 @@
 ---
 name: "Ray Youssef"
-excerpt: CEO Paxful
+function: CEO Paxful
 img: rayyoussef.jpg
 ---
 
