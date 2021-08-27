@@ -14,4 +14,9 @@ img{
   height: auto;
   display: inline;
 }
+@media (max-width: 768px) {
+  img{
+    width: 100px;
+  }
+}
 </style>
