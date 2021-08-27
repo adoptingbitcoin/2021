@@ -1,6 +1,6 @@
 ---
 name: "Romain Rouphael"
-function: Co-Founder ITŌ / LN Markets
+function: LN Markets
 img: romainrouphael.jpg
 ---
 

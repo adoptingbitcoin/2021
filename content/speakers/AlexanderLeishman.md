@@ -1,6 +1,6 @@
 ---
 name: "Alexander Leishman"
-function: CEO River Financial
+function: River Financial
 img: alexanderleishman.jpg
 ---
 

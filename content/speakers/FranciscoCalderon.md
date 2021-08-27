@@ -1,6 +1,6 @@
 ---
 name: "Francisco Calderón"
-function: Software Engineer
+function: Independent Software Engineer
 img: franciscocalderon.jpg
 ---
 

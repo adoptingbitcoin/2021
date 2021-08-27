@@ -1,6 +1,6 @@
 ---
 name: "Francis Pouliot"
-function: CEO Bull Bitcoin
+function: Bull Bitcoin
 img: francispouliot.jpg
 ---
 

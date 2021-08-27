@@ -1,10 +1,10 @@
 ---
-name: "Anthony Ronning"
+name: "Chase Perkins"
 function: Impervious.ai
-img: anthonyronning.jpg
+img: chaseperkins.png
 ---
 
-# Anthony Ronning
+# Chase Perkins
  
 Blablablablablablablabla
 blablablabla

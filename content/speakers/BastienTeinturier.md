@@ -1,6 +1,6 @@
 ---
 name: "Bastien Teinturier"
-function: Developer ACINQ
+function: ACINQ
 img: bastienteinturier.jpg
 ---
 

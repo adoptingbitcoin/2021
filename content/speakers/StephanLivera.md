@@ -1,6 +1,6 @@
 ---
 name: "Stephan Livera"
-function: Bitcoin Podcaster & Managing Director Swan International
+function: Bitcoin Podcaster & Swan International
 img: stephanlivera.png
 ---
 

@@ -1,6 +1,6 @@
 ---
 name: "Fabrice Drouin"
-function: Developer ACINQ
+function: ACINQ
 img: fabricedrouin.jpg
 ---
 
