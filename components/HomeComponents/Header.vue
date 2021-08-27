@@ -1,7 +1,8 @@
 <template>
   <div class="header">
-    <Logo class="absolute left-0 top-0 p-10"/>
+    <Container><Logo/></Container>
     <Container class="title-container">
+
       <h1 class="text-3xl md:text-5xl">Adopting Bitcoin</h1>
       <h5 class="text-lg md:text-2xl">A Lightning Summit in El Salvador</h5>
       <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
