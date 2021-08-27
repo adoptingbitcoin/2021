@@ -5,8 +5,8 @@
     <SpeakerList :speakers="speakers" />
     <ComeJoinUs />
     <Schedule />
-    <Tickets />
-    <Sponsors :sponsors="sponsors" />
+<!--    <Tickets />-->
+<!--    <Sponsors :sponsors="sponsors" />-->
     <Locations :locations="locations" />
     <Subscribe />
     <ContactUs></ContactUs>
@@ -19,13 +19,11 @@ import Header from '~/components/HomeComponents/Header'
 import SpeakerList from '~/components/HomeComponents/SpeakerList'
 import ComeJoinUs from '~/components/HomeComponents/ComeJoinUs'
 import Schedule from '~/components/HomeComponents/Schedule'
-import Tickets from '~/components/HomeComponents/Tickets'
-import Sponsors from '~/components/HomeComponents/Sponsors'
 import Locations from '~/components/HomeComponents/Locations'
 import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
 export default {
-  components: { ContactUs, Subscribe, Locations, Sponsors, Tickets, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])

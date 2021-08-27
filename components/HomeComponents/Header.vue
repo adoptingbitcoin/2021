@@ -12,19 +12,17 @@
       </div>
       <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
       <h5 class="text-lg md:text-2xl">16. - 18. November 2021</h5>
-      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>
-
+<!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
     </Container>
   </div>
 </template>
 
 <script>
-import CTA from '~/components/CTA'
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
 export default {
   name: 'Header',
-  components: { Logo, Container, CTA }
+  components: { Logo, Container }
 }
 </script>
 
