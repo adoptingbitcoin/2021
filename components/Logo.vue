@@ -12,5 +12,6 @@ export default {
 img{
   width: 150px;
   height: auto;
+  display: inline;
 }
 </style>

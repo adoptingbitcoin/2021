@@ -44,7 +44,15 @@ import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'Subscribe',
-  components: { BlueTitle, Container, BGGrey, MailchimpSubscribe }
+  components: { BlueTitle, Container, BGGrey, MailchimpSubscribe },
+  methods: {
+    onError () {
+      console.log('Error subscribing to Newsletter!')
+    },
+    onSuccess () {
+      console.log('Successfully Subscribed to Newsletter!')
+    }
+  }
 }
 </script>
 
