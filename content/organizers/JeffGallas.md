@@ -1,6 +1,6 @@
 ---
 name: "Jeff <br>Gallas"
-function: organization
+function: Fulmo
 img: jeffgallas.png
 social: https://twitter.com/fulmolightning
 prio: 4

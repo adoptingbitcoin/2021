@@ -1,6 +1,6 @@
 ---
 name: "Fodé <br>Diop"
-function: organization
+function: Global Mesh Networks
 img: fodediop2.png
 social: https://twitter.com/diopfode
 prio: 3
