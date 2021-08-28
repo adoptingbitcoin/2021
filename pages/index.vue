@@ -8,6 +8,7 @@
 <!--    <Tickets />-->
 <!--    <Sponsors :sponsors="sponsors" />-->
     <Locations :locations="locations" />
+    <OrganizerList :speakers="organizers" />
     <Subscribe />
     <ContactUs></ContactUs>
   </div>
@@ -22,12 +23,18 @@ import Schedule from '~/components/HomeComponents/Schedule'
 import Locations from '~/components/HomeComponents/Locations'
 import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
+import OrganizerList from '~/components/HomeComponents/OrganizerList'
 export default {
-  components: { ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])
-      .sortBy('createdAt', 'desc')
+      .sortBy('prio', 'asc')
+      .fetch()
+
+    const organizers = await $content('organizers', params.slug)
+      .only(['name', 'function', 'social', 'img', 'slug'])
+      .sortBy('prio', 'asc')
       .fetch()
 
     const locations = await $content('locations', params.slug)
@@ -42,6 +49,7 @@ export default {
 
     return {
       speakers,
+      organizers,
       locations,
       sponsors
     }
