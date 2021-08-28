@@ -1,6 +1,6 @@
 ---
 name: "Bitcoin Beach <br> El Zonte"
-description: "El Zonte is our favorite town in El Salvador. Beautiful beaches, great surfing, Yoga, amazing restaurants, friendly people and of course, plenty of places to spend your sats."
+description: "Our favorite town in El Salvador: Beautiful beaches, great surfing, amazing restaurants, friendly people and of course, the place where the adoption of Bitcoin in the country was pioneered."
 img: adopting_bitcoin_el_zonte_beach.jpg
 prio: 2
 ---
