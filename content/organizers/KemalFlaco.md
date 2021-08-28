@@ -1,6 +1,6 @@
 ---
 name: "Kemal <br>Flaco"
-function: communication
+function: ideasarelikeflames.com
 img: kemalflaco.jpg
 social: https://twitter.com/_pretyflaco
 prio: 8
