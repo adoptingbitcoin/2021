@@ -2,7 +2,7 @@
   <BGGrey class="pb-16">
     <Container>
       <GradientHeader class="mb-10">
-        ORGANIZATION TEAM
+        ORGANIZERS
       </GradientHeader>
       <div class="grid grid-cols-2 md:grid-cols-6  grid-flow-row gap-4">
         <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" :speaker-href="speaker.social"/>
