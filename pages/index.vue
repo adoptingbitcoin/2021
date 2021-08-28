@@ -29,12 +29,12 @@ export default {
   async asyncData ({ $content, params }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])
-      .sortBy('createdAt', 'desc')
+      .sortBy('prio', 'asc')
       .fetch()
 
     const organizers = await $content('organizers', params.slug)
-      .only(['name', 'function', 'img', 'slug'])
-      .sortBy('createdAt', 'desc')
+      .only(['name', 'function', 'social', 'img', 'slug'])
+      .sortBy('prio', 'asc')
       .fetch()
 
     const locations = await $content('locations', params.slug)

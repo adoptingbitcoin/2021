@@ -1,12 +1,14 @@
 <template>
   <article class="p-3">
-    <div class="image-border bg-red-400 rounded-full">
-      <img :src="computedImg" alt="" class="rounded-full object-cover p-1"/>
-    </div>
-    <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
-    <p class="text-xs italic text-center mx-auto">
-      {{speaker.function}}
-    </p>
+    <a :href="speakerHref" target="_blank">
+      <div class="image-border bg-red-400 rounded-full">
+        <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
+      </div>
+      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
+      <p class="text-xs italic text-center mx-auto">
+        {{ speaker.function }}
+      </p>
+    </a>
   </article>
 </template>
 
@@ -14,7 +16,8 @@
 export default {
   name: 'Speaker',
   props: {
-    speaker: Object
+    speaker: Object,
+    speakerHref: String
   },
   computed: {
     computedImg () {

@@ -1,5 +1,5 @@
 <template>
-  <BGGrey class="container mx-auto">
+  <div class="container mx-auto">
     <Container>
       <BlueTitle class="">
         Subscribe to the latest news!
@@ -34,17 +34,16 @@
       </div>
 
     </Container>
-  </BGGrey>
+  </div>
 </template>
 
 <script>
 import MailchimpSubscribe from 'vue-mailchimp-subscribe'
-import BGGrey from '~/components/BGGrey'
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'Subscribe',
-  components: { BlueTitle, Container, BGGrey, MailchimpSubscribe },
+  components: { BlueTitle, Container, MailchimpSubscribe },
   methods: {
     onError () {
       console.log('Error subscribing to Newsletter!')
