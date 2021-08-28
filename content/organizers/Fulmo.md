@@ -1,5 +1,5 @@
 ---
-name: "Fulmo "
+name: "Fulmo <br>"
 function: organization
 img: fulmo.jpg
 social: https://fulmo.org/
