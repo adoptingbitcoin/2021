@@ -1,7 +1,7 @@
 ---
 name: "Jeff <br>Gallas"
 function: 
-img: jeffgallas.jpg
+img: jeffgallas.png
 social: https://twitter.com/fulmolightning
 ---
 
