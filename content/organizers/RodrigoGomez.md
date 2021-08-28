@@ -1,6 +1,6 @@
 ---
 name: "Rodrigo <br>Gómez"
-function: organization
+function: Bitrefill
 img: rodrigogomez.jpg
 social: https://twitter.com/rodcostas
 prio: 6

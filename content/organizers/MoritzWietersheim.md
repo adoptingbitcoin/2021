@@ -1,6 +1,6 @@
 ---
 name: "Moritz <br>Wietersheim"
-function: organization
+function: Specter
 img: moritzwietersheim.jpg
 social: https://twitter.com/MWietersheim
 prio: 7

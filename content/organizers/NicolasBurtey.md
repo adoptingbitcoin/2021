@@ -1,6 +1,6 @@
 ---
 name: "Nicolas <br>Burtey"
-function: Galoy
+function: Galoy / Co-host
 img: nicolasburtey.jpg
 social: https://twitter.com/nicolasburtey
 prio: 1
