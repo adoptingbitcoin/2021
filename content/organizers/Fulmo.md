@@ -3,7 +3,7 @@ name: "Fulmo "
 function: organization
 img: fulmo.jpg
 social: https://fulmo.org/
-prio: 7
+prio: 8
 ---
 
 # Fulmo
