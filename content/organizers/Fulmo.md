@@ -1,6 +1,6 @@
 ---
 name: "Fulmo "
-function: 
+function: organization
 img: fulmo.jpg
 social: https://fulmo.org/
 prio: 7
