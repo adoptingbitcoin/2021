@@ -12,7 +12,7 @@
       <div class="cta-border-grey p-1 rounded mx-auto my-10 text-center w-auto">
         <div class="bg-white">
           <button id="mc-embedded-subscribe" class="cursor-pointer px-5 py-2" @click="toggleSpeakerSignup">
-            CALL FOR PARTICIPATION
+            {{ $t('speakers.callforparticipation')}}
           </button>
         </div>
       </div>

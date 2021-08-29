@@ -31,7 +31,18 @@
     "day3list": "<li>Meet the local people who started the bitcoin initiative <a href=\"https://twitter.com/bitcoinbeach\" target=\"_blank\">@BitcoinBeach</a></li> <li>Food court 10a - 6p in El Zonte</li> <li>Taproot Activation Party in El Tunco</li>"
   },
   "speakers": {
-    "title": "SPEAKERS"
+    "title": "SPEAKERS",
+    "callforparticipation": "CALL FOR PARTICIPATION",
+    "signup": {
+      "talkdetails": "TALK DETAILS",
+      "talktitle": "TALK TITLE",
+      "twitter": "TWITTER",
+      "github": "GITHUB",
+      "motivation": "MOTIVATION",
+      "contactemail": "CONTACT EMAIL",
+      "company": "COMPANY",
+      "submit": "LETS PUSH THINGS FORWARD"
+    }
   },
   "sponsors": {
     "title": "AMAZING SPONSORS"

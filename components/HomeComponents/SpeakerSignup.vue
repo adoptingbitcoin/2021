@@ -1,6 +1,6 @@
 <template>
   <Container>
-    <BlueTitle>Call for Participation</BlueTitle>
+    <BlueTitle>{{ $t('speakers.callforparticipation') }}</BlueTitle>
 
     <div class="mx-auto">
       <!-- Begin Mailchimp Signup Form -->
@@ -17,31 +17,31 @@
             <div class="grid grid-cols-1 md:grid-cols-3  grid-flow-row gap-4 ">
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-TALKTITLE" type="text" placeholder="TALK TITLE" name="TALKTITLE" required >
+                  <input id="mce-TALKTITLE" type="text" :placeholder="$t('speakers.signup.talktitle')" name="TALKTITLE" required >
                 </div>
               </div>
 
               <div class="md:col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" required placeholder="TALK DETAILS" />
+                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" required :placeholder="$t('speakers.signup.talkdetails')" />
                 </div>
               </div>
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-TWITTER" type="text" placeholder="TWITTER" name="TWITTER" class="">
+                  <input id="mce-TWITTER" type="text" :placeholder="$t('speakers.signup.twitter')" name="TWITTER" class="">
                 </div>
               </div>
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-GITHUB" type="text" placeholder="GITHUB" name="GITHUB" class="">
+                  <input id="mce-GITHUB" type="text" :placeholder="$t('speakers.signup.github')" name="GITHUB" class="">
                 </div>
               </div>
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100 md:col-span-2">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-MOTIVATION" type="text" placeholder="MOTIVATION" name="MOTIVATION" class="">
+                  <input id="mce-MOTIVATION" type="text" :placeholder="$t('speakers.signup.motivation')" name="MOTIVATION" class="">
                 </div>
               </div>
 
@@ -73,13 +73,13 @@
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-EMAIL" type="email" placeholder="CONTACT EMAIL" name="EMAIL" required>
+                  <input id="mce-EMAIL" type="email" :placeholder="$t('speakers.signup.contactemail')" name="EMAIL" required>
                 </div>
               </div>
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-COMPANY" type="text" placeholder="COMPANY" name="COMPANY" class="">
+                  <input id="mce-COMPANY" type="text" :placeholder="$t('speakers.signup.company')" name="COMPANY" class="">
                 </div>
               </div>
             </div>
@@ -91,7 +91,7 @@
 
             <div class="cta-border p-1 rounded mx-auto my-10 text-center w-100">
               <div class="bg-white">
-                <input id="mc-embedded-subscribe" type="submit" value="LETS PUSH THINGS FORWARD" class="cursor-pointer px-5 py-2">
+                <input id="mc-embedded-subscribe" type="submit" :value="$t('speakers.signup.submit')" class="cursor-pointer px-5 py-2">
               </div>
             </div>
           </div>
