@@ -1,9 +1,9 @@
 ---
 name: "Fulmo <br><br>"
-function: organization
+function: Fulmo  
 img: fulmo.jpg
 social: https://fulmo.org/
-prio: 5
+prio: 4
 ---
 
 # Fulmo
