@@ -3,6 +3,7 @@
     <Header />
     <JoinTheNetwork />
     <SpeakerList :speakers="speakers" />
+    <SpeakerSignup />
     <ComeJoinUs />
     <Schedule />
 <!--    <Tickets />-->
@@ -24,8 +25,9 @@ import Locations from '~/components/HomeComponents/Locations'
 import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
+import SpeakerSignup from '~/components/HomeComponents/SpeakerSignup'
 export default {
-  components: { OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { SpeakerSignup, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])

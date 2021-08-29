@@ -1,136 +1,127 @@
 <template>
   <Container>
-    <form action="https://space.us5.list-manage.com/subscribe/post" method="POST">
-      <input type="hidden" name="u" value="625da9c0dc52c7b96a2dffdbe">
-      <input type="hidden" name="id" value="bcae950e07">
+    <BlueTitle>Call for Participation</BlueTitle>
 
+    <div class="mx-auto">
+      <!-- Begin Mailchimp Signup Form -->
+      <div id="mc_embed_signup">
+        <form
+          id="mc-embedded-subscribe-form"
+          action="https://space.us5.list-manage.com/subscribe/post?u=625da9c0dc52c7b96a2dffdbe&amp;id=96b79303ff"
+          method="post"
+          name="mc-embedded-subscribe-form"
+          class="validate"
+          target="_blank"
+          novalidate
+        >
+          <div id="mc_embed_signup_scroll">
+            <div class="grid grid-cols-1 md:grid-cols-3  grid-flow-row gap-4 ">
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-TALKTITLE" type="text" placeholder="TALK TITLE" name="TALKTITLE" class="">
+                </div>
+              </div>
 
-      <!-- people should not fill these in and expect good things -->
-      <div class="field-shift" aria-label="Please leave the following three fields empty">
-        <label for="b_name">Name: </label>
-        <input type="text" name="b_name" tabindex="-1" value="" placeholder="Freddie" id="b_name">
+              <div class="col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" placeholder="TALK DETAILS" />
+                </div>
+              </div>
 
-        <label for="b_email">Email: </label>
-        <input type="email" name="b_email" tabindex="-1" value="" placeholder="youremail@gmail.com" id="b_email">
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-TWITTER" type="text" placeholder="TWITTER" name="TWITTER" class="">
+                </div>
+              </div>
 
-        <label for="b_comment">Comment: </label>
-        <textarea name="b_comment" tabindex="-1" placeholder="Please comment" id="b_comment"></textarea>
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-GITHUB" type="text" placeholder="GITHUB" name="GITHUB" class="">
+                </div>
+              </div>
+
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100 col-span-2">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-MOTIVATION" type="text" placeholder="MOTIVATION" name="MOTIVATION" class="">
+                </div>
+              </div>
+
+              <div class="grid grid-cols-2 gap-4">
+                <div class="p-1 rounded  text-center w-100 h-100">
+                  <div class="bg-white px-5 py-2">
+                    <input
+                      id="mce-LANG-0"
+                      type="radio"
+                      value="English"
+                      name="LANG"
+                      checked
+                    ><label for="mce-LANG-0" class="px-1">English</label>
+                  </div>
+                </div>
+                <div class="p-1 rounded  text-center w-100 h-100">
+                  <div class="bg-white px-5 py-2">
+                    <input id="mce-LANG-1" type="radio" value="Español" name="LANG"><label for="mce-LANG-1" class="px-1">Español</label>
+                  </div>
+                </div>
+              </div>
+
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-EMAIL" type="email" placeholder="CONTACT EMAIL" name="EMAIL" class="required email">
+                </div>
+              </div>
+
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
+                <div class="bg-white px-5 py-2">
+                  <input id="mce-COMPANY" type="text" placeholder="COMPANY" name="COMPANY" class="">
+                </div>
+              </div>
+            </div>
+
+            <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+            <div style="position: absolute; left: -5000px;" aria-hidden="true">
+              <input type="text" name="b_625da9c0dc52c7b96a2dffdbe_96b79303ff" tabindex="-1" value="">
+            </div>
+
+            <div class="cta-border p-1 rounded mx-auto my-10 text-center w-100">
+              <div class="bg-white">
+                <input id="mc-embedded-subscribe" type="submit" value="LETS PUSH THINGS FORWARD" class="cursor-pointer px-5 py-2">
+              </div>
+            </div>
+          </div>
+        </form>
       </div>
-
-      <div id="mergeTable" class="mergeTable">
-
-
-        <div class="mergeRow dojoDndItem mergeRow-email" id="mergeRow-0">
-          <label for="MERGE0">Contact Email <span class="req asterisk">*</span></label>
-          <div class="field-group">
-            <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-1">
-          <label for="MERGE1">Talk Title</label>
-          <div class="field-group">
-            <input type="text" name="MERGE1" id="MERGE1" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-7">
-          <label for="MERGE7">COMPANY</label>
-          <div class="field-group">
-            <input type="text" name="MERGE7" id="MERGE7" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-2">
-          <label for="MERGE2">Twitter</label>
-          <div class="field-group">
-            <input type="text" name="MERGE2" id="MERGE2" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-3">
-          <label for="MERGE3">Github Account</label>
-          <div class="field-group">
-            <input type="text" name="MERGE3" id="MERGE3" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-text" id="mergeRow-4">
-          <label for="MERGE4">Motivation</label>
-          <div class="field-group">
-            <input type="text" name="MERGE4" id="MERGE4" size="25" value="">
-
-
-          </div>
-
-        </div>
-
-
-
-        <div class="mergeRow dojoDndItem mergeRow-radio" id="mergeRow-5">
-          <label for="MERGE5">Language</label>
-          <div class="field-group">
-            <div class="interestgroup_field radio-group" id="MERGE5"> <label class="radio" for="MERGE5-0"><input type="radio" data-dojo-type="dijit/form/RadioButton" name="MERGE5" id="MERGE5-0" value="English"  class="av-radio"><span>English</span></label><label class="radio" for="MERGE5-1"><input type="radio" data-dojo-type="dijit/form/RadioButton" name="MERGE5" id="MERGE5-1" value="Espanol"  class="av-radio"><span>Espanol</span></label> </div>
-
-
-
-
-          </div>
-
-        </div>
-
-
-
-
-
-
-
-
-
-      </div>
-
-      <div class="submit_container clear">
-        <input type="submit" class="formEmailButton" name="submit" value="Subscribe">
-      </div>
-      <input type="hidden" name="ht" value="504d73d95d354b560499e91e788d2402dca9fcdf:MTYzMDIyNTQwMS4yOTQ5">
-      <input type="hidden" name="mc_signupsource" value="hosted">
-    </form>
+      <!--End mc_embed_signup-->
+    </div>
   </Container>
 </template>
 
 <script>
 import Container from '~/components/Container'
+import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'SpeakerSignup',
-  components: { Container }
+  components: { BlueTitle, Container }
 }
 </script>
 
 <style scoped>
-
+.cta-border{
+  background: linear-gradient(to right, red, blue);
+  height: fit-content;
+}.cta-border-grey{
+   background: darkgrey;
+   height: fit-content;
+ }
+input:not([type="radio"]), textarea{
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+input:focus, textarea:focus{
+  outline: none;
+}
+input{
+  background: none;
+}
 </style>
