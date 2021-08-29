@@ -26,7 +26,7 @@ import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 export default {
   components: { OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
-  async asyncData ({ $content, params }) {
+  async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])
       .sortBy('prio', 'asc')
@@ -39,6 +39,7 @@ export default {
 
     const locations = await $content('locations', params.slug)
       .only(['name', 'description', 'img', 'slug'])
+      .where({ language: i18n.locale })
       .sortBy('prio', 'asc')
       .fetch()
 
