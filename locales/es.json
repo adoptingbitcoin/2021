@@ -57,7 +57,8 @@
     "enteremail": "Escribe tu correo"
   },
   "contactus": {
-    "title": "CONTÁCTANOS"
+    "title": "CONTÁCTANOS",
+    "proceeds": "Todos los ingresos de la conferencia serán donados al desarrollo de Lightning Network."
   },
   "tickets": {
     "title": "OBTÉN TU BOLETO AQUÍ",

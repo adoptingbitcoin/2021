@@ -8,13 +8,13 @@
     </p>
     <div class="grid grid-cols-1 lg:grid-cols-2  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
-        <h5 class="text-3xl">
+        <h5 class="text-2xl">
           {{ $t('tickets.ticket1') }}
         </h5>
         <span>{{ $t('tickets.ticket1Price') }}</span>
       </a>
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
-        <h5 class="text-3xl">
+        <h5 class="text-2xl">
           {{ $t('tickets.ticket2') }}
         </h5>
         <span>{{ $t('tickets.ticket2Price') }}</span>
