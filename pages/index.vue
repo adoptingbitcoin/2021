@@ -76,7 +76,17 @@ export default {
         {
           hid: 'og:title',
           name: 'og:title',
-          content: this.$t('seo.description')
+          content: this.$t('seo.title')
+        },
+        {
+          hid: 'og:url',
+          name: 'og:url',
+          content: 'https://adoptingbitcoin.reichart.xyz'
+        },
+        {
+          hid: 'og:type',
+          name: 'og:type',
+          content: 'website'
         },
         {
           hid: 'og:description',
