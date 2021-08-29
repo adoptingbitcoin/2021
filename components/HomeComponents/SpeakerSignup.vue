@@ -108,7 +108,7 @@
       <!--End mc_embed_signup-->
       <iframe
         src="https://docs.google.com/forms/d/e/1FAIpQLSf1jR7R2By3yts1R_lD7Bqu3Pm_U7WWB3A10O429dF3del5gg/viewform?embedded=true"
-        width="640px"
+        width="100%"
         height="1519px"
         class="mx-auto"
         >Loading…</iframe>
