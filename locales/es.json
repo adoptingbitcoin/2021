@@ -60,16 +60,16 @@
     "title": "CONTÁCTANOS"
   },
   "tickets": {
-    "title": "GET YOUR TICKET HERE",
-    "ticket1": "Early Bird",
+    "title": "OBTÉN TU BOLETO AQUÍ",
+    "ticket1": "Descuento de preventa",
     "ticket1Price": "$150",
-    "ticket2": "Regular",
+    "ticket2": "Normal",
     "ticket2Price": "$300",
-    "ticket3": "Speaker",
-    "ticket3Price": "with voucher only",
+    "ticket3": "Ponente ",
+    "ticket3Price": "con el voucher",
     "earlyAdopters": {
-      "title": "Early Adopters only",
-      "text": "Tickets for this event can be paid with bitcoin over Lightning only."
+      "title": "Solo para los primeros adoptadores",
+      "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
     }
   }
 }
