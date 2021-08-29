@@ -25,7 +25,7 @@
                   <button type="submit">{{ $t('subscribe.signup') }}</button>
                 </div>
               </div>
-              <div v-if="error">{{ error }}</div>
+              <div v-if="error" v-html="error"></div>
               <div v-if="success">Yay!</div>
               <div v-if="loading">Loading…</div>
             </form>
