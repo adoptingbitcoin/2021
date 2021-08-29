@@ -24,7 +24,7 @@
         <h5 class="text-3xl">
           Speaker
         </h5>
-        <span>free (with voucher)</span>
+        <span>with voucher only</span>
       </a>
     </div>
     <BlueTitle class="mt-8">
