@@ -115,7 +115,8 @@ export default {
 .cta-border{
   background: linear-gradient(to right, red, blue);
   height: fit-content;
-}.cta-border-grey{
+}
+.cta-border-grey{
    background: darkgrey;
    height: fit-content;
  }
