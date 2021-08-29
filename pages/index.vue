@@ -72,7 +72,7 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: 'https://adoptingbitcoin.reichart.xyz/adopting_bitcoin_meta_preview_q.jpg'
+          content: 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
         },
         {
           hid: 'og:title',
@@ -82,7 +82,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: 'https://adoptingbitcoin.reichart.xyz'
+          content: 'https://adoptingbitcoin.org'
         },
         {
           hid: 'og:type',
