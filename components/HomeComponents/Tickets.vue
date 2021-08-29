@@ -1,47 +1,37 @@
 <template>
   <Container id="tickets py-16 mb-16">
     <GradientHeader class="">
-      GET YOUR TICKET HERE
+      {{ $t('tickets.title') }}
     </GradientHeader>
     <p class="text-xl my-5">
-      and get the <b>early-bird special</b> with a <b>21% discount </b> until September 21st.
+
     </p>
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Early Bird
+          {{ $t('tickets.ticket1') }}
         </h5>
-        <span>95 $</span>
+        <span>{{ $t('tickets.ticket1Price') }}</span>
       </a>
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Regular
+          {{ $t('tickets.ticket2') }}
         </h5>
-        <span>121 $</span>
+        <span>{{ $t('tickets.ticket2Price') }}</span>
       </a>
 
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-3 p-10 text-center text-white">
         <h5 class="text-3xl">
-          VIP
+          {{ $t('tickets.ticket3') }}
         </h5>
-        <span>free (with voucher only)</span>
+        <span>{{ $t('tickets.ticket3Price') }}</span>
       </a>
-<!--      <div class="ticket">-->
-<!--        <div class="pretix-widget-compat" event="https://pretix.eu/galoy/adoptingbitcoin/"></div>-->
-<!--        <noscript>-->
-<!--          <div class="pretix-widget">-->
-<!--            <div class="pretix-widget-info-message">-->
-<!--              JavaScript is disabled in your browser. To access our ticket shop without JavaScript, please <a target="_blank" rel="noopener" href="https://pretix.eu/galoy/adoptingbitcoin/">click here</a>.-->
-<!--            </div>-->
-<!--          </div>-->
-<!--        </noscript>-->
-<!--      </div>-->
     </div>
     <BlueTitle class="mt-8">
-      Early Adopters only
+      {{ $t('tickets.earlyAdopters.title') }}
     </BlueTitle>
     <p class="mb-10">
-      Tickets for this event can be paid with bitcoin over Lightning only.
+      {{ $t('tickets.earlyAdopters.text') }}
     </p>
   </Container>
 </template>

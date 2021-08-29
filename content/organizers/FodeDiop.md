@@ -1,7 +1,7 @@
 ---
 name: "Fodé <br>Diop"
 function: Global Mesh Networks
-img: fodediop2.png
+img: fodediop.jpg
 social: https://twitter.com/diopfode
 prio: 3
 ---

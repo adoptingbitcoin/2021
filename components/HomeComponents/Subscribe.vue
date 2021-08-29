@@ -2,7 +2,7 @@
   <div class="container mx-auto">
     <Container>
       <BlueTitle class="">
-        Subscribe to the latest news!
+        {{ $t('subscribe.title') }}
       </BlueTitle>
       <div class="mx-auto">
         <mailchimp-subscribe
@@ -16,16 +16,16 @@
             <form @submit.prevent="subscribe">
               <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
                 <div class="bg-white px-5 py-2">
-                  <input type="email" @input="setEmail($event.target.value)" placeholder="ENTER YOUR EMAIL" />
+                  <input type="email" @input="setEmail($event.target.value)" :placeholder="$t('subscribe.enteremail')" />
                 </div>
               </div>
 
-              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
+              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
                 <div class="bg-white px-5 py-2">
-                  <button type="submit">SIGN ME UP</button>
+                  <button type="submit">{{ $t('subscribe.signup') }}</button>
                 </div>
               </div>
-              <div v-if="error">{{ error }}</div>
+              <div v-if="error" v-html="error"></div>
               <div v-if="success">Yay!</div>
               <div v-if="loading">Loading…</div>
             </form>
