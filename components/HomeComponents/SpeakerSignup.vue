@@ -22,7 +22,7 @@
                 </div>
               </div>
 
-              <div class="col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
+              <div class="md:col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
                   <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" placeholder="TALK DETAILS" />
                 </div>
@@ -40,7 +40,7 @@
                 </div>
               </div>
 
-              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100 col-span-2">
+              <div class="cta-border-grey p-1 rounded  text-center w-100 h-100 md:col-span-2">
                 <div class="bg-white px-5 py-2">
                   <input id="mce-MOTIVATION" type="text" placeholder="MOTIVATION" name="MOTIVATION" class="">
                 </div>
