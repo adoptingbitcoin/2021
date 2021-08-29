@@ -4,27 +4,27 @@
       GET YOUR TICKET HERE
     </GradientHeader>
     <p class="text-xl my-5">
-      and get the <b>early-bird special</b> with a <b>21% discount </b> until September 21st.
+
     </p>
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
         <h5 class="text-3xl">
           Early Bird
         </h5>
-        <span>95 $</span>
+        <span>$150</span>
       </a>
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-3xl">
           Regular
         </h5>
-        <span>121 $</span>
+        <span>$300</span>
       </a>
 
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-3 p-10 text-center text-white">
         <h5 class="text-3xl">
           Speaker
         </h5>
-        <span>free (with voucher only)</span>
+        <span>free (with voucher)</span>
       </a>
     </div>
     <BlueTitle class="mt-8">
