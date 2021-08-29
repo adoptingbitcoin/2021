@@ -9,13 +9,10 @@
           <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
         </div>
       </Container>
-      <div class="cta-border-grey p-1 rounded mx-auto my-10 text-center w-auto">
-        <div class="bg-white">
-          <button id="mc-embedded-subscribe" class="cursor-pointer px-5 py-2" @click="toggleSpeakerSignup">
-            {{ $t('speakers.callforparticipation')}}
-          </button>
-        </div>
+      <div class="mx-auto w-content cursor-pointer" @click="toggleSpeakerSignup">
+        <CTA>{{ $t('speakers.callforparticipation')}}</CTA>
       </div>
+
     </BGGrey>
     <SpeakerSignup v-if="showSpeakerSignup" />
   </div>
@@ -27,9 +24,10 @@ import GradientHeader from '~/components/GradientHeader'
 import BGGrey from '~/components/BGGrey'
 import Container from '~/components/Container'
 import SpeakerSignup from '~/components/HomeComponents/SpeakerSignup'
+import CTA from '~/components/CTA'
 export default {
   name: 'SpeakerList',
-  components: { SpeakerSignup, Container, BGGrey, GradientHeader, Speaker },
+  components: { CTA, SpeakerSignup, Container, BGGrey, GradientHeader, Speaker },
   props: ['speakers'],
   data () {
     return {

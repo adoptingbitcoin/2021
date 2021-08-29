@@ -20,7 +20,7 @@
                 </div>
               </div>
 
-              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
+              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
                 <div class="bg-white px-5 py-2">
                   <button type="submit">{{ $t('subscribe.signup') }}</button>
                 </div>

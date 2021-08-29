@@ -17,13 +17,20 @@
             <div class="grid grid-cols-1 md:grid-cols-3  grid-flow-row gap-4 ">
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-TALKTITLE" type="text" :placeholder="$t('speakers.signup.talktitle')" name="TALKTITLE" required >
+                  <input id="mce-TALKTITLE" type="text" :placeholder="$t('speakers.signup.talktitle')" name="TALKTITLE" required>
                 </div>
               </div>
 
               <div class="md:col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" required :placeholder="$t('speakers.signup.talkdetails')" />
+                  <textarea
+                    id="mce-TALKDETAI"
+                    rows="3"
+                    class="pt-3"
+                    name="TALKDETAI"
+                    required
+                    :placeholder="$t('speakers.signup.talkdetails')"
+                  />
                 </div>
               </div>
 
@@ -54,8 +61,9 @@
                         type="radio"
                         value="English"
                         name="LANG"
-                        checked>
-<!--                      <span class="checkmark"></span>-->
+                        checked
+                      >
+                      <!--                      <span class="checkmark"></span>-->
                       English
                     </div>
                   </label>
@@ -64,7 +72,7 @@
                   <label for="mce-LANG-1" class="">
                     <div class="bg-white px-5 py-2">
                       <input id="mce-LANG-1" type="radio" value="Español" name="LANG">
-<!--                      <span class="checkmark"></span>-->
+                      <!--                      <span class="checkmark"></span>-->
                       Español
                     </div>
                   </label>

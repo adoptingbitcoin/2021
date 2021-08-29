@@ -68,9 +68,11 @@ export default {
 
   i18n: {
     lazy: true,
+    baseUrl: 'https://adoptingbitcoin.org',
+    seo: true,
     locales: [
-      { code: 'en', file: 'en.json' },
-      { code: 'es', file: 'es.json' }
+      { code: 'en', file: 'en.json', iso: 'en-US' },
+      { code: 'es', file: 'es.json', iso: 'es-ES' }
     ],
     langDir: '~/locales',
     defaultLocale: 'en',

@@ -18,3 +18,7 @@ html {
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }
+
+.w-content{
+  width: fit-content;
+}

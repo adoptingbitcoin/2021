@@ -5,7 +5,7 @@
     <SpeakerList :speakers="speakers" />
     <ComeJoinUs />
     <Schedule />
-<!--    <Tickets />-->
+    <Tickets />
 <!--    <Sponsors :sponsors="sponsors" />-->
     <Locations :locations="locations" />
     <OrganizerList :speakers="organizers" />
@@ -24,8 +24,9 @@ import Locations from '~/components/HomeComponents/Locations'
 import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
+import Tickets from '~/components/HomeComponents/Tickets'
 export default {
-  components: { OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])
@@ -54,6 +55,9 @@ export default {
       locations,
       sponsors
     }
+  },
+  head () {
+    return this.$nuxtI18nHead({ addSeoAttributes: true })
   }
 }
 </script>
