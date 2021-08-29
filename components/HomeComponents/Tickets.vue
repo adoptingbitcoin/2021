@@ -1,7 +1,7 @@
 <template>
   <Container id="tickets py-16 mb-16">
     <GradientHeader class="">
-      GET YOUR TICKET HERE
+      {{ $t('tickets.title') }}
     </GradientHeader>
     <p class="text-xl my-5">
 
@@ -9,29 +9,29 @@
     <div class="grid grid-cols-1 lg:grid-cols-3  grid-flow-row gap-4">
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-1 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Early Bird
+          {{ $t('tickets.ticket1') }}
         </h5>
-        <span>$150</span>
+        <span>{{ $t('tickets.ticket1Price') }}</span>
       </a>
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Regular
+          {{ $t('tickets.ticket2') }}
         </h5>
-        <span>$300</span>
+        <span>{{ $t('tickets.ticket2Price') }}</span>
       </a>
 
       <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-3 p-10 text-center text-white">
         <h5 class="text-3xl">
-          Speaker
+          {{ $t('tickets.ticket3') }}
         </h5>
-        <span>with voucher only</span>
+        <span>{{ $t('tickets.ticket3Price') }}</span>
       </a>
     </div>
     <BlueTitle class="mt-8">
-      Early Adopters only
+      {{ $t('tickets.earlyAdopters.title') }}
     </BlueTitle>
     <p class="mb-10">
-      Tickets for this event can be paid with bitcoin over Lightning only.
+      {{ $t('tickets.earlyAdopters.text') }}
     </p>
   </Container>
 </template>

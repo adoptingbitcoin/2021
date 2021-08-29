@@ -58,6 +58,19 @@
   },
   "contactus": {
     "title": "CONTÁCTANOS"
+  },
+  "tickets": {
+    "title": "GET YOUR TICKET HERE",
+    "ticket1": "Early Bird",
+    "ticket1Pice": "$150",
+    "ticket2": "Regular",
+    "ticket2Pice": "$300",
+    "ticket3": "Speaker",
+    "ticket3Pice": "with voucher only",
+    "earylAdopters": {
+      "title": "Early Adopters only",
+      "text": "Tickets for this event can be paid with bitcoin over Lightning only."
+    }
   }
 }
 
