@@ -1,0 +1,76 @@
+{
+  "seo": {
+    "title": "Adoptando Bitcoin – Una Conferencia Sobre Lightning en El Salvador 2021",
+    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development."
+  },
+  "header": {
+    "title": "Adoptando Bitcoin",
+    "subtitle": "Una Conferencia Sobre Lightning en El Salvador",
+    "date": "16 - 18 de Noviembre 2021"
+  },
+  "comejoinus": {
+    "title": "“Todos somos iguales ante una ola.”  Laird Hamilton",
+    "text": "Así como todos somos iguales ante Bitcoin. En este sentido, no hay mejor lugar que El Salvador para celebrar los avances que hemos estado logrando en el desarrollo de LN y no hay mejor lugar para montarse en olas más grandes sobre la Lightning Network."
+  },
+  "jointhenetwork": {
+    "title": "¡Únete a la red en El Salvador!",
+    "text": "La adopción de Bitcoin en la República de El Salvador causó emoción en todo el mundo ¡Es hora de brillar! Adoptando Bitcoin estará juntando a las comunidades de Bitcoin y Lightning en San Salvador y El Zonte para crear conexiones y fomentar el futuro del dinero y los pagos en la república centroamericana. Esta conferencia incluirá tres días de reconocidos ponentes, paneles interesantes, rutas educacionales, demos y talleres prácticos en inglés y español. Invitamos a desarrolladores, empresas y entusiastas en general para hacer networking y establecer conexiones en persona ¡Vamos!"
+  },
+  "locations": {
+    "title": "LOS LUGARES",
+    "directions": "Dirección",
+    "directionsText": "Encuéntranos acá."
+  },
+  "organizers": {
+    "title": "ORGANIZADORES"
+  },
+  "schedule": {
+    "title": "CRONOGRAMA DE LA CONVENCIÓN",
+    "day": "DÍA",
+    "date1": "Martes 16, San Salvador",
+    "date2": "Miércoles 17, San Salvador",
+    "date3": "Jueves 18, El Zonte/El Tunco",
+    "day1list": "<li>Taller Lightning 101</li> <li>Trayectoria de desarrollo/tecnológica (investigación/tecnología para desarrolladores)</li> <li>Trayectoria económica</li>",
+    "day2list": "<li>Taller Lightning 101</li><li>Trayectoria de desarrollo/tecnológica (investigación/tecnología para desarrolladores)</li><li>Trayectoria económica</li>",
+    "day3list": "<li>Conoce a la gente local que comenzó la iniciativa bitcoin @BitcoinBeach <a href=\"https://twitter.com/bitcoinbeach\" target=\"_blank\">@BitcoinBeach</a></li> <li>Feria de comida 10am - 6pm en El Zonte</li> <li>Fiesta por la activación de Taproot en El Tunco</li>"
+  },
+  "speakers": {
+    "title": "PONENTES",
+    "callforparticipation": "CONVOCATORIA A PARTICIPANTES",
+    "signup": {
+      "talkdetails": "DETALLES SOBRE LA PONENCIA",
+      "talktitle": "TÍTULO DE LA PONENCIA",
+      "twitter": "TWITTER",
+      "github": "GITHUB",
+      "motivation": "MOTIVACIÓN",
+      "contactemail": "CORREO ELECTRÓNICO DE CONTACTO",
+      "company": "EMPRESA",
+      "submit": "LETS PUSH THINGS FORWARD"
+    }
+  },
+  "sponsors": {
+    "title": "AMAZING SPONSORS"
+  },
+  "subscribe": {
+    "title": "SUSCRÍBETE PARA LAS MÁS RECIENTES NOTICIAS",
+    "signup": "Deseo suscribirme",
+    "enteremail": "Escribe tu correo"
+  },
+  "contactus": {
+    "title": "CONTÁCTANOS"
+  },
+  "tickets": {
+    "title": "OBTÉN TU BOLETO AQUÍ",
+    "ticket1": "Descuento de preventa",
+    "ticket1Price": "$150",
+    "ticket2": "Normal",
+    "ticket2Price": "$300",
+    "ticket3": "Ponente ",
+    "ticket3Price": "con el voucher",
+    "earlyAdopters": {
+      "title": "Solo para los primeros adoptadores",
+      "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
+    }
+  }
+}
+

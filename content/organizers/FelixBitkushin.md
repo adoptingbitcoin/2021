@@ -1,7 +1,7 @@
 ---
 name: "Felix <br>Bitkushin"
 function: design / webdesign
-img: felixbitkushin.png
+img: felixbitkushin.jpg
 social: https://twitter.com/BavarianHodl
 prio: 9
 ---

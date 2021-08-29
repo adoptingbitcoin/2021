@@ -1,7 +1,7 @@
 ---
 name: "Camila <br>Campton"
 function: Swan Bitcoin
-img: camilacampton.png
+img: camilacampton.jpg
 ---
 
 # Camila Campton

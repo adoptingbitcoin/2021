@@ -1,7 +1,7 @@
 <template>
-  <BGColor class="container mx-auto">
+  <BGColor class="">
     <Container class="text-white">
-      <h2 class="text-4xl font-bold text-white">CONTACT US</h2>
+      <h2 class="text-4xl font-bold text-white">{{ $t('contactus.title') }}</h2>
       <div class="my-10 mx-auto grid grid-cols-1 md:grid-cols-3 grid-flow-row gap-4">
         <div class="my-5">
           <h5 class="font-bold text-2xl">

@@ -2,37 +2,25 @@
   <BGGrey class="pb-16">
     <Container>
       <GradientHeader class="mb-16">
-        CONVENTION SCHEDULE
+        {{ $t('schedule.title') }}
       </GradientHeader>
 
       <div class="grid grid-cols-1 md:grid-cols-2 grid-flow-row gap-10">
         <div class="scheduleDay mx-auto">
-          <h3 class="text-2xl font-bold text-blue">DAY 1</h3>
-          <span class="font-bold">Tuesday 16, San Salvador</span>
-          <ul>
-            <li>Lightning 101 Workshop</li>
-            <li>Tech/developer track (research/tech, for developers)</li>
-            <li>Economic Track</li>
-          </ul>
+          <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 1</h3>
+          <span class="font-bold">{{ $t('schedule.date1') }}</span>
+          <ul v-html="$t('schedule.day1list')"></ul>
         </div>
         <div class="scheduleDay mx-auto">
-          <h3 class="text-2xl font-bold text-blue">DAY 2</h3>
-          <span class="font-bold">Wednesday 17, San Salvador</span>
-          <ul>
-            <li>Lightning 101 Workshop</li>
-            <li>Tech/developer track (research/tech, for developers)</li>
-            <li>Economic Track</li>
-          </ul>
+          <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 2</h3>
+          <span class="font-bold">{{ $t('schedule.date2') }}</span>
+          <ul v-html="$t('schedule.day2list')"></ul>
         </div>
 
         <div class="scheduleDay mx-auto">
-          <h3 class="text-2xl font-bold text-blue">DAY 3</h3>
-          <span class="font-bold">Thursday 18, El Zonte/El Tunco</span>
-          <ul>
-            <li>Meet the local people who started the bitcoin initiative <a href="https://twitter.com/bitcoinbeach" target="_blank">@BitcoinBeach</a></li>
-            <li>Food court 10a - 6p in El Zonte</li>
-            <li>Taproot Activation Party in El Tunco</li>
-          </ul>
+          <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 3</h3>
+          <span class="font-bold">{{ $t('schedule.date3') }}</span>
+          <ul v-html="$t('schedule.day3list')"></ul>
         </div>
       </div>
     </Container>
