@@ -57,7 +57,48 @@ export default {
     }
   },
   head () {
-    return this.$nuxtI18nHead({ addSeoAttributes: true })
+    const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
+    return {
+      htmlAttrs: {
+        ...i18nHead.htmlAttrs
+      },
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.$t('seo.description')
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content: 'https://adoptingbitcoin.reichart.xyz/adopting_bitcoin_meta_preview.jpg'
+        },
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: this.$t('seo.description')
+        },
+        {
+          hid: 'og:description',
+          name: 'og:title',
+          content: this.$t('seo.description')
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary'
+        },
+        {
+          hid: 'twitter:site',
+          name: 'twitter:site',
+          content: '@AdoptingBTC'
+        },
+        ...i18nHead.meta
+      ],
+      link: [
+        ...i18nHead.link
+      ]
+    }
   }
 }
 </script>

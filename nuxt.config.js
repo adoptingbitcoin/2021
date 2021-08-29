@@ -1,13 +1,13 @@
 export default {
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: 'Adopting Bitcoin',
+    title: 'Adopting Bitcoin – A Lighting Summit 2021',
     htmlAttrs: {
       lang: 'en'
     },
@@ -16,17 +16,13 @@ export default {
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       { hid: 'description', name: 'description', content: '' },
       { name: 'format-detection', content: 'telephone=no' },
-      { 'http-equiv': 'Cache-control', content: 'no-cache, no-store, must-revalidate'},
-      { 'http-equiv': 'Pragma', content: 'no-cache'}
+      { 'http-equiv': 'Cache-control', content: 'no-cache, no-store, must-revalidate' },
+      { 'http-equiv': 'Pragma', content: 'no-cache' }
     ],
     link: [
-      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' },
-      { rel: 'stylesheet', type: 'text/css', href: 'https://pretix.eu/galoy/adoptingbitcoin/widget/v1.css' }
+      { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
     ],
-    script: [
-      { src: 'https://pretix.eu/widget/v1.en.js', async: true, type: 'text/javascript' }
-
-    ]
+    script: []
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
@@ -62,9 +58,9 @@ export default {
   build: {
   },
 
-  router: {
-    mode: 'hash'
-  },
+  // router: {
+  //   mode: 'hash'
+  // },
 
   i18n: {
     lazy: true,
