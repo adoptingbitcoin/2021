@@ -91,7 +91,7 @@ export default {
         },
         {
           hid: 'og:description',
-          name: 'og:title',
+          name: 'og:description',
           content: this.$t('seo.description')
         },
         {
