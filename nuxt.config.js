@@ -63,7 +63,7 @@ export default {
   // },
 
   i18n: {
-    lazy: true,
+    lazy: false,
     baseUrl: 'https://adoptingbitcoin.org',
     seo: true,
     locales: [

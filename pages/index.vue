@@ -6,11 +6,11 @@
     <ComeJoinUs />
     <Schedule />
     <Tickets />
-<!--    <Sponsors :sponsors="sponsors" />-->
+    <!--    <Sponsors :sponsors="sponsors" />-->
     <Locations :locations="locations" />
     <OrganizerList :speakers="organizers" />
     <Subscribe />
-    <ContactUs></ContactUs>
+    <ContactUs />
   </div>
 </template>
 
@@ -62,6 +62,7 @@ export default {
       htmlAttrs: {
         ...i18nHead.htmlAttrs
       },
+      title: this.$t('seo.title'),
       meta: [
         {
           hid: 'description',
@@ -71,7 +72,7 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: 'https://adoptingbitcoin.reichart.xyz/adopting_bitcoin_meta_preview.jpg'
+          content: 'https://adoptingbitcoin.reichart.xyz/adopting_bitcoin_meta_preview_q.jpg'
         },
         {
           hid: 'og:title',
