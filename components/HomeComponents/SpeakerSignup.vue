@@ -12,19 +12,18 @@
           name="mc-embedded-subscribe-form"
           class="validate"
           target="_blank"
-          novalidate
         >
           <div id="mc_embed_signup_scroll">
             <div class="grid grid-cols-1 md:grid-cols-3  grid-flow-row gap-4 ">
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-TALKTITLE" type="text" placeholder="TALK TITLE" name="TALKTITLE" class="">
+                  <input id="mce-TALKTITLE" type="text" placeholder="TALK TITLE" name="TALKTITLE" required >
                 </div>
               </div>
 
               <div class="md:col-span-2 row-span-2 cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" placeholder="TALK DETAILS" />
+                  <textarea id="mce-TALKDETAI" type="text" name="TALKDETAI" required placeholder="TALK DETAILS" />
                 </div>
               </div>
 
@@ -48,26 +47,33 @@
 
               <div class="grid grid-cols-2 gap-4">
                 <div class="p-1 rounded  text-center w-100 h-100">
-                  <div class="bg-white px-5 py-2">
-                    <input
-                      id="mce-LANG-0"
-                      type="radio"
-                      value="English"
-                      name="LANG"
-                      checked
-                    ><label for="mce-LANG-0" class="px-1">English</label>
-                  </div>
+                  <label for="mce-LANG-0" class="">
+                    <div class="bg-white px-5 py-2">
+                      <input
+                        id="mce-LANG-0"
+                        type="radio"
+                        value="English"
+                        name="LANG"
+                        checked>
+<!--                      <span class="checkmark"></span>-->
+                      English
+                    </div>
+                  </label>
                 </div>
                 <div class="p-1 rounded  text-center w-100 h-100">
-                  <div class="bg-white px-5 py-2">
-                    <input id="mce-LANG-1" type="radio" value="Español" name="LANG"><label for="mce-LANG-1" class="px-1">Español</label>
-                  </div>
+                  <label for="mce-LANG-1" class="">
+                    <div class="bg-white px-5 py-2">
+                      <input id="mce-LANG-1" type="radio" value="Español" name="LANG">
+<!--                      <span class="checkmark"></span>-->
+                      Español
+                    </div>
+                  </label>
                 </div>
               </div>
 
               <div class="cta-border-grey p-1 rounded  text-center w-100 h-100">
                 <div class="bg-white px-5 py-2">
-                  <input id="mce-EMAIL" type="email" placeholder="CONTACT EMAIL" name="EMAIL" class="required email">
+                  <input id="mce-EMAIL" type="email" placeholder="CONTACT EMAIL" name="EMAIL" required>
                 </div>
               </div>
 
