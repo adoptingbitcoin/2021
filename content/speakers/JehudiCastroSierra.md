@@ -1,6 +1,6 @@
 ---
 name: "Jehudi <br>Castro Sierra"
-Republic of Colombia
+function: Republic of Colombia
 img: jehudicastrosierra.jpg
 ---
 
