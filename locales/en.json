@@ -1,7 +1,8 @@
 {
   "seo": {
     "title": "Adopting Bitcoin – A Lighting Summit 2021",
-    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development."
+    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development.",
+    "keywords": "bitcoin, adopting bitcoin, el salvador, conference, lightning, lightning network"
   },
   "header": {
     "title": "Adopting Bitcoin",
@@ -14,7 +15,10 @@
   },
   "jointhenetwork": {
     "title": "Join the network in El Salvador!",
-    "text": "The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic.<br> This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!"
+    "text1": "The adoption of Bitcoin in the Republic of El Salvador caused excitement around the world. It’s time to shine! Adopting Bitcoin is bringing together the Bitcoin and Lightning  community in San Salvador and El Zonte to create connections and foster the future of money and payments in the Central American republic.",
+    "text2": "This conference will include three days of renowned speakers, engaging panels, educational tracks, demos and hands-on workshops in English and Spanish. Welcoming developers, businesses and general enthusiasts to network and form in-person connections. Vamos!",
+    "textCenter1": "100% of profits from the summit will be donated to support Lightning Network development.",
+    "textCenter2": "Adopting Bitcoin 2021 is presented by <a href='https://galoy.io' target='_blank' class='text-blue'>Galoy</a> &ndash; bringing Bitcoin banking solutions to companies and communities around the world."
   },
   "locations": {
     "title": "THE LOCATIONS",
@@ -49,12 +53,14 @@
     }
   },
   "sponsors": {
-    "title": "AMAZING SPONSORS"
+    "title": "SPONSORS",
+    "callforsponsors": "CALL FOR SPONSORS"
   },
   "subscribe": {
     "title": "Subscribe to the latest news!",
     "signup": "SIGN ME UP",
-    "enteremail": "ENTER YOUR EMAIL"
+    "enteremail": "ENTER YOUR EMAIL",
+    "text": "Stay up to date on Adopting Bitcoin and get all the important news right to your mailbox"
   },
   "contactus": {
     "title": "CONTACT US",
