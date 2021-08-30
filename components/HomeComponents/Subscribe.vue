@@ -5,6 +5,9 @@
         {{ $t('subscribe.title') }}
       </BlueTitle>
       <div class="mx-auto">
+        <p class="mb-10">
+          {{ $t('subscribe.text') }}
+        </p>
         <mailchimp-subscribe
           url="https://space.us5.list-manage.com/subscribe/post-json"
           user-id="625da9c0dc52c7b96a2dffdbe"

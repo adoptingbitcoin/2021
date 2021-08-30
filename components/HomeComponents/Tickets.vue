@@ -13,12 +13,18 @@
         </h5>
         <span>{{ $t('tickets.ticket1Price') }}</span>
       </a>
-      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">
+<!--      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">-->
+<!--        <h5 class="text-2xl">-->
+<!--          {{ $t('tickets.ticket2') }}-->
+<!--        </h5>-->
+<!--        <span>{{ $t('tickets.ticket2Price') }}</span>-->
+<!--      </a>-->
+      <div class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-2xl">
           {{ $t('tickets.ticket2') }}
         </h5>
         <span>{{ $t('tickets.ticket2Price') }}</span>
-      </a>
+      </div>
     </div>
     <BlueTitle class="mt-8">
       {{ $t('tickets.earlyAdopters.title') }}
@@ -50,7 +56,7 @@ export default {
   backdrop-filter: grayscale();
 }
 .ticket-2{
-   background-image: url("~/assets/images/ticket_2.jpg");
+   background-image: url("~/assets/images/ticket_regular_not_available.jpg");
  }
 .ticket-3{
     background-image: url("~/assets/images/ticket_3.jpg");

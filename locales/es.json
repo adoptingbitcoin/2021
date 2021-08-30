@@ -1,7 +1,8 @@
 {
   "seo": {
     "title": "Adoptando Bitcoin – Una Conferencia Sobre Lightning en El Salvador 2021",
-    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development."
+    "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development.",
+    "keywords": "bitcoin, adopting bitcoin, el salvador, conference, lightning, lightning network"
   },
   "header": {
     "title": "Adoptando Bitcoin",
@@ -14,7 +15,10 @@
   },
   "jointhenetwork": {
     "title": "¡Únete a la red en El Salvador!",
-    "text": "La adopción de Bitcoin en la República de El Salvador causó emoción en todo el mundo ¡Es hora de brillar! Adoptando Bitcoin estará juntando a las comunidades de Bitcoin y Lightning en San Salvador y El Zonte para crear conexiones y fomentar el futuro del dinero y los pagos en la república centroamericana. Esta conferencia incluirá tres días de reconocidos ponentes, paneles interesantes, rutas educacionales, demos y talleres prácticos en inglés y español. Invitamos a desarrolladores, empresas y entusiastas en general para hacer networking y establecer conexiones en persona ¡Vamos!"
+    "text1": "La adopción de Bitcoin en la República de El Salvador causó emoción en todo el mundo ¡Es hora de brillar! Adoptando Bitcoin estará juntando a las comunidades de Bitcoin y Lightning en San Salvador y El Zonte para crear conexiones y fomentar el futuro del dinero y los pagos en la república centroamericana.",
+    "text2": "Esta conferencia incluirá tres días de reconocidos ponentes, paneles interesantes, rutas educacionales, demos y talleres prácticos en inglés y español. Invitamos a desarrolladores, empresas y entusiastas en general para hacer networking y establecer conexiones en persona ¡Vamos!",
+    "textCenter1": "100% de las ganancias de la conferencia serán donadas para apoyar el desarrollo Lightning Network.",
+    "textCenter2": "Adoptando Bitcoin 2021 es presentado por <a href='https://galoy.io' target='_blank' class='text-blue'>Galoy</a> &ndash; trayendo soluciones bancarias en Bitcoin a compañías y comunidades en todo el mundo."
   },
   "locations": {
     "title": "LOS LUGARES",
@@ -49,7 +53,8 @@
     }
   },
   "sponsors": {
-    "title": "AMAZING SPONSORS"
+    "title": "PATROCINANTES",
+    "callforsponsors": "SOLICITUD PARA PATROCINANTES"
   },
   "subscribe": {
     "title": "SUSCRÍBETE PARA LAS MÁS RECIENTES NOTICIAS",

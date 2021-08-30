@@ -6,7 +6,7 @@
     <ComeJoinUs />
     <Schedule />
     <Tickets />
-    <!--    <Sponsors :sponsors="sponsors" />-->
+    <Sponsors :sponsors="sponsors" />
     <Locations :locations="locations" />
     <OrganizerList :speakers="organizers" />
     <Subscribe />
@@ -25,8 +25,9 @@ import Subscribe from '~/components/HomeComponents/Subscribe'
 import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
+import Sponsors from '~/components/HomeComponents/Sponsors'
 export default {
-  components: { Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])
@@ -68,6 +69,11 @@ export default {
           hid: 'description',
           name: 'description',
           content: this.$t('seo.description')
+        },
+        {
+          hid: 'keywords',
+          name: 'keywords',
+          content: this.$t('seo.keywords')
         },
         {
           hid: 'og:image',
