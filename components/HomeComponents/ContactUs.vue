@@ -36,17 +36,17 @@
           </p>
         </div>
       </div>
-<!--      <div class="py-16">-->
+      <div class="py-16">
 <!--        <p class="text-center text-xl"> {{ $t('contactus.proceeds') }} </p>-->
-<!--      </div>-->
+      </div>
 <!--      <div class="text-center md:text-left md:float-left my-5">-->
 <!--        <a href="#">IMPRINT</a> |-->
 <!--        <a href="#">PRIVACY POLICY</a> |-->
 <!--        <a href="#">DISCLAIMER</a>-->
 <!--      </div>-->
-<!--      <div class="text-center md:text-left md:float-right my-5">-->
-<!--        <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>-->
-<!--      </div>-->
+      <div class="text-center md:text-left md:float-right my-5">
+        <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
+      </div>
       <div class="py-4">
       </div>
     </Container>

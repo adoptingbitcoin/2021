@@ -1,14 +1,14 @@
 <template>
-  <Container class="mb-10">
+  <Container class="mb-8">
     <BlueTitle class="mb-5">
       {{ $t('jointhenetwork.title') }}
     </BlueTitle>
-    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-10">
+    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-14">
       <p v-html="$t('jointhenetwork.text1')" />
       <p v-html="$t('jointhenetwork.text2')" />
     </div>
-    <p class="text-center my-2 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
-    <p class="text-center my-2 text-xl" v-html="$t('jointhenetwork.textCenter2')" />
+    <p class="text-center  mb-4 mt-10 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
+    <p class="text-center mt-4 text-xl" v-html="$t('jointhenetwork.textCenter2')" />
   </Container>
 </template>
 
