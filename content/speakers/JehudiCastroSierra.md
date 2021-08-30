@@ -1,6 +1,6 @@
 ---
 name: "Jehudi <br>Castro Sierra"
-function: Digital Transformation Advisor Republic of Colombia
+Republic of Colombia
 img: jehudicastrosierra.jpg
 ---
 
