@@ -3,7 +3,12 @@
     <BlueTitle class="mb-5">
       {{ $t('jointhenetwork.title') }}
     </BlueTitle>
-    <p class="multicolumn" v-html="$t('jointhenetwork.text')" />
+    <div class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-4 mb-10">
+      <p v-html="$t('jointhenetwork.text1')" />
+      <p v-html="$t('jointhenetwork.text2')" />
+    </div>
+    <p class="text-center my-2 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
+    <p class="text-center my-2 text-xl" v-html="$t('jointhenetwork.textCenter2')" />
   </Container>
 </template>
 
@@ -29,5 +34,4 @@ export default {
 
   }
 }
-
 </style>

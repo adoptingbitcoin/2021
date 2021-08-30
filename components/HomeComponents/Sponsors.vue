@@ -1,14 +1,31 @@
 <template>
-  <BGGrey>
-    <Container>
-      <GradientHeader class="mb-10">
-        {{ $t('sponsors.title') }}
-      </GradientHeader>
-      <div class="grid grid-cols-3 md:grid-cols-6  grid-flow-row gap-4">
-        <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" :class="'p-5 my-auto col-span-'+sponsor.width " />
-      </div>
-    </Container>
-  </BGGrey>
+  <div class="">
+    <BGGrey>
+      <Container>
+        <GradientHeader class="mb-10">
+          {{ $t('sponsors.title') }}
+        </GradientHeader>
+        <div class="grid grid-cols-3 md:grid-cols-6  grid-flow-row gap-4">
+          <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" :class="'p-5 my-auto col-span-'+sponsor.width " />
+        </div>
+        <div class="mx-auto w-content cursor-pointer" @click="toggleSponsorSignup">
+          <CTA>
+            {{ $t('sponsors.callforsponsors') }}
+          </CTA>
+        </div>
+      </Container>
+    </BGGrey>
+    <div v-if="showSponsorSignup" class="mx-auto">
+      <iframe
+        src="https://docs.google.com/forms/d/e/1FAIpQLScua1nBLTbhShvWH1d4LowWwawvdt4OokZ0BkumDosTvrFDrA/viewform?embedded=true"
+        width="100%"
+        height="600"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+      >Loading…</iframe>
+    </div>
+  </div>
 </template>
 
 <script>
@@ -16,12 +33,23 @@ import BGGrey from '~/components/BGGrey'
 import Container from '~/components/Container'
 import GradientHeader from '~/components/GradientHeader'
 import Sponsor from '~/components/Sponsor'
+import CTA from '~/components/CTA'
 export default {
   name: 'Sponsors',
-  components: { Sponsor, GradientHeader, Container, BGGrey },
+  components: { CTA, Sponsor, GradientHeader, Container, BGGrey },
   props: [
     'sponsors'
-  ]
+  ],
+  data () {
+    return {
+      showSponsorSignup: Boolean(false)
+    }
+  },
+  methods: {
+    toggleSponsorSignup () {
+      this.showSponsorSignup = !this.showSponsorSignup
+    }
+  }
 }
 </script>
 

@@ -9,12 +9,28 @@
           <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
         </div>
       </Container>
-      <div class="mx-auto w-content cursor-pointer" @click="toggleSpeakerSignup">
-        <CTA>{{ $t('speakers.callforparticipation')}}</CTA>
+      <div class="mx-auto w-content">
+        <div class="inline-block w-content cursor-pointer mx-2" @click="toggleSpeakerSignup">
+          <CTA>{{ $t('speakers.callforparticipation')}}</CTA>
+        </div>
+<!--        <div class="inline-block w-content cursor-pointer mx-2" @click="toggleSponsorSignup">-->
+<!--          <CTA>-->
+<!--            {{ $t('sponsors.callforsponsors') }}-->
+<!--          </CTA>-->
+<!--        </div>-->
       </div>
-
     </BGGrey>
     <SpeakerSignup v-if="showSpeakerSignup" />
+<!--    <div v-if="showSponsorSignup" class="mx-auto">-->
+<!--      <iframe-->
+<!--        src="https://docs.google.com/forms/d/e/1FAIpQLScua1nBLTbhShvWH1d4LowWwawvdt4OokZ0BkumDosTvrFDrA/viewform?embedded=true"-->
+<!--        width="100%"-->
+<!--        height="600"-->
+<!--        frameborder="0"-->
+<!--        marginheight="0"-->
+<!--        marginwidth="0"-->
+<!--      >Loading…</iframe>-->
+<!--    </div>-->
   </div>
 </template>
 
@@ -31,13 +47,17 @@ export default {
   props: ['speakers'],
   data () {
     return {
-      showSpeakerSignup: Boolean(false)
+      showSpeakerSignup: Boolean(false),
+      showSponsorSignup: Boolean(false)
     }
   },
   methods: {
     toggleSpeakerSignup () {
       this.showSpeakerSignup = !this.showSpeakerSignup
     }
+  },
+  toggleSponsorSignup () {
+    this.showSponsorSignup = !this.showSponsorSignup
   }
 }
 </script>

@@ -14,7 +14,10 @@
   },
   "jointhenetwork": {
     "title": "¡Únete a la red en El Salvador!",
-    "text": "La adopción de Bitcoin en la República de El Salvador causó emoción en todo el mundo ¡Es hora de brillar! Adoptando Bitcoin estará juntando a las comunidades de Bitcoin y Lightning en San Salvador y El Zonte para crear conexiones y fomentar el futuro del dinero y los pagos en la república centroamericana. Esta conferencia incluirá tres días de reconocidos ponentes, paneles interesantes, rutas educacionales, demos y talleres prácticos en inglés y español. Invitamos a desarrolladores, empresas y entusiastas en general para hacer networking y establecer conexiones en persona ¡Vamos!"
+    "text1": "La adopción de Bitcoin en la República de El Salvador causó emoción en todo el mundo ¡Es hora de brillar! Adoptando Bitcoin estará juntando a las comunidades de Bitcoin y Lightning en San Salvador y El Zonte para crear conexiones y fomentar el futuro del dinero y los pagos en la república centroamericana.",
+    "text2": "Esta conferencia incluirá tres días de reconocidos ponentes, paneles interesantes, rutas educacionales, demos y talleres prácticos en inglés y español. Invitamos a desarrolladores, empresas y entusiastas en general para hacer networking y establecer conexiones en persona ¡Vamos!",
+    "textCenter1": "100% de las ganancias de la conferencia serán donadas para apoyar el desarrollo Lightning Network.",
+    "textCenter2": "Adoptando Bitcoin 2021 es presentado por <a href='https://galoy.io' target='_blank' class='text-blue'>Galoy</a> &ndash; trayendo soluciones bancarias en Bitcoin a compañías y comunidades en todo el mundo."
   },
   "locations": {
     "title": "LOS LUGARES",
@@ -49,7 +52,8 @@
     }
   },
   "sponsors": {
-    "title": "AMAZING SPONSORS"
+    "title": "SPONSORS",
+    "callforsponsors": "CALL FOR SPONSORS"
   },
   "subscribe": {
     "title": "SUSCRÍBETE PARA LAS MÁS RECIENTES NOTICIAS",
