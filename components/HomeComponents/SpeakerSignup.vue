@@ -8,7 +8,7 @@
         width="100%"
         height="1600px"
         class="mx-auto"
-        >Loading…</iframe>
+      >Loading…</iframe>
     </div>
   </Container>
 </template>

@@ -13,11 +13,6 @@
         <div class="inline-block w-content cursor-pointer mx-2" @click="toggleSpeakerSignup">
           <CTA>{{ $t('speakers.callforparticipation')}}</CTA>
         </div>
-<!--        <div class="inline-block w-content cursor-pointer mx-2" @click="toggleSponsorSignup">-->
-<!--          <CTA>-->
-<!--            {{ $t('sponsors.callforsponsors') }}-->
-<!--          </CTA>-->
-<!--        </div>-->
       </div>
     </BGGrey>
     <SpeakerSignup v-if="showSpeakerSignup" />

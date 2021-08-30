@@ -71,6 +71,11 @@ export default {
           content: this.$t('seo.description')
         },
         {
+          hid: 'keywords',
+          name: 'keywords',
+          content: this.$t('seo.keywords')
+        },
+        {
           hid: 'og:image',
           name: 'og:image',
           content: 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
