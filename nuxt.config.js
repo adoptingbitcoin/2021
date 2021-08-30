@@ -48,7 +48,8 @@ export default {
   modules: [
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
-    '@nuxtjs/i18n'
+    '@nuxtjs/i18n',
+    '@nuxtjs/sitemap'
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -75,5 +76,10 @@ export default {
     vueI18n: {
       fallbackLocale: 'en'
     }
+  },
+  sitemap: {
+    hostname: 'https://adoptingbitcoin.org',
+    gzip: true,
+    i18n: true
   }
 }
