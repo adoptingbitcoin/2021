@@ -11,7 +11,7 @@
   },
   "comejoinus": {
     "title": "“We are all equal before a wave.”  Laird Hamilton",
-    "text": "And we are all equal before Bitcoin. In this sense, there is no better place than El Salvador to celebrate the leaps we have been making in LN development and no better place to take greater waves riding the Lightning Network."
+    "text": "And we are all equal before Bitcoin. In this sense, there is no better place than El Salvador to celebrate the leaps we have been making, and no better place to take greater waves riding the Lightning Network."
   },
   "jointhenetwork": {
     "title": "Join the network in El Salvador!",
@@ -31,9 +31,9 @@
   "schedule": {
     "title": "CONVENTION SCHEDULE",
     "day": "DAY",
-    "date1": "Tuesday 16, San Salvador",
-    "date2": "Wednesday 17, San Salvador",
-    "date3": "Thursday 18, El Zonte/El Tunco",
+    "date1": "Tuesday Nov 16, San Salvador",
+    "date2": "Wednesday Nov 17, San Salvador",
+    "date3": "Thursday Nov 18, El Zonte/El Tunco",
     "day1list": "<li>Lightning 101 Workshop</li> <li>Tech/developer track (research/tech, for developers)</li> <li>Economic Track</li>",
     "day2list": "<li>Lightning 101 Workshop</li><li>Tech/developer track (research/tech, for developers)</li><li>Economic Track</li>",
     "day3list": "<li>Meet the local people who started the bitcoin initiative <a href=\"https://twitter.com/bitcoinbeach\" target=\"_blank\">@BitcoinBeach</a></li> <li>Food court 10a - 6p in El Zonte</li> <li>Taproot Activation Party in El Tunco</li>"
