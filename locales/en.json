@@ -74,6 +74,7 @@
     "ticket2Price": "$300",
     "ticket3": "Speaker",
     "ticket3Price": "with voucher only",
+    "ticketsleft": "Tickets left",
     "earlyAdopters": {
       "title": "Early Adopters only",
       "text": "Tickets for this event can be paid with bitcoin over Lightning only."
