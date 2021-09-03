@@ -22,3 +22,7 @@ html {
 .w-content{
   width: fit-content;
 }
+
+.w-100-vw{
+  width: 100vw;
+}

@@ -1,20 +1,21 @@
 <template>
   <div class="p-3">
-    <NuxtLink :to="computedSpeakerLink">
+    <a :href="speakerHref" target="_blank">
       <div class="image-border bg-red-400 rounded-full">
         <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
       </div>
       <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
-    </NuxtLink>
+    </a>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Speaker',
+  name: 'Organizer',
   props: {
-    speaker: Object
+    speaker: Object,
+    speakerHref: String
   },
   computed: {
     computedImg () {
@@ -22,13 +23,6 @@ export default {
         return require('~/assets/images/person/' + this.speaker.img)
       } else {
         return null
-      }
-    },
-    computedSpeakerLink () {
-      if (process.env.production) {
-        return (this.speaker.url) ? this.speaker.url : ''
-      } else {
-        return (this.speaker.url) ? this.speaker.url : '/speaker/' + this.speaker.slug
       }
     }
   }

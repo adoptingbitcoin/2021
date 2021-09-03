@@ -26,6 +26,7 @@ export default {
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '~/assets/scss/tailwind.scss',
     '~/static/global.css'
   ],
 
@@ -41,7 +42,8 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/style-resources'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -49,7 +51,8 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     '@nuxtjs/i18n',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    'nuxt-purgecss'
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -57,8 +60,19 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extractCSS: true,
+    postcss: {
+      plugins: { tailwindcss: '~/tailwind.config.js' }
+    },
+    purgeCSS: {
+      mode: 'postcss'
+    }
   },
-
+  styleResources: {
+    scss: [
+      'assets/scss/*.scss'
+    ]
+  },
   // router: {
   //   mode: 'hash'
   // },
@@ -81,5 +95,8 @@ export default {
     hostname: 'https://adoptingbitcoin.org',
     gzip: true,
     i18n: true
+  },
+  env: {
+    production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false
   }
 }
