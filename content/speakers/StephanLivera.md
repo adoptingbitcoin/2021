@@ -6,54 +6,27 @@ img: stephanlivera.jpg
 
 # Stephan Livera
  
-Stephen Livera is the host of the Stephan Livera Podcast, which is one of the world’s leading Bitcoin podcasts. With over 3M downloads it is ranked in the top 0.5% of podcasts globally. The podcast is focused on educational interviews about the economics and technology of Bitcoin. Stephan is also the head of Swan Bitcoin International, where he continues his role in Bitcoin education and helps to onboard HNWI, businesses and other entities into accumulating Bitcoin.
-
-<br><br>
-**TALKS @ AdoptingBigcoin 2021:**
-## Pay over the lightning network
-
-Praeposuisse tergum Phaeocomes auctus amplecti pectore hunc *sidera aras unus*.
-*Capaneusque* sortem genitor, cedere, fama, mali qui consanguineas! Tamen
-Pygmalion Neritius *arma extremos*; conplectens plena forma quod, et.
+Stephan Livera is the host of the Stephan Livera Podcast, which is one of the world’s leading Bitcoin podcasts. With over 3M downloads it is ranked in the top 0.5% of podcasts globally. The podcast is focused on educational interviews about the economics and technology of Bitcoin. Stephan is also the head of Swan Bitcoin International, where he continues his role in Bitcoin education and helps to onboard HNWI, businesses and other entities into accumulating Bitcoin.
 
 
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
 
 <br><br>
 ## RECENT PROJECTS
 <br>
 
-**YOUTUBE The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
+**PODCAST SLP71 Stephan Livera – Intro to Bitcoin Austrian Thought**
+ [Listen 
+ here](https://stephanlivera.com/episode/71/) 
 
 <br>
 
-**YOUTUBE: The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
+**PODCAST: SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**
+[Listen
+here](https://stephanlivera.com/episode/279/) 
 
 <br>
 
-**YOUTUBE: The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
+**PODCAST: The Internet of money**
+
 
 
