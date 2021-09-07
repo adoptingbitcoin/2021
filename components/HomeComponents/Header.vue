@@ -1,6 +1,5 @@
 <template>
   <div class="header">
-    <Nav />
     <Container class="md:hidden"><Logo/></Container>
     <Container class="title-container">
 

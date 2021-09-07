@@ -2,6 +2,7 @@
   <div class="w-full">
 
     <Header id="home"/>
+    <Nav class="hidden" />
     <JoinTheNetwork />
     <SpeakerList :speakers="speakers" id="speakers"/>
     <ComeJoinUs />
@@ -27,8 +28,9 @@ import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
 import Sponsors from '~/components/HomeComponents/Sponsors'
+import Nav from '~/components/Nav'
 export default {
-  components: { Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug'])

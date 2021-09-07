@@ -6,6 +6,7 @@
     </Container>
 
     <SpeakerList :speakers="allSpeakers"/>
+    <Tickets id="tickets" />
     <ContactUs />
 
   </div>
@@ -16,8 +17,9 @@ import Header from '~/components/SpeakerComponents/Header'
 import Container from '~/components/Container'
 import SpeakerList from '~/components/HomeComponents/SpeakerList'
 import ContactUs from '~/components/HomeComponents/ContactUs'
+import Tickets from '~/components/HomeComponents/Tickets'
 export default {
-  components: { ContactUs, SpeakerList, Container, Header },
+  components: { ContactUs, SpeakerList, Container, Header, Tickets },
   async asyncData ({ $content, params, i18n }) {
     const allSpeakers = await $content('speakers')
       .only(['name', 'function', 'img', 'slug'])

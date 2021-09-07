@@ -1,5 +1,5 @@
 <template>
-  <div class="fixed top-0 left-0 w-100 nav-bar z-50" >
+  <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white" >
     <div class="w-100-vw pt-3">
       <div class="background" :class="{ 'scrolled': !view.atTopOfPage }"/>
       <NuxtLink to="/">

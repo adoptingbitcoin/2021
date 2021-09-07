@@ -60,6 +60,6 @@ export default {
 }
 
 .link{
-  @apply text-black text-center block p-4 text-gray-500 text-3xl;
+  @apply text-black text-center block p-2 md:p-4 text-gray-500 text-3xl md:text-xl;
 }
 </style>

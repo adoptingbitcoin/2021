@@ -1,6 +1,6 @@
 <template>
-  <div class="">
-    <img :src="computedImg" alt="">
+  <div class="image-border rounded-full">
+    <img :src="computedImg" alt="" class="rounded-full p-1 h-full w-auto">
   </div>
 </template>
 
@@ -24,4 +24,10 @@ export default {
 
 <style scoped>
 
+.image-border{
+  background: linear-gradient(to right, #ffcc00, #e60000);
+  width: fit-content;
+  height: fit-content;
+  margin: auto;
+}
 </style>

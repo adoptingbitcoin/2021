@@ -29,7 +29,6 @@
 </template>
 
 <script>
-import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
 import Nav from '~/components/Nav'
 import Container from '~/components/Container'
 export default {
@@ -43,9 +42,6 @@ export default {
       } else {
         return null
       }
-    },
-    twitterIcon () {
-      return faTwitterSquare
     }
   }
 }
