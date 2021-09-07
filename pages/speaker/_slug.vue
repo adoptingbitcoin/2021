@@ -4,7 +4,6 @@
     <Container>
       <nuxt-content :document="speaker" />
     </Container>
-
     <SpeakerList :speakers="allSpeakers"/>
     <Tickets id="tickets" />
     <ContactUs />
@@ -48,7 +47,13 @@ export default {
   h2{
     @apply text-3xl text-blue;
   }
-  p{
+  a{
+    @apply text-blue;
+  }
+}
+@media (min-width: 786px){
+  .speaker .nuxt-content > p:nth-of-type(1){
+    column-count: 2;
   }
 }
 </style>

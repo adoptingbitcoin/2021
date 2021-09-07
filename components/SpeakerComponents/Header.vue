@@ -3,12 +3,12 @@
     <Nav />
     <div class="SpeakerInfo absolute bottom-0 left-0 w-100-vw">
       <Container>
-        <div class="grid grid-cols-3">
-          <div class="image-border bg-red-400 rounded-full p-0 m-0">
+        <div class="grid grid-cols-1 md:grid-cols-3">
+          <div class="image-border bg-red-400 rounded-full p-0 m-0 mx-auto">
             <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
           </div>
-          <div class=""></div>
-          <div class="">
+          <div class="my-5"></div>
+          <div class="mx-auto">
             <ul>
               <li v-if="speaker.twitter">
                 <a :href="'https://twitter.com/' + speaker.twitter" target="_blank"><i class="fab fa-twitter-square" /> {{ speaker.twitter }}</a>

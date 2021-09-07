@@ -11,8 +11,7 @@ linkedin: AntoinePoinsot
 
 Praeposuisse tergum Phaeocomes auctus amplecti pectore hunc *sidera aras unus*.
 *Capaneusque* sortem genitor, cedere, fama, mali qui consanguineas! Tamen
-Pygmalion Neritius *arma extremos*; conplectens plena forma quod, et.
-
+Pygmalion Neritius *arma extremos*; conplectens plena forma quod, et.  
 Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
 quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
 respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque

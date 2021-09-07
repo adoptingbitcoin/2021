@@ -1,18 +1,5 @@
 <template>
   <div class="w-full">
-    <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white text-white">
-      <div class="h-full absolute right-0 top-0 flex items-center justify-center mr-3">
-        <div class="mr-5">
-          <nuxt-link :to="switchLocalePath('en')">
-            English
-          </nuxt-link>
-          <nuxt-link :to="switchLocalePath('es')">
-            Español
-          </nuxt-link>
-        </div>
-        <Menu class="inline-block vertical-align-middle"/>
-      </div>
-    </div>
     <Header id="home"/>
     <JoinTheNetwork />
     <SpeakerList :speakers="speakers" id="speakers"/>
