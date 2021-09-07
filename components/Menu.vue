@@ -7,7 +7,7 @@
     </div>
 
     <div
-      class="fixed right-0 top-0 w-33-vw h-100-vh bg-opacity-80 bg-white"
+      class="fixed right-0 top-0 w-100-vw h-100-vh bg-opacity-80 bg-white"
       :class="{ 'hidden': !menuIsShown }"
       style="z-index:999999999;"
     >
@@ -48,8 +48,5 @@ export default {
 
 .link{
   @apply text-center font-bold block p-2 md:p-4 text-gray-700 text-3xl md:text-2xl;
-}
-.w-33-vw{
-  width: 33vw;
 }
 </style>
