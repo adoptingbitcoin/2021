@@ -2,6 +2,8 @@
 name: "Chase <br>Perkins"
 function: Impervious.ai
 img: chaseperkins.jpg
+twitter: '@chasethetruth'
+linkedin: chaseperkins007
 ---
 
 # Chase Perkins
