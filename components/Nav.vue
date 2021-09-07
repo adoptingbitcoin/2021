@@ -16,13 +16,16 @@
         </div>
       </NuxtLink>
 
-      <div class="absolute right-5 top-5">
-        <nuxt-link :to="switchLocalePath('en')">
-          English
-        </nuxt-link> |
-        <nuxt-link :to="switchLocalePath('es')">
-          Español
-        </nuxt-link>
+      <div class="h-full absolute right-0 top-0 flex items-center justify-center mr-3">
+        <div class="mr-5">
+          <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
+            English
+          </nuxt-link>
+          <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
+            Español
+          </nuxt-link>
+        </div>
+        <Menu class="inline-block vertical-align-middle"/>
       </div>
     </div>
     <div class="bg-gradient-to-r from-yellow via-red to-red rounded mt-5 w-100" style="height: 5px" />
@@ -31,9 +34,13 @@
 
 <script>
 import Logo from '~/components/Logo'
+import Menu from '~/components/Menu'
 export default {
   name: 'Nav',
-  components: { Logo },
+  components: {
+    Menu,
+    Logo
+  },
   data () {
     return {
       view: {
@@ -44,6 +51,9 @@ export default {
   beforeMount () {
     window.addEventListener('scroll', this.handleScroll)
   },
+  mounted () {
+    this.handleScroll()
+  },
   methods: {
     // the function to call when the user scrolls, added as a method
     handleScroll () {
@@ -53,6 +63,9 @@ export default {
       } else if (window.pageYOffset === 0 && !this.view.atTopOfPage) {
         this.view.atTopOfPage = true
       }
+    },
+    showLocale (locale) {
+      return this.$i18n.locale !== locale
     }
   }
 }
@@ -83,5 +96,8 @@ img{
 }
 .vertical-align-bottom{
   vertical-align: bottom;
+}
+.vertical-align-middle{
+  vertical-align: middle;
 }
 </style>

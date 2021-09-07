@@ -1,9 +1,6 @@
 <template>
   <div class="header">
-    <div class="absolute right-5 top-5">
-      <nuxt-link :to="switchLocalePath('en')">English</nuxt-link> |
-      <nuxt-link :to="switchLocalePath('es')">Español</nuxt-link>
-    </div>
+    <Nav />
     <Container class="md:hidden"><Logo/></Container>
     <Container class="title-container">
 
@@ -24,9 +21,10 @@
 <script>
 import Container from '~/components/Container'
 import Logo from '~/components/Logo'
+import Nav from '~/components/Nav'
 export default {
   name: 'Header',
-  components: { Logo, Container }
+  components: { Nav, Logo, Container }
 }
 </script>
 
