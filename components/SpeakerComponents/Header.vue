@@ -7,7 +7,7 @@
           <div class="image-border bg-red-400 rounded-full p-0 m-0 mx-auto">
             <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
           </div>
-          <div class="my-5"></div>
+          <div class="md:my-5"></div>
           <div class="mx-auto">
             <ul>
               <li v-if="speaker.twitter">
