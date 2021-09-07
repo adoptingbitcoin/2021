@@ -10,9 +10,15 @@
           <div class=""></div>
           <div class="">
             <ul>
-              <li>Twitter</li>
-              <li>Github</li>
-              <li>LinkedIn</li>
+              <li v-if="speaker.twitter">
+                <a :href="'https://twitter.com/' + speaker.twitter" target="_blank"><i class="fab fa-twitter-square" /> {{ speaker.twitter }}</a>
+              </li>
+              <li v-if="speaker.github">
+                <a :href="'https://github.com/' + speaker.github" target="_blank"><i class="fab fa-github-square" /> {{ speaker.github }}</a>
+              </li>
+              <li v-if="speaker.linkedin">
+                <a :href="'https://linkedin.com/in/' + speaker.linkedin" target="_blank"><i class="fab fa-linkedin" /> {{ speaker.linkedin }}</a>
+              </li>
             </ul>
           </div>
         </div>
@@ -23,6 +29,7 @@
 </template>
 
 <script>
+import { faTwitterSquare } from '@fortawesome/free-brands-svg-icons'
 import Nav from '~/components/Nav'
 import Container from '~/components/Container'
 export default {
@@ -36,6 +43,9 @@ export default {
       } else {
         return null
       }
+    },
+    twitterIcon () {
+      return faTwitterSquare
     }
   }
 }

@@ -2,6 +2,9 @@
 name: "Antoine <br>Poinsot"
 function: Revault
 img: antoinepoinsot1.png
+twitter: '@AntoinePoinsot'
+github: AntoinePoinsot
+linkedin: AntoinePoinsot
 ---
 
 # Antoine Poinsot
