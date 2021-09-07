@@ -10,9 +10,9 @@ Not only a data privacy and tech policy attorney, but a real cypherpunk, Chase P
 <br><br>
 ## Dive deeper
 <br>
-Watch [**Bitcoin
- 2021: Impervious Demo](https://www.youtube.com/watch?v=heJjTQEljxE**)
+**Watch** [Bitcoin
+ 2021: Impervious Demo](https://www.youtube.com/watch?v=heJjTQEljxE)
 <br>
-Listen [**Building
- Unstoppable Applications on Bitcoin with Chase Perkins - Bitcoin Magazine Podcast](https://bitcoinmagazine.com/business/unstoppable-applications-on-bitcoin**)
+**Listen** [Building
+ Unstoppable Applications on Bitcoin with Chase Perkins - Bitcoin Magazine Podcast](https://bitcoinmagazine.com/business/unstoppable-applications-on-bitcoin)
 
