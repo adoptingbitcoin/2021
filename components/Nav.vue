@@ -1,16 +1,16 @@
 <template>
   <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white" >
-    <div class="w-100-vw pt-3">
+    <div class="w-100-vw pt-1 md:pt-3">
       <div class="background" :class="{ 'scrolled': !view.atTopOfPage }"/>
       <NuxtLink to="/">
         <div class="inline-block mr-4">
           <Logo class="p-2" />
         </div>
         <div class="md:inline-block vertical-align-bottom hidden">
-          <h1 class="text-3xl md:text-5xl">
+          <h1 class="text-xl md:text-3xl">
             {{ $t('header.title') }}
           </h1>
-          <h5 class="text-lg md:text-2xl">
+          <h5 class="md:text-xl">
             {{ $t('header.subtitle') }}
           </h5>
         </div>
@@ -28,7 +28,7 @@
         <Menu class="inline-block vertical-align-middle"/>
       </div>
     </div>
-    <div class="bg-gradient-to-r from-yellow via-red to-red rounded mt-5 w-100" style="height: 5px" />
+    <div class="bg-gradient-to-r from-yellow via-red to-red rounded mt-2 md:mt-5 w-100" style="height: 5px" />
   </div>
 </template>
 
@@ -93,6 +93,11 @@ export default {
 img{
   height: 100px;
   width: auto;
+}
+@media (max-width: 768px){
+  img{
+    height: 75px;
+  }
 }
 .vertical-align-bottom{
   vertical-align: bottom;

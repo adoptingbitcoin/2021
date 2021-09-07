@@ -1,6 +1,8 @@
 <template>
-  <div class="image-border rounded-full">
-    <img :src="computedImg" alt="" class="rounded-full p-1 h-full w-auto">
+  <div class="">
+    <div class="image-border rounded-full">
+      <img :src="computedImg" alt="" class="rounded-full p-1 w-full h-auto object-cover">
+    </div>
   </div>
 </template>
 
@@ -29,5 +31,9 @@ export default {
   width: fit-content;
   height: fit-content;
   margin: auto;
+}
+img{
+  max-height: 100%;
+  max-width: 100%;
 }
 </style>

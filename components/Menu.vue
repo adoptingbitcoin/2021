@@ -10,7 +10,10 @@
       class="fixed left-0 top-0 w-100-vw h-100-vh bg-opacity-95 bg-white"
       :class="{ 'hidden': !menuIsShown }"
     >
-      <div class="cross z-40 absolute right-0 top-0 p-5" :class="{ 'hidden': !menuIsShown }" @click="menuIsShown = false" />
+
+      <div class="z-40 absolute right-0 top-0 p-5 text-gray-500 text-5xl" :class="{ 'hidden': !menuIsShown }" @click="menuIsShown = false">
+        <i class="fas fa-times"></i>
+      </div>
       <div class="w-full h-full flex items-center justify-center">
         <div class="py-auto">
           <NuxtLink to="/#home" class="link" @click.native="menuIsShown=false">Home</NuxtLink>
@@ -40,23 +43,6 @@ export default {
 .line{
   height: 2px;
   width: 50px;
-}
-.cross {
-  height: 75px;
-  width: 75px;
-}
-
-.cross:after {
-  position: absolute;
-  top: 0;
-  bottom: 0;
-  left: 0;
-  right: 0;
-  content: "\2716"; /* use the hex value here... */
-  font-size: 50px;
-  color: black;
-  line-height: 75px;
-  text-align: center;
 }
 
 .link{

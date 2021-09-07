@@ -51,7 +51,7 @@ export default {
 .header{
   color: white;
   position: relative;
-  height: 60vh;
+  height: 70vh;
   width: 100%;
   background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
   background-size: cover;
