@@ -1,10 +1,10 @@
 <template>
-  <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white" >
+  <div class="fixed top-0 left-0 w-100 nav-bar z-50 text-white">
     <div class="w-100-vw pt-1 md:pt-3">
-      <div class="background" :class="{ 'scrolled': !view.atTopOfPage }"/>
+      <div class="background" :class="{ 'scrolled': !view.atTopOfPage }" />
       <NuxtLink to="/">
         <div class="inline-block mr-4">
-          <Logo class="p-2" />
+          <Logo class="p-2 logo" />
         </div>
         <div class="md:inline-block vertical-align-bottom hidden">
           <h1 class="text-xl md:text-3xl">
@@ -90,13 +90,13 @@ export default {
 .background.scrolled{
   opacity: 1;
 }
-img{
-  height: 100px;
-  width: auto;
+img.logo{
+  height: 100px!important;
+  width: auto!important;
 }
 @media (max-width: 768px){
-  img{
-    height: 75px;
+  img.logo{
+    height: 75px!important;
   }
 }
 .vertical-align-bottom{
