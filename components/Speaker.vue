@@ -1,12 +1,19 @@
 <template>
   <div class="p-3">
-    <NuxtLink :to="computedSpeakerLink">
+    <NuxtLink :to="computedSpeakerLink" v-if="!isExternalLink">
       <div class="image-border bg-red-400 rounded-full">
         <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
       </div>
       <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
       <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
     </NuxtLink>
+    <a :href="computedSpeakerLink" target="_blank" v-if="isExternalLink">
+      <div class="image-border bg-red-400 rounded-full">
+        <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
+      </div>
+      <h2 class="text-lg font-semibold my-2 text-center" v-html="speaker.name"></h2>
+      <p class="text-xs italic text-center mx-auto" v-html="speaker.function" />
+    </a>
   </div>
 </template>
 
@@ -35,6 +42,13 @@ export default {
         return 'https://twitter.com/' + this.speaker.twitter
       }
       return ''
+    },
+    isExternalLink () {
+      if (this.speaker.showPage) {
+        return false
+      } else {
+        return true
+      }
     }
   }
 }
