@@ -30,7 +30,7 @@ export default {
   components: { Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
-      .only(['name', 'function', 'img', 'slug'])
+      .only(['name', 'function', 'img', 'slug', 'showPage'])
       .sortBy('prio', 'asc')
       .fetch()
 

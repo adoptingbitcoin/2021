@@ -25,11 +25,16 @@ export default {
       }
     },
     computedSpeakerLink () {
-      if (process.env.production) {
-        return (this.speaker.url) ? this.speaker.url : ''
-      } else {
-        return (this.speaker.url) ? this.speaker.url : '/speaker/' + this.speaker.slug
+      if (this.speaker.url) {
+        return this.speaker.url
       }
+      if (this.speaker.showPage) {
+        return '/speaker/' + this.speaker.slug
+      }
+      if (this.speaker.twitter) {
+        return 'https://twitter.com/' + this.speaker.twitter
+      }
+      return ''
     }
   }
 }

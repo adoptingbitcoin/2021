@@ -1,13 +1,12 @@
 <template>
   <div class="speaker">
-    <Header :speaker="speaker"/>
+    <Header :speaker="speaker" />
     <Container>
       <nuxt-content :document="speaker" />
     </Container>
-    <SpeakerList :speakers="allSpeakers"/>
+    <SpeakerList :speakers="allSpeakers" />
     <Tickets id="tickets" />
     <ContactUs />
-
   </div>
 </template>
 
