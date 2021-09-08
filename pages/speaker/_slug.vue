@@ -50,10 +50,13 @@ export default {
   a{
     @apply text-blue;
   }
-}
-@media (min-width: 786px){
-  .speaker .nuxt-content > p:nth-of-type(1){
-    column-count: 2;
+  & > p:nth-of-type(1){
+    @apply md:w-2/3;
+  }
+  img{
+    max-width: 100%;
+    height: auto;
+    @apply md:w-2/3;
   }
 }
 </style>
