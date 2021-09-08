@@ -8,7 +8,7 @@
       <p v-html="$t('jointhenetwork.text2')" />
     </div>
     <p class="text-center  mb-4 mt-10 text-blue text-xl" v-html="$t('jointhenetwork.textCenter1')" />
-    <p class="text-center mt-4 text-xl" v-html="$t('jointhenetwork.textCenter2')" />
+    <p class="md:text-center mt-4 md:text-xl" v-html="$t('jointhenetwork.textCenter2')" />
   </Container>
 </template>
 

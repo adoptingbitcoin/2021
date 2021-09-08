@@ -6,7 +6,7 @@
 }
 
 html {
-  font-family: "Ubuntu";
+  font-family: "Ubuntu", sans-serif;
   font-size: 1.2rem;
 }
 
@@ -21,4 +21,11 @@ html {
 
 .w-content{
   width: fit-content;
+}
+
+.w-100-vw{
+  width: 100vw;
+}
+.h-100-vh{
+  height: 100vh;
 }

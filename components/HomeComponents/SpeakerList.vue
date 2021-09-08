@@ -16,16 +16,6 @@
       </div>
     </BGGrey>
     <SpeakerSignup v-if="showSpeakerSignup" />
-<!--    <div v-if="showSponsorSignup" class="mx-auto">-->
-<!--      <iframe-->
-<!--        src="https://docs.google.com/forms/d/e/1FAIpQLScua1nBLTbhShvWH1d4LowWwawvdt4OokZ0BkumDosTvrFDrA/viewform?embedded=true"-->
-<!--        width="100%"-->
-<!--        height="600"-->
-<!--        frameborder="0"-->
-<!--        marginheight="0"-->
-<!--        marginwidth="0"-->
-<!--      >Loading…</iframe>-->
-<!--    </div>-->
   </div>
 </template>
 
