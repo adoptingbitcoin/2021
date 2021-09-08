@@ -26,12 +26,13 @@ export default {
   },
   // Global CSS: https://go.nuxtjs.dev/config-css
   css: [
+    '~/assets/scss/tailwind.scss',
+    '~/assets/css/fontawesome_all.min.css',
     '~/static/global.css'
   ],
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
-  plugins: [
-  ],
+  plugins: [],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
   components: true,
@@ -41,7 +42,8 @@ export default {
     // https://go.nuxtjs.dev/eslint
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
-    '@nuxtjs/tailwindcss'
+    '@nuxtjs/tailwindcss',
+    '@nuxtjs/style-resources'
   ],
 
   // Modules: https://go.nuxtjs.dev/config-modules
@@ -49,7 +51,8 @@ export default {
     // https://go.nuxtjs.dev/content
     '@nuxt/content',
     '@nuxtjs/i18n',
-    '@nuxtjs/sitemap'
+    '@nuxtjs/sitemap',
+    'nuxt-purgecss'
   ],
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -57,11 +60,47 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+    extractCSS: true,
+    postcss: {
+      plugins: { tailwindcss: '~/tailwind.config.js' }
+    },
+    purgeCSS: {
+      mode: 'postcss'
+    }
   },
+  styleResources: {
+    scss: [
+      'assets/scss/*.scss'
+    ]
+  },
+  router: {
+    scrollBehavior: async (to, from, savedPosition) => {
+      if (savedPosition) {
+        return savedPosition
+      }
 
-  // router: {
-  //   mode: 'hash'
-  // },
+      const findEl = async (hash, x) => {
+        return document.querySelector(hash) ||
+          new Promise((resolve, reject) => {
+            if (x > 50) {
+              return resolve()
+            }
+            setTimeout(() => { resolve(findEl(hash, ++x || 1)) }, 100)
+          })
+      }
+
+      if (to.hash) {
+        const el = await findEl(to.hash)
+        if ('scrollBehavior' in document.documentElement.style) {
+          return window.scrollTo({ top: el.offsetTop - 150, behavior: 'smooth' })
+        } else {
+          return window.scrollTo(0, el.offsetTop)
+        }
+      }
+
+      return { x: 0, y: 0 }
+    }
+  },
 
   i18n: {
     lazy: false,
@@ -81,5 +120,8 @@ export default {
     hostname: 'https://adoptingbitcoin.org',
     gzip: true,
     i18n: true
+  },
+  env: {
+    production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false
   }
 }

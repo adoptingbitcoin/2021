@@ -1,23 +1,37 @@
 <template>
-  <div class="header">
-    <div class="absolute right-5 top-5">
-      <nuxt-link :to="switchLocalePath('en')">English</nuxt-link> |
-      <nuxt-link :to="switchLocalePath('es')">Español</nuxt-link>
-    </div>
-    <Container class="md:hidden"><Logo/></Container>
+  <div class="header relative">
+    <Container class="md:hidden">
+      <Logo />
+    </Container>
     <Container class="title-container">
-
       <div class="md:inline-block mr-4 hidden">
-        <Logo/>
+        <Logo />
       </div>
       <div class="inline-block vertical-align-bottom">
-        <h1 class="text-3xl md:text-5xl">{{ $t('header.title') }}</h1>
-        <h5 class="text-lg md:text-2xl">{{ $t('header.subtitle') }}</h5>
+        <h1 class="text-3xl md:text-5xl">
+          {{ $t('header.title') }}
+        </h1>
+        <h5 class="text-lg md:text-2xl">
+          {{ $t('header.subtitle') }}
+        </h5>
       </div>
-      <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px"></div>
-      <h5 class="text-lg md:text-2xl">{{ $t('header.date') }}</h5>
-<!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
+      <div class="bg-gradient-to-r from-yellow via-red to-red rounded my-5" style="height: 5px" />
+      <h5 class="text-lg md:text-2xl">
+        {{ $t('header.date') }}
+      </h5>
+      <!--      <CTA href="#tickets">GET YOUR TICKET NOW</CTA>/-->
     </Container>
+    <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
+      <div class="mr-5">
+        <nuxt-link :to="switchLocalePath('en')">
+          English
+        </nuxt-link>
+        <nuxt-link :to="switchLocalePath('es')">
+          Español
+        </nuxt-link>
+      </div>
+      <Menu class="inline-block vertical-align-middle" />
+    </div>
   </div>
 </template>
 
