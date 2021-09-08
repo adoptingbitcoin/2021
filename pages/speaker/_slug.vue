@@ -20,7 +20,7 @@ export default {
   components: { ContactUs, SpeakerList, Container, Header, Tickets },
   async asyncData ({ $content, params, i18n }) {
     const allSpeakers = await $content('speakers')
-      .only(['name', 'function', 'img', 'slug'])
+      .only(['name', 'function', 'img', 'slug', 'url', 'twitter', 'showPage'])
       .sortBy('prio', 'asc')
       .fetch()
 
