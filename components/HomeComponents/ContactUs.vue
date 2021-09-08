@@ -37,7 +37,6 @@
         </div>
       </div>
       <div class="py-16">
-<!--        <p class="text-center text-xl"> {{ $t('contactus.proceeds') }} </p>-->
       </div>
 <!--      <div class="text-center md:text-left md:float-left my-5">-->
 <!--        <a href="#">IMPRINT</a> |-->
