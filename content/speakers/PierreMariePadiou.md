@@ -2,6 +2,9 @@
 name: "Pierre-Marie <br>Padiou"
 function: ACINQ
 img: pierremariepadiou.jpg
+twitter: 
+github: pm47
+linkedin: pmpadiou
 ---
 
 # Pierre-Marie Padiou

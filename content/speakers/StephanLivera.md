@@ -2,6 +2,9 @@
 name: "Stephan <br> Livera"
 function: Bitcoin Podcaster & Swan International
 img: stephanlivera.jpg
+twitter: '@stephanlivera'
+github: stephanlivera
+linkedin: stephan-livera-11130717
 ---
 
 # Stephan Livera
