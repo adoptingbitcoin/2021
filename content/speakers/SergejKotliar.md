@@ -26,8 +26,8 @@ Sergej Kotliar is the CEO and Founder of Bitrefill. The company aims to allow us
 
 <div class="px-3">
 
-**Listen - L76: Qué es Liquid Network con Gustavo J. Flores**  <br><br>
-[![L76: Qué es Liquid Network con Gustavo J. Flores](/content/listen_perkins.png)](https://open.spotify.com/episode/3isX450nyDrdcsldm0gT7U/)
+**Listen - WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail**  <br><br>
+[![WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail](/content/listen_perkins.png)](https://open.spotify.com/episode/3GjWEKKidqn9OHJJmkORAx/)
 </div>
 </div>
 
