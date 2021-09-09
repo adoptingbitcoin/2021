@@ -38,11 +38,11 @@
       </div>
       <div class="py-16">
       </div>
-<!--      <div class="text-center md:text-left md:float-left my-5">-->
-<!--        <a href="#">IMPRINT</a> |-->
-<!--        <a href="#">PRIVACY POLICY</a> |-->
-<!--        <a href="#">DISCLAIMER</a>-->
-<!--      </div>-->
+      <div class="text-center md:text-left md:float-left my-5">
+        <NuxtLink to="/faq">{{ $t('menu.faq') }}</NuxtLink> |
+        <a href="#">{{ $t('menu.forpress') }}</a> |
+        <a href="#">{{ $t('menu.forsponsors') }}</a>
+      </div>
       <div class="text-center md:text-left md:float-right my-5">
         <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
       </div>

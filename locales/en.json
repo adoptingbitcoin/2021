@@ -87,7 +87,9 @@
     "sponsors": "Sponsors",
     "location": "Location",
     "news": "News",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "forpress": "for press",
+    "forsponsors": "for sponsors"
   },
   "faq": {
     "title": "FAQ"

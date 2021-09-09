@@ -11,6 +11,7 @@
         </div>
       </div>
     </Container>
+    <ContactUs />
   </div>
 </template>
 
@@ -18,8 +19,9 @@
 import Header from '~/components/FAQComponents/Header'
 import FAQList from '~/components/FAQComponents/FAQList'
 import Container from '~/components/Container'
+import ContactUs from '~/components/HomeComponents/ContactUs'
 export default {
-  components: { Container, FAQList, Header },
+  components: { ContactUs, Container, FAQList, Header },
   async asyncData ({ $content, params, i18n }) {
     const faq = await $content('faq', params.slug)
       .where({ language: i18n.locale })

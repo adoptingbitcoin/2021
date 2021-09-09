@@ -86,7 +86,9 @@
     "sponsors": "PATROCINANTES",
     "location": "LUGARES",
     "news": "News",
-    "faq": "FAQ"
+    "faq": "FAQ",
+    "forpress": "for press",
+    "forsponsors": "for sponsors"
   },
   "faq": {
     "title": "FAQ"
