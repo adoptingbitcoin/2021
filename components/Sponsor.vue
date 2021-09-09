@@ -1,10 +1,12 @@
 <template>
-  <div class="">
-    <div class="image-border rounded-full">
-      <img :src="computedImg" alt="" class="rounded-full p-1 w-full h-auto object-cover">
-    </div>
-<!--    <h2 class="text-lg font-semibold my-2 text-center" v-html="sponsor.title"></h2>-->
-    <p class="text-xs italic text-center my-2 mx-auto" v-html="sponsor.title" />
+  <div class="p-3">
+    <a :href="sponsor.url" target="_blank">
+      <div class="image-border rounded-full">
+        <img :src="computedImg" alt="" class="rounded-full p-1 w-full h-auto object-cover">
+      </div>
+      <!--    <h2 class="text-lg font-semibold my-2 text-center" v-html="sponsor.title"></h2>-->
+      <p class="text-xs italic text-center my-2 mx-auto" v-html="sponsor.title" />
+    </a>
   </div>
 </template>
 

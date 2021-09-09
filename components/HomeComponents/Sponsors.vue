@@ -5,8 +5,8 @@
         <GradientHeader class="mb-10">
           {{ $t('sponsors.title') }}
         </GradientHeader>
-        <div class="grid grid-cols-4 md:grid-cols-5  grid-flow-row gap-1">
-          <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" class="my-auto" />
+        <div class="grid grid-cols-4 md:grid-cols-5  grid-flow-row gap-1 items-start">
+          <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
         <div class="mx-auto w-content cursor-pointer mx-2" @click="toggleSponsorSignup">
           <CTA>{{ $t('sponsors.callforsponsors')}}</CTA>

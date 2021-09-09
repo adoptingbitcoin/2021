@@ -80,6 +80,15 @@
       "text": "Tickets for this event can be paid with bitcoin over Lightning only."
     }
   },
+  "menu": {
+    "home": "Home",
+    "speakers": "Speakers",
+    "tickets": "Tickets",
+    "sponsors": "Sponsors",
+    "location": "Location",
+    "news": "News",
+    "faq": "FAQ"
+  },
   "faq": {
     "title": "FAQ"
   }

@@ -79,6 +79,15 @@
       "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
     }
   },
+  "menu": {
+    "home": "PONENTES",
+    "speakers": "CRONOGRAMA",
+    "tickets": "BOLETO",
+    "sponsors": "PATROCINANTES",
+    "location": "LUGARES",
+    "news": "News",
+    "faq": "FAQ"
+  },
   "faq": {
     "title": "FAQ"
   }
