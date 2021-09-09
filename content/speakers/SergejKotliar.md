@@ -5,6 +5,7 @@ img: sergejkotliar.jpg
 twitter: '@ziggamon'
 github: ziggamon
 linkedin: sergejkotliar
+showPage: true
 ---
 
 # Sergej Kotliar
