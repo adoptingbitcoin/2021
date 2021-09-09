@@ -1,7 +1,7 @@
 ---
 name: "Jeff <br>Gallas"
 function: Fulmo
-img: jeffgallas.jpg
+img: jeffonline.jpg
 social: https://twitter.com/fulmolightning
 prio: 4
 ---
