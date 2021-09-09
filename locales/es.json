@@ -2,7 +2,8 @@
   "seo": {
     "title": "Adoptando Bitcoin – Una Conferencia Sobre Lightning en El Salvador 2021",
     "description": "Bringing together the Bitcoin and Lightning Network communities with local actors in El Salvador on November 16-18  to work on the mission to adopt Bitcoin successfully. The conference is not-for-profit and all proceeds will be donated to Lightning Network development.",
-    "keywords": "bitcoin, adopting bitcoin, el salvador, conference, lightning, lightning network"
+    "keywords": "bitcoin, adopting bitcoin, el salvador, conference, lightning, lightning network",
+    "speakerDescription": "Meet {name} of {company} on November 16-18 in San Salvador"
   },
   "header": {
     "title": "Adoptando Bitcoin",
@@ -78,6 +79,31 @@
       "title": "Solo para los primeros adoptadores",
       "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
     }
+  },
+  "menu": {
+    "home": "PONENTES",
+    "speakers": "CRONOGRAMA",
+    "tickets": "BOLETO",
+    "sponsors": "PATROCINANTES",
+    "location": "LUGARES",
+    "news": "News",
+    "faq": "FAQ",
+    "forpress": "for press",
+    "forsponsors": "for sponsors"
+  },
+  "faq": {
+    "title": "FAQ"
+  },
+  "press-kit": {
+    "title": "Press",
+    "text": "Blablablablablabla",
+    "download-kit": "Download Press Kit"
+  },
+  "sponsor-kit": {
+    "title": "Sponsor Kit",
+    "text": "Blablablablablabla",
+    "download-kit": "Download Sponsor Kit",
+    "faqTitle": "Sponsor FAQ"
   }
 }
 

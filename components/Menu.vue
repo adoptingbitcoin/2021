@@ -11,18 +11,32 @@
       :class="{ 'hidden': !menuIsShown }"
       style="z-index:999999999;"
     >
-
       <div class="absolute right-0 top-0 p-5 text-gray-700 text-5xl" :class="{ 'hidden': !menuIsShown }" @click="menuIsShown = false">
-        <i class="fas fa-times"></i>
+        <i class="fas fa-times" />
       </div>
       <div class="w-full h-full flex items-center justify-center">
         <div class="py-auto">
-          <NuxtLink to="/#home" class="link" @click.native="menuIsShown=false">Home</NuxtLink>
-          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">Speakers</NuxtLink>
-          <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">Tickets</NuxtLink>
-          <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">Sponsors</NuxtLink>
-          <NuxtLink to="/#location" class="link" @click.native="menuIsShown=false">Location</NuxtLink>
-          <NuxtLink to="/#news" class="link" @click.native="menuIsShown=false">News</NuxtLink>
+          <NuxtLink to="/#home" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.home') }}
+          </NuxtLink>
+          <NuxtLink to="/#speakers" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.speakers') }}
+          </NuxtLink>
+          <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.tickets') }}
+          </NuxtLink>
+          <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.sponsors') }}
+          </NuxtLink>
+          <NuxtLink to="/#location" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.location') }}
+          </NuxtLink>
+          <NuxtLink to="/#news" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.news') }}
+          </NuxtLink>
+<!--          <NuxtLink to="/faq" class="link" @click.native="menuIsShown=false">-->
+<!--            {{ $t('menu.faq') }}-->
+<!--          </NuxtLink>-->
         </div>
       </div>
     </div>

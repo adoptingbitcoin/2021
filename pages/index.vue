@@ -1,13 +1,13 @@
 <template>
   <div class="w-full">
-    <Header id="home"/>
+    <Header id="home" />
     <JoinTheNetwork />
-    <SpeakerList :speakers="speakers" id="speakers"/>
+    <SpeakerList id="speakers" :speakers="speakers" />
     <ComeJoinUs />
     <Schedule />
     <Tickets id="tickets" />
-    <Sponsors :sponsors="sponsors" id="sponsors" />
-    <Locations :locations="locations" id="location" />
+    <Sponsors id="sponsors" :sponsors="sponsors" />
+    <Locations id="location" :locations="locations" />
     <OrganizerList :speakers="organizers" />
     <Subscribe id="news" />
     <ContactUs />
@@ -46,8 +46,8 @@ export default {
       .fetch()
 
     const sponsors = await $content('sponsors', params.slug)
-      .only(['width', 'img', 'slug'])
-      .sortBy('width', 'desc')
+      .only(['width', 'img', 'slug', 'title', 'url'])
+      .sortBy('prio', 'desc')
       .fetch()
 
     return {
@@ -78,7 +78,7 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
+          content: 'https://' + process.env.domain + '/adopting_bitcoin_meta_preview_q.jpg'
         },
         {
           hid: 'og:title',
@@ -88,7 +88,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: 'https://adoptingbitcoin.org'
+          content: 'https://' + process.env.domain
         },
         {
           hid: 'og:type',

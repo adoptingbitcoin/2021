@@ -1,6 +1,6 @@
 ---
 name: "Jehudi <br>Castro Sierra"
-function: Republic of Colombia
+function: Colombia
 img: jehudicastrosierra.jpg
 twitter: '@JCastroS'
 github: 

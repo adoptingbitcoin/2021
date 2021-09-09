@@ -5,6 +5,8 @@ img: sergejkotliar.jpg
 twitter: '@ziggamon'
 github: ziggamon
 linkedin: sergejkotliar
+showPage: true
+metaImage: meta_sergejkotliar.jpg
 ---
 
 # Sergej Kotliar
@@ -20,13 +22,13 @@ Sergej Kotliar is the CEO and Founder of Bitrefill. The company aims to allow us
 <div class="px-3">
 
 **Listen - SLP210: Sergej Kotliar How To Watch Bitcoin’s Mempool, Lightning Adoption & Privacy** <br><br>
-[ ![SLP210: Sergej Kotliar How To Watch Bitcoin’s Mempool, Lightning Adoption & Privacy](/content/watch_perkins.png)](https://open.spotify.com/episode/5giikTYzBj2mFZ1NvkiuK8/)
+[ ![SLP210: Sergej Kotliar How To Watch Bitcoin’s Mempool, Lightning Adoption & Privacy](/content/sergejkotliar_slp210.jpeg)](https://open.spotify.com/episode/5giikTYzBj2mFZ1NvkiuK8/)
 </div>
 
 <div class="px-3">
 
-**Listen - L76: Qué es Liquid Network con Gustavo J. Flores**  <br><br>
-[![L76: Qué es Liquid Network con Gustavo J. Flores](/content/listen_perkins.png)](https://open.spotify.com/episode/3isX450nyDrdcsldm0gT7U/)
+**Listen - WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail**  <br><br>
+[![WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail](/content/sergejkotliar_l76.jpeg)](https://open.spotify.com/episode/3GjWEKKidqn9OHJJmkORAx/)
 </div>
 </div>
 

@@ -31,6 +31,68 @@ export default {
       allSpeakers,
       speaker
     }
+  },
+  head () {
+    const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
+    const speakerName = this.speaker.name.replace(/<[^>]*>?/gm, '')
+    const metaImage = this.speaker.metaImage ? 'https://' + process.env.domain + '/speaker-meta/' + this.speaker.metaImage : 'https://' + process.env.domain + '/adopting_bitcoin_meta_preview_q.jpg'
+    return {
+      htmlAttrs: {
+        ...i18nHead.htmlAttrs
+      },
+      title: this.$t('seo.title'),
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content: this.$t('seo.speakerDescription', { name: speakerName, company: this.speaker.function })
+        },
+        {
+          hid: 'keywords',
+          name: 'keywords',
+          content: this.$t('seo.keywords')
+        },
+        {
+          hid: 'og:image',
+          name: 'og:image',
+          content: metaImage
+        },
+        {
+          hid: 'og:title',
+          name: 'og:title',
+          content: this.$t('seo.title')
+        },
+        {
+          hid: 'og:url',
+          name: 'og:url',
+          content: 'https://' + process.env.domain
+        },
+        {
+          hid: 'og:type',
+          name: 'og:type',
+          content: 'website'
+        },
+        {
+          hid: 'og:description',
+          name: 'og:description',
+          content: this.$t('seo.speakerDescription', { name: speakerName, company: this.speaker.function })
+        },
+        {
+          hid: 'twitter:card',
+          name: 'twitter:card',
+          content: 'summary'
+        },
+        {
+          hid: 'twitter:site',
+          name: 'twitter:site',
+          content: '@AdoptingBTC'
+        },
+        ...i18nHead.meta
+      ],
+      link: [
+        ...i18nHead.link
+      ]
+    }
   }
 }
 </script>
