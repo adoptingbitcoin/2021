@@ -5,7 +5,7 @@ img: chaseperkins.jpg
 twitter: '@chasethetruth'
 linkedin: chaseperkins007
 showPage: true
-metaImage: chaseperkins.jpg
+metaImage: meta_chaseperkins.jpg
 ---
 
 # Chase Perkins

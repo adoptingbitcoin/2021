@@ -122,6 +122,7 @@ export default {
     i18n: true
   },
   env: {
-    production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false
+    production: (process.env.CI_PROJECT_NAME === 'adopting-bitcoin-live') || false,
+    domain: process.env.PAGE_DOMAIN ?? 'adoptingbitcoin.org'
   }
 }
