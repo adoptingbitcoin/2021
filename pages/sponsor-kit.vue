@@ -70,7 +70,7 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
+          content: 'https://' + process.env.domain + '/adopting_bitcoin_meta_preview_q.jpg'
         },
         {
           hid: 'og:title',
@@ -80,7 +80,7 @@ export default {
         {
           hid: 'og:url',
           name: 'og:url',
-          content: 'https://adoptingbitcoin.org'
+          content: 'https://' + process.env.domain
         },
         {
           hid: 'og:type',
