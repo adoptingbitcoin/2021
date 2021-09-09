@@ -54,7 +54,6 @@ export default {
       })
       resp.on('end', () => {
         try {
-          console.log(data)
           const ret = JSON.parse(data)
           if (ret.status === 'success') {
             this.earlyBirdTicketsLeft = ret.available + ' ' + this.$t('tickets.ticketsleft')

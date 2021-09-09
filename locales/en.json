@@ -93,5 +93,16 @@
   },
   "faq": {
     "title": "FAQ"
+  },
+  "press-kit": {
+    "title": "Press",
+    "text": "Blablablablablabla",
+    "download-kit": "Download Press Kit"
+  },
+  "sponsor-kit": {
+    "title": "Sponsor Kit",
+    "text": "Blablablablablabla",
+    "download-kit": "Download Sponsor Kit",
+    "faqTitle": "Sponsor FAQ"
   }
 }
