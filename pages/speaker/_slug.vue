@@ -35,6 +35,7 @@ export default {
   head () {
     const i18nHead = this.$nuxtI18nHead({ addSeoAttributes: true })
     const speakerName = this.speaker.name.replace(/<[^>]*>?/gm, '')
+    const metaImage = this.speaker.metaImage ? 'https://adoptingbitcoin.org/speaker-meta/' + this.speaker.metaImage : 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
     return {
       htmlAttrs: {
         ...i18nHead.htmlAttrs
@@ -54,7 +55,7 @@ export default {
         {
           hid: 'og:image',
           name: 'og:image',
-          content: 'https://adoptingbitcoin.org/adopting_bitcoin_meta_preview_q.jpg'
+          content: metaImage
         },
         {
           hid: 'og:title',
