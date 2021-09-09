@@ -78,6 +78,9 @@
       "title": "Solo para los primeros adoptadores",
       "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
     }
+  },
+  "faq": {
+    "title": "FAQ"
   }
 }
 

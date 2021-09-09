@@ -79,5 +79,8 @@
       "title": "Early Adopters only",
       "text": "Tickets for this event can be paid with bitcoin over Lightning only."
     }
+  },
+  "faq": {
+    "title": "FAQ"
   }
 }

@@ -23,6 +23,7 @@
           <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">Sponsors</NuxtLink>
           <NuxtLink to="/#location" class="link" @click.native="menuIsShown=false">Location</NuxtLink>
           <NuxtLink to="/#news" class="link" @click.native="menuIsShown=false">News</NuxtLink>
+          <NuxtLink to="/faq" class="link" @click.native="menuIsShown=false">FAQ</NuxtLink>
         </div>
       </div>
     </div>

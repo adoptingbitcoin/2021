@@ -46,7 +46,7 @@ export default {
       .fetch()
 
     const sponsors = await $content('sponsors', params.slug)
-      .only(['width', 'img', 'slug'])
+      .only(['width', 'img', 'slug', 'title'])
       .sortBy('width', 'desc')
       .fetch()
 
