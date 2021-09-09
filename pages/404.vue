@@ -2,16 +2,16 @@
   <div class="w-full">
     <Header />
     <Container>
-        <BlueTitle>
-          Error 404
-        </BlueTitle>
-        <p>
-          The page you're looking for could not be found.
-        </p>
-        <div class="my-16"></div>
-        <NuxtLink to="/" class="border-2 border-blue text-blue bg-white p-2 rounded hover:bg-blue hover:text-white">
-          Back to Main Page
-        </NuxtLink>
+      <BlueTitle>
+        Error 404
+      </BlueTitle>
+      <p>
+        The page you're looking for could not be found.
+      </p>
+      <div class="my-16" />
+      <NuxtLink to="/" class="border-2 border-blue text-blue bg-white p-2 rounded hover:bg-blue hover:text-white">
+        Back to Main Page
+      </NuxtLink>
     </Container>
     <ContactUs />
     <ContactUs />

@@ -5,7 +5,9 @@
       <BlueTitle>
         {{ $t('press-kit.title') }}
       </BlueTitle>
+      <!-- eslint-disable vue/no-v-html -->
       <p class="mb-5" v-html="$t('press-kit.text')" />
+      <!-- eslint-enable -->
       <a
         href="/Adopting_Bitcoin_2021_PRESS_KIT.zip"
         target="_blank"

@@ -59,10 +59,12 @@ export default {
             this.earlyBirdTicketsLeft = ret.available + ' ' + this.$t('tickets.ticketsleft')
           }
         } catch (e) {
+          // eslint-disable-next-line no-console
           console.log(e)
         }
       })
     }).on('error', (err) => {
+      // eslint-disable-next-line no-console
       console.log('Error: ' + err.message)
     })
   }

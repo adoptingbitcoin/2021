@@ -1,11 +1,13 @@
 <template>
   <div class="w-full">
-    <Header id="home"/>
+    <Header id="home" />
     <Container>
       <BlueTitle>
         {{ $t('sponsor-kit.title') }}
       </BlueTitle>
-      <p class="mb-5" v-html="$t('sponsor-kit.text')"/>
+      <!-- eslint-disable vue/no-v-html -->
+      <p class="mb-5" v-html="$t('sponsor-kit.text')" />
+      <!-- eslint-enable -->
       <a
         href="/Adopting_Bitcoin_2021_PRESS_KIT.zip"
         target="_blank"
@@ -14,10 +16,10 @@
         <i class="fas fa-download" /> {{ $t('sponsor-kit.download-kit') }}
       </a>
 
-      <div class="my-16"></div>
+      <div class="my-16" />
 
       <BlueTitle>{{ $t('sponsor-kit.faqTitle') }}</BlueTitle>
-      <div :key="item.slug" class="" v-for="item in faq">
+      <div v-for="item in faq" :key="item.slug" class="">
         <div class="mb-14">
           <h3 class="text-2xl my-3">
             {{ item.title }}

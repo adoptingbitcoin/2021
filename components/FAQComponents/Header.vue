@@ -4,11 +4,10 @@
     <div class="absolute bottom-0 left-0 w-full">
       <Container>
         <h1 class="text-white text-3xl md:text-5xl">
-          {{ $t('faq.title')}}
+          {{ $t('faq.title') }}
         </h1>
       </Container>
     </div>
-
   </div>
 </template>
 
@@ -17,8 +16,7 @@ import Nav from '~/components/Nav'
 import Container from '~/components/Container'
 export default {
   name: 'Header',
-  components: { Container, Nav },
-  props: ['']
+  components: { Container, Nav }
 }
 </script>
 

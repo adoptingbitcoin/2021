@@ -1,13 +1,13 @@
 <template>
   <div class="w-full">
-    <Header id="home"/>
+    <Header id="home" />
     <JoinTheNetwork />
-    <SpeakerList :speakers="speakers" id="speakers"/>
+    <SpeakerList id="speakers" :speakers="speakers" />
     <ComeJoinUs />
     <Schedule />
     <Tickets id="tickets" />
-    <Sponsors :sponsors="sponsors" id="sponsors" />
-    <Locations :locations="locations" id="location" />
+    <Sponsors id="sponsors" :sponsors="sponsors" />
+    <Locations id="location" :locations="locations" />
     <OrganizerList :speakers="organizers" />
     <Subscribe id="news" />
     <ContactUs />

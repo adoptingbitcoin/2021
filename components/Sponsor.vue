@@ -4,8 +4,9 @@
       <div class="image-border rounded-full">
         <img :src="computedImg" alt="" class="rounded-full p-1 w-full h-auto object-cover">
       </div>
-      <!--    <h2 class="text-lg font-semibold my-2 text-center" v-html="sponsor.title"></h2>-->
+      <!-- eslint-disable vue/no-v-html -->
       <p class="text-xs italic text-center my-2 mx-auto" v-html="sponsor.title" />
+      <!-- eslint-enable -->
     </a>
   </div>
 </template>
@@ -14,7 +15,10 @@
 export default {
   name: 'Sponsor',
   props: {
-    sponsor: Object
+    sponsor: {
+      type: Object,
+      default: () => { return {} }
+    }
   },
   computed: {
     computedImg () {

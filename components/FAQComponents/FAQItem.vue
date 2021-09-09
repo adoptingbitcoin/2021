@@ -14,7 +14,12 @@
 <script>
 export default {
   name: 'FAQItem',
-  props: ['item'],
+  props: {
+    item: {
+      type: Object,
+      default: () => { return {} }
+    }
+  },
   data () {
     return {
       panelIsShown: false

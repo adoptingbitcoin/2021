@@ -1,8 +1,8 @@
 <template>
   <div class="w-full">
-    <Header id="home"/>
+    <Header id="home" />
     <Container>
-      <div :key="item.slug" class="" v-for="item in faq">
+      <div v-for="item in faq" :key="item.slug" class="">
         <div class="mb-14">
           <h3 class="text-2xl my-3">
             {{ item.title }}

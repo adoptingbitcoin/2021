@@ -9,7 +9,7 @@
           <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
         <div class="mx-auto w-content cursor-pointer mx-2" @click="toggleSponsorSignup">
-          <CTA>{{ $t('sponsors.callforsponsors')}}</CTA>
+          <CTA>{{ $t('sponsors.callforsponsors') }}</CTA>
         </div>
       </Container>
     </BGGrey>
@@ -35,9 +35,12 @@ import CTA from '~/components/CTA'
 export default {
   name: 'Sponsors',
   components: { CTA, Sponsor, GradientHeader, Container, BGGrey },
-  props: [
-    'sponsors'
-  ],
+  props: {
+    sponsors: {
+      type: Array,
+      default: () => { return [] }
+    }
+  },
   data () {
     return {
       showSponsorSignup: Boolean(false)

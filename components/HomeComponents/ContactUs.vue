@@ -1,7 +1,9 @@
 <template>
   <BGColor class="">
     <Container class="text-white">
-      <h2 class="text-4xl font-bold text-white">{{ $t('contactus.title') }}</h2>
+      <h2 class="text-4xl font-bold text-white">
+        {{ $t('contactus.title') }}
+      </h2>
       <div class="my-10 mx-auto grid grid-cols-1 md:grid-cols-3 grid-flow-row gap-4">
         <div class="my-5">
           <h5 class="font-bold text-2xl">
@@ -36,18 +38,22 @@
           </p>
         </div>
       </div>
-      <div class="py-16">
-      </div>
+      <div class="py-16" />
       <div class="text-center md:text-left md:float-left my-5">
-        <NuxtLink to="/faq">{{ $t('menu.faq') }}</NuxtLink> |
-        <NuxtLink to="/press-kit">{{ $t('menu.forpress') }}</NuxtLink> |
-        <NuxtLink to="/sponsor-kit">{{ $t('menu.forsponsors') }}</NuxtLink>
+        <NuxtLink to="/faq">
+          {{ $t('menu.faq') }}
+        </NuxtLink> |
+        <NuxtLink to="/press-kit">
+          {{ $t('menu.forpress') }}
+        </NuxtLink> |
+        <NuxtLink to="/sponsor-kit">
+          {{ $t('menu.forsponsors') }}
+        </NuxtLink>
       </div>
       <div class="text-center md:text-left md:float-right my-5">
         <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
       </div>
-      <div class="py-4">
-      </div>
+      <div class="py-4" />
     </Container>
   </BGColor>
 </template>
