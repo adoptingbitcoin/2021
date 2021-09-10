@@ -1,6 +1,7 @@
 <template>
   <div class="w-full">
-    <Header id="home" />
+    <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': !navIsVisible }" />
+    <Header id="home" v-view="headerScrollHandler" />
     <JoinTheNetwork />
     <SpeakerList id="speakers" :speakers="speakers" />
     <ComeJoinUs />
@@ -26,8 +27,9 @@ import ContactUs from '~/components/HomeComponents/ContactUs'
 import OrganizerList from '~/components/HomeComponents/OrganizerList'
 import Tickets from '~/components/HomeComponents/Tickets'
 import Sponsors from '~/components/HomeComponents/Sponsors'
+import Nav from '~/components/Nav'
 export default {
-  components: { Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
+  components: { Nav, Sponsors, Tickets, OrganizerList, ContactUs, Subscribe, Locations, Schedule, ComeJoinUs, SpeakerList, JoinTheNetwork, Header },
   async asyncData ({ $content, params, i18n }) {
     const speakers = await $content('speakers', params.slug)
       .only(['name', 'function', 'img', 'slug', 'showPage', 'twitter', 'url'])
@@ -55,6 +57,14 @@ export default {
       organizers,
       locations,
       sponsors
+    }
+  },
+  data () {
+    return {
+      navIsVisible: {
+        type: Boolean,
+        default: false
+      }
     }
   },
   head () {
@@ -116,9 +126,27 @@ export default {
         ...i18nHead.link
       ]
     }
+  },
+  methods: {
+    headerScrollHandler (e) {
+      if (this.navIsVisible && e.type === 'enter') {
+        this.navIsVisible = false
+      } else if (!this.navIsVisible && e.type === 'exit') {
+        this.navIsVisible = true
+      }
+    }
   }
 }
 </script>
 
 <style scoped>
+.navIsHidden {
+  opacity: 0;
+  transition: 0.5s ease-in-out;
+}
+.navIsVisible {
+  display: block;
+  opacity: 1!important;
+  transition: display 0s, opacity 0.5s ease-in-out;
+}
 </style>
