@@ -6,26 +6,33 @@ twitter: '@stephanlivera'
 github: stephanlivera
 linkedin: stephan-livera-11130717
 metaImage: meta_stephanlivera.jpg
+showPage: true
 ---
 
 # Stephan Livera
  
 Stephan Livera is the host of the Stephan Livera Podcast, which is one of the world’s leading Bitcoin podcasts. With over 3M downloads it is ranked in the top 0.5% of podcasts globally. The podcast is focused on educational interviews about the economics and technology of Bitcoin. Stephan is also the head of Swan Bitcoin International, where he continues his role in Bitcoin education and helps to onboard HNWI, businesses and other entities into accumulating Bitcoin.
 
-
-
 <br><br>
-## RECENT PROJECTS
-<br>
 
-[**LISTEN 
-SLP71 Stephan Livera – Intro to Bitcoin Austrian Thought**](https://stephanlivera.com/episode/71/)
-<br>
+## Dive deeper
 
-[**LISTEN
- SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**](https://stephanlivera.com/episode/279/) 
-<br>
 
+<div class="grid grid-cols-2 gap-5">
+<div class="px-3">
+
+**Listen - SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought** <br><br>
+[ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
+</div>
+
+<div class="px-3">
+
+**Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
+[![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
+</div>
+</div>
+
+<br>
 
 
 
