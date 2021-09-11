@@ -1,7 +1,7 @@
 <template>
   <div class="speaker">
     <Header :speaker="speaker" />
-    <Container>
+    <Container class="my-2">
       <nuxt-content :document="speaker" />
     </Container>
     <SpeakerList :speakers="allSpeakers" />
