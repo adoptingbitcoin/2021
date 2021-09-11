@@ -18,14 +18,14 @@ Stephan Livera is the host of the Stephan Livera Podcast, which is one of the wo
 ## Dive deeper
 
 
-<div class="grid grid-cols-2 gap-5">
-<div class="px-3">
+<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
 
 **Listen - SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought** <br><br>
 [ ![SLP71: Stephan Livera – Intro to Bitcoin Austrian Thought](/content/livera.png)](https://open.spotify.com/episode/1nnACZ84WdpdQ15jm3SH5X/)
 </div>
 
-<div class="px-3">
+<div class="p-3 my-2">
 
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
 [![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
