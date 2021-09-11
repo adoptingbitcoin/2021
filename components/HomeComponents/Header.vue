@@ -23,10 +23,10 @@
     </Container>
     <div class="w-full absolute right-0 top-0 flex items-center justify-end mt-3 mr-3">
       <div class="mr-5">
-        <nuxt-link :to="switchLocalePath('en')">
+        <nuxt-link :to="switchLocalePath('en')" v-if="showLocale('en')">
           English
         </nuxt-link>
-        <nuxt-link :to="switchLocalePath('es')">
+        <nuxt-link :to="switchLocalePath('es')" v-if="showLocale('es')">
           Español
         </nuxt-link>
       </div>
@@ -40,7 +40,12 @@ import Container from '~/components/Container'
 import Logo from '~/components/Logo'
 export default {
   name: 'Header',
-  components: { Logo, Container }
+  components: { Logo, Container },
+  methods: {
+    showLocale (locale) {
+      return this.$i18n.locale !== locale
+    }
+  }
 }
 </script>
 
