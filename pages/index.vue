@@ -1,6 +1,6 @@
 <template>
   <div class="w-full">
-    <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': !navIsVisible }" />
+    <Nav class="navIsHidden" :class="{ 'navIsVisible': navIsVisible, 'hidden': hideNav }" />
     <Header id="home" v-view="headerScrollHandler" />
     <JoinTheNetwork />
     <SpeakerList id="speakers" :speakers="speakers" />
@@ -64,6 +64,10 @@ export default {
       navIsVisible: {
         type: Boolean,
         default: false
+      },
+      hideNav: {
+        type: Boolean,
+        default: true
       }
     }
   },
@@ -127,6 +131,12 @@ export default {
       ]
     }
   },
+  mounted () {
+    const app = this
+    setTimeout(function () {
+      app.hideNav = false
+    }, 200)
+  },
   methods: {
     headerScrollHandler (e) {
       if (this.navIsVisible && e.type === 'enter') {
@@ -141,12 +151,13 @@ export default {
 
 <style scoped>
 .navIsHidden {
+  visibility: hidden;
   opacity: 0;
-  transition: 0.5s ease-in-out;
+  transition: all 0.5s ease;
 }
 .navIsVisible {
-  display: block;
+  visibility: visible;
   opacity: 1!important;
-  transition: display 0s, opacity 0.5s ease-in-out;
+  transition: opacity 0.5s ease;
 }
 </style>
