@@ -80,8 +80,7 @@
       "text": "Los boletos para el evento solo pueden pagados con bitcoin a través de Lightning."
     },
     "priceUp": {
-      "title": "Pricing Schedule",
-      "text": "We‘ve got our own „halving“ at work, get in early and get the better price.",
+      "title": "Ticket Schedule",
       "prices": [
         {
           "text": "<strong>Early innovator</strong> until 30.09.",
