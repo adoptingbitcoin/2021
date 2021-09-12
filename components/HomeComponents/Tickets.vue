@@ -28,9 +28,25 @@
     <BlueTitle class="mt-8">
       {{ $t('tickets.earlyAdopters.title') }}
     </BlueTitle>
-    <p class="mb-10">
+    <p class="mb-5">
       {{ $t('tickets.earlyAdopters.text') }}
     </p>
+    <BlueTitle class="mt-8">
+      {{ $t('tickets.priceUp.title') }}
+    </BlueTitle>
+    <p class="mb-10">
+      {{ $t('tickets.priceUp.text') }}
+    </p>
+    <table class="mb-10">
+      <tr v-bind:key="price.text" v-for="price in $t('tickets.priceUp.prices')">
+        <td>
+          <span v-html="price.text" />
+        </td>
+        <td class="px-10">
+          <span v-html="price.price" />
+        </td>
+      </tr>
+    </table>
   </Container>
 </template>
 
