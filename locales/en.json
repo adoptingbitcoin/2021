@@ -77,7 +77,7 @@
     "ticket3Price": "with voucher only",
     "ticketsleft": "Tickets left",
     "earlyAdopters": {
-      "title": "Early Adopters only",
+      "title": "Lightning only",
       "text": "Tickets for this event can be paid with bitcoin over Lightning only."
     },
     "priceUp": {
