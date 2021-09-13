@@ -5,3 +5,23 @@ faq:
     answer: 'Either a negative PCR test OR a proof of vaccination is required.'
   - question: 'Which airport should I fly into?'
     answer: 'The nearest airport to the convention center is the El Salvador International Airport in San Salvador SAL (IATA)'
+  - question: 'How will I best accommodate?'
+    answer: 'The conference is taking place at the Sheraton Hotel, so the easiest is to have lodging there. The Sheraton is also the preferred place to stay for international statesmen, like US presidents. Furthermore, there are several hotels in walking distance and plenty of AirBnB options nearby as well.'
+  - question: 'What are the COVID-related requirements for travel to El Salvador?'
+    answer: 'Either a negative PCR test OR a proof of vaccination is required.'
+  - question: 'How about general security in El Salvador?'
+    answer: 'Contrary to international perception, El Salvador is a safe place. Despite having a high crime rate, it is not dangerous for tourists to visit. Crime in El Salvador has declined and is isolated to specific areas that tourists will never enter.'
+  - question: 'Is there a place to chat with organizers and other attendees?'
+    answer: 'Yes, please join the chat on telegram https://t.me/AdoptingBTC'
+  - question: 'Will I be photographed or video recorded at the summit?'
+    answer: 'Only with your explicit consent. There will be a seamless way to signal consent or dissent for attendees with colored conference badges.'
+  - question: 'How can I volunteer?'
+    answer: 'Join the conference chat and introduce yourself https://t.me/AdoptingBTC or drop an email to adoptingbitcoin@galoy.io'
+  - question: 'Will there be a hacktable?'
+    answer: 'Yes, there will be a #reckless room with hackers and tinkerers, impromptu talks, prototypes, ad-hoc demos and unconference / barcamp style participant-driven meetings.'
+  - question: 'Can I contribute to the hacktable?'
+    answer: 'Absolutely, that’s what it’s for. '
+
+
+
+
