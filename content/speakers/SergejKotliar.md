@@ -19,13 +19,13 @@ Sergej Kotliar is the CEO and Founder of Bitrefill. The company aims to allow us
 
 
 <div class="grid grid-cols-2 gap-5">
-<div class="px-3">
+<div class="p-3 my-2">
 
 **Listen - SLP210: Sergej Kotliar How To Watch Bitcoin’s Mempool, Lightning Adoption & Privacy** <br><br>
 [ ![SLP210: Sergej Kotliar How To Watch Bitcoin’s Mempool, Lightning Adoption & Privacy](/content/sergejkotliar_slp210.jpeg)](https://open.spotify.com/episode/5giikTYzBj2mFZ1NvkiuK8/)
 </div>
 
-<div class="px-3">
+<div class="p-3 my-2">
 
 **Listen - WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail**  <br><br>
 [![WBD095: Sergej Kotliar From Bitrefill on Using Lightning in Retail](/content/sergejkotliar_l76.jpeg)](https://open.spotify.com/episode/3GjWEKKidqn9OHJJmkORAx/)

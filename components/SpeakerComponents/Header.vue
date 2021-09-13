@@ -1,13 +1,14 @@
 <template>
   <div class="header">
     <Nav />
-    <div class="SpeakerInfo absolute bottom-0 left-0 w-100-vw">
+    <div class="spacer" />
+    <div class="SpeakerInfo w-100-vw">
       <Container>
         <div class="grid grid-cols-1 md:grid-cols-3">
           <div class="image-border bg-red-400 rounded-full p-0 m-0 mx-auto">
             <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
           </div>
-          <div class="md:my-5"></div>
+          <div class="my-2 md:my-5"></div>
           <div class="mx-auto">
             <ul>
               <li v-if="speaker.twitter">
@@ -51,11 +52,11 @@ export default {
 .header{
   color: white;
   position: relative;
-  height: 70vh;
   width: 100%;
   background-image: url("~/assets/images/adopting_bitcoin_the_lightning_network.jpg");
   background-size: cover;
   background-position: top center;
+  min-height: fit-content;
 }
 
 .image-border{
@@ -65,5 +66,8 @@ export default {
 }
 img{
   max-height: 250px;
+}
+.spacer{
+  height: 175px;
 }
 </style>
