@@ -84,20 +84,20 @@
       "title": "Ticket Schedule",
       "prices": [
         {
-          "text": "<strong>Early innovator</strong> until 30.09.",
-          "price": "150$"
+          "text": "<strong>Early innovator</strong> until September 30th",
+          "price": "$150"
         },
         {
-          "text": "<strong>Early adopter</strong> until 15.10.",
-          "price": "200$"
+          "text": "<strong>Early adopter</strong> until October 15th",
+          "price": "$200"
         },
         {
-          "text": "<strong>Late adopter</strong> until 31.10.",
-          "price": "250$"
+          "text": "<strong>Late adopter</strong> until October 31st",
+          "price": "$250"
         },
         {
-          "text": "<strong>Late mover</strong> from 01.11.",
-          "price": "300$"
+          "text": "<strong>Late mover</strong> from November 1st",
+          "price": "$300"
         }
       ]
     }
