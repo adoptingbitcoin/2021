@@ -10,14 +10,7 @@
           {{ $t('tickets.ticket1') }}
         </h5>
         <span>{{ $t('tickets.ticket1Price') }}</span>
-        <br><span class="text-sm italic">{{ earlyBirdTicketsLeft }}</span>
       </a>
-      <!--      <a href="https://pretix.eu/galoy/adoptingbitcoin/" target="_blank" class="ticket ticket-2 p-10 text-center text-white">-->
-      <!--        <h5 class="text-2xl">-->
-      <!--          {{ $t('tickets.ticket2') }}-->
-      <!--        </h5>-->
-      <!--        <span>{{ $t('tickets.ticket2Price') }}</span>-->
-      <!--      </a>-->
       <div class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-2xl">
           {{ $t('tickets.ticket2') }}
@@ -55,31 +48,7 @@ export default {
   name: 'Tickets',
   components: { BlueTitle, GradientHeader, Container },
   data () {
-    return { earlyBirdTicketsLeft: '' }
-  },
-  created () {
-    const https = require('https')
-
-    https.get('https://bitkushin.space/adoptingbitcoin_ticketcount.php', (resp) => {
-      let data = ''
-      resp.on('data', (chunk) => {
-        data += chunk
-      })
-      resp.on('end', () => {
-        try {
-          const ret = JSON.parse(data)
-          if (ret.status === 'success') {
-            this.earlyBirdTicketsLeft = ret.available + ' ' + this.$t('tickets.ticketsleft')
-          }
-        } catch (e) {
-          // eslint-disable-next-line no-console
-          console.log(e)
-        }
-      })
-    }).on('error', (err) => {
-      // eslint-disable-next-line no-console
-      console.log('Error: ' + err.message)
-    })
+    return { }
   }
 }
 </script>

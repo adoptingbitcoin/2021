@@ -1,5 +1,5 @@
 ---
-tier: dolphin
+tier: whale
 img: blockstream.png
 title: 'Blockstream'
 prio: 49

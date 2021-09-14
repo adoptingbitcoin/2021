@@ -1,5 +1,5 @@
 ---
-width: 3
+tier: dolphin
 img: trammellventures1.png
 title: 'Trammell Ventures'
 prio: 44
