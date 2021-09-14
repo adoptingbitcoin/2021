@@ -39,17 +39,17 @@
         </div>
       </div>
       <div class="py-16" />
-<!--      <div class="text-center md:text-left md:float-left my-5">-->
-<!--        <NuxtLink to="/faq">-->
-<!--          {{ $t('menu.faq') }}-->
-<!--        </NuxtLink> |-->
+      <div class="text-center md:text-left md:float-left my-5">
+        <NuxtLink to="/faq">
+          {{ $t('menu.faq') }}
+        </NuxtLink>
 <!--        <NuxtLink to="/press-kit">-->
 <!--          {{ $t('menu.forpress') }}-->
 <!--        </NuxtLink> |-->
 <!--        <NuxtLink to="/sponsor-kit">-->
 <!--          {{ $t('menu.forsponsors') }}-->
 <!--        </NuxtLink>-->
-<!--      </div>-->
+      </div>
       <div class="text-center md:text-left md:float-right my-5">
         <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
       </div>

@@ -4,8 +4,8 @@
     <Container class="my-2">
       <nuxt-content :document="speaker" />
     </Container>
-    <SpeakerList :speakers="allSpeakers" />
     <Tickets id="tickets" />
+    <SpeakerList :speakers="allSpeakers" />
     <ContactUs />
   </div>
 </template>

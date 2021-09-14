@@ -1,5 +1,5 @@
 ---
-width: 3
+tier: dolphin
 img: voltage1.png
 title: 'Voltage'
 prio: 48
