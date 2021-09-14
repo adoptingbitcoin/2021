@@ -7,7 +7,7 @@
           <h3 class="text-2xl my-3">
             {{ item.title }}
           </h3>
-          <FAQList :faq-list="item" />
+          <FAQList :faq-list="item.faq" />
         </div>
       </div>
     </Container>
@@ -26,7 +26,7 @@ export default {
     const faq = await $content('faq', params.slug)
       .where({ language: i18n.locale })
       .fetch()
-
+    console.log(faq)
     return {
       faq
     }

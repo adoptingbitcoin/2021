@@ -6,7 +6,7 @@
           {{ $t('sponsors.title') }}
         </GradientHeader>
         <div v-if="sponsors.whales" class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-1 items-start mb-4">
-          <Sponsor v-for="(sponsor, i) in sponsors.whales" :key="i" :index="i" :sponsor="sponsor" class="p-8 md:p-10" />
+          <Sponsor v-for="(sponsor, i) in sponsors.whales" :key="i" :index="i" :sponsor="sponsor" class="p-8 md:p-16" />
         </div>
         <div v-if="sponsors.sharks" class="grid grid-cols-2 md:grid-cols-4  grid-flow-row gap-1 items-start mb-4">
           <Sponsor v-for="(sponsor, i) in sponsors.sharks" :key="i" :index="i" :sponsor="sponsor" class="" />
