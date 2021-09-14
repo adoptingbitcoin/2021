@@ -1,12 +1,10 @@
 <template>
-  <div class="">
+  <div class="faqItem">
     <button class="accordion" :class="{'active': panelIsShown}" @click="panelIsShown = !panelIsShown">
       {{ item.question }}
     </button>
     <div class="panel" :class="{'block': panelIsShown, 'hidden': !panelIsShown}">
-      <p class="py-5">
-        {{ item.answer }}
-      </p>
+      <p class="py-5" v-html="item.answer" />
     </div>
   </div>
 </template>
@@ -52,5 +50,11 @@ export default {
   padding: 0 18px;
   background-color: white;
   overflow: hidden;
+}
+</style>
+
+<style>
+.faqItem a{
+  @apply text-blue;
 }
 </style>
