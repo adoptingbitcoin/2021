@@ -14,7 +14,7 @@ pages:
     - if: '$CI_COMMIT_BRANCH == "master"'
 
 purge_cache:
-  image: alpine
+  image: curlimages/curl:7.78.0
   stage: .post
   script:
     - |
