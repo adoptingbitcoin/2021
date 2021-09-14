@@ -26,7 +26,6 @@ export default {
     const faq = await $content('faq', params.slug)
       .where({ language: i18n.locale })
       .fetch()
-    console.log(faq)
     return {
       faq
     }
