@@ -47,8 +47,20 @@ export default {
       .sortBy('prio', 'asc')
       .fetch()
 
-    const sponsors = await $content('sponsors', params.slug)
+    const sponsors = {}
+    sponsors.dolphins = await $content('sponsors', params.slug)
       .only(['width', 'img', 'slug', 'title', 'url'])
+      .where({ tier: 'dolphin' })
+      .sortBy('prio', 'desc')
+      .fetch()
+    sponsors.sharks = await $content('sponsors', params.slug)
+      .only(['width', 'img', 'slug', 'title', 'url'])
+      .where({ tier: 'shark' })
+      .sortBy('prio', 'desc')
+      .fetch()
+    sponsors.whales = await $content('sponsors', params.slug)
+      .only(['width', 'img', 'slug', 'title', 'url'])
+      .where({ tier: 'whale' })
       .sortBy('prio', 'desc')
       .fetch()
 

@@ -5,8 +5,14 @@
         <GradientHeader class="mb-10">
           {{ $t('sponsors.title') }}
         </GradientHeader>
-        <div class="grid grid-cols-2 md:grid-cols-5  grid-flow-row gap-1 items-start">
-          <Sponsor v-for="(sponsor, i) in sponsors" :key="i" :index="i" :sponsor="sponsor" class="" />
+        <div v-if="sponsors.whales" class="grid grid-cols-1 md:grid-cols-2  grid-flow-row gap-1 items-start mb-4">
+          <Sponsor v-for="(sponsor, i) in sponsors.whales" :key="i" :index="i" :sponsor="sponsor" class="p-8 md:p-10" />
+        </div>
+        <div v-if="sponsors.sharks" class="grid grid-cols-2 md:grid-cols-4  grid-flow-row gap-1 items-start mb-4">
+          <Sponsor v-for="(sponsor, i) in sponsors.sharks" :key="i" :index="i" :sponsor="sponsor" class="" />
+        </div>
+        <div v-if="sponsors.dolphins" class="grid grid-cols-3 md:grid-cols-6  grid-flow-row gap-1 items-start">
+          <Sponsor v-for="(sponsor, i) in sponsors.dolphins" :key="i" :index="i" :sponsor="sponsor" class="" />
         </div>
         <div class="mx-auto w-content cursor-pointer mx-2" @click="toggleSponsorSignup">
           <CTA>{{ $t('sponsors.callforsponsors') }}</CTA>
@@ -37,8 +43,8 @@ export default {
   components: { CTA, Sponsor, GradientHeader, Container, BGGrey },
   props: {
     sponsors: {
-      type: Array,
-      default: () => { return [] }
+      type: Object,
+      default: () => { return { dolphins: [], sharks: [], whales: [] } }
     }
   },
   data () {

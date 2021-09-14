@@ -1,5 +1,5 @@
 ---
-width: 3
+tier: dolphin
 img: fulmo.jpg
 title: 'Fulmo'
 prio: 99
