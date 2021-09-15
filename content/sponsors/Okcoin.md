@@ -1,9 +1,7 @@
 ---
 tier: shark
-img: blockstream.png
-title: 'Blockstream'
+img: okcoin.jpg
+title: 'Okcoin'
 prio: 49
-url: 'https://www.blockstream.com/'
+url: 'https://www.okcoin.com/'
 ---
-
-
