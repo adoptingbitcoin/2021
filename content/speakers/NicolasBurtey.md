@@ -27,9 +27,22 @@ Nicolas Burtey has been driving Bitcoin adoption on the ground in El Salvador. H
 
 <div class="p-3 my-2">
 
+**Watch - The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine**  <br><br>
+[![The Bitcoin Beach Wallet - The Van Wirdum Sjorsnado - Bitcoin Magazine](/content/nicolas_bm.png)](https://www.youtube.com/watch?v=O_TmbV-sdkA/)
+</div>
+
+<div class="p-3 my-2">
+
 **Read - Nicolas Burtey – Lightning as a retail payment system**  <br><br>
 [![Nicolas Burtey – Lightning as a retail payment system](/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
 </div>
+
+<div class="p-3 my-2">
+
+**Listen - LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey**  <br><br>
+[![LNJ049 Jumpstarting the Circular Economy in El Salvador with Nicolas Burtey](/content/nicolas_lnjunkies.png)](https://open.spotify.com/episode/2geKztDMrbqoKGxOplxqYT?si=SFN8aS-QSdGGM8ix7OsyYw&utm_source=copy-link&dl_branch=1/)
+</div>
+
 
 <div class="p-3 my-2">
 
