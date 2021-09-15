@@ -28,7 +28,13 @@ Nicolas Burtey has been driving Bitcoin adoption on the ground in El Salvador. H
 <div class="p-3 my-2">
 
 **Read - Nicolas Burtey – Lightning as a retail payment system**  <br><br>
-[![Nicolas Burtey – Lightning as a retail payment system](/content/livera_SLP279.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
+[![Nicolas Burtey – Lightning as a retail payment system](/content/nicolas_retail.png)](https://medium.com/galoymoney/lightning-as-a-retail-payment-system-part-1-7463c46342ef/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Satoshi en Venezuela - Building Bitcoin solutions to the world with Lightning Network**  <br><br>
+[![Building Bitcoin solutions to the world with Lightning Network](/content/nicolas_satoshi.png)](https://www.youtube.com/watch?v=fc9FFteN-88/)
 </div>
 </div>
 
