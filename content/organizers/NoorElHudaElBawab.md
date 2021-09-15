@@ -1,12 +1,12 @@
 ---
-name: "Noor <br>El Huda El Bawab"
+name: "Noor <br>El Bawab"
 function: bitcoinarabic.org
 img: noor.png
 social: https://twitter.com/NuraElb
 prio: 3
 ---
 
-# Noor El Huda El Bawab
+# Noor El Bawab
 
 Blablablablablablablabla
 blablablabla
