@@ -9,7 +9,7 @@
             <img :src="computedImg" alt="" class="rounded-full object-cover p-1" />
           </div>
           <div class="my-2 md:my-5"></div>
-          <div class="mx-auto">
+          <div class="mx-auto text-xl">
             <ul>
               <li v-if="speaker.twitter">
                 <a :href="'https://twitter.com/' + speaker.twitter" target="_blank"><i class="fab fa-twitter-square" /> {{ speaker.twitter }}</a>

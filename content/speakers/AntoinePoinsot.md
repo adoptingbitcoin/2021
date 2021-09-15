@@ -1,7 +1,7 @@
 ---
 name: "Antoine <br>Poinsot"
 function: Revault
-img: antoinepoinsot1.png
+img: antoinepoinsot.jpg
 twitter: '@AntoinePoinsot'
 github: AntoinePoinsot
 linkedin: AntoinePoinsot
