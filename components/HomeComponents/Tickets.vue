@@ -29,7 +29,7 @@
       {{ $t('tickets.priceUp.title') }}
     </h2>
     <table class="mb-10">
-      <tr v-bind:key="price.text" v-for="price in $t('tickets.priceUp.prices')">
+      <tr v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
         <td>
           <span v-html="price.text" />
         </td>
