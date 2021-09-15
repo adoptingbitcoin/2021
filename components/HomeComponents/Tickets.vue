@@ -9,7 +9,8 @@
         <h5 class="text-2xl">
           {{ $t('tickets.ticket1') }}
         </h5>
-        <span>{{ $t('tickets.ticket1Price') }}</span>
+        <span>{{ $t('tickets.ticket1Price') }}</span> <br>
+        <span class="text-xs text-white">until September 30th</span>
       </a>
       <div class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-2xl">
@@ -28,7 +29,7 @@
       {{ $t('tickets.priceUp.title') }}
     </h2>
     <table class="mb-10">
-      <tr v-bind:key="price.text" v-for="price in $t('tickets.priceUp.prices')">
+      <tr v-for="price in $t('tickets.priceUp.prices')" :key="price.text">
         <td>
           <span v-html="price.text" />
         </td>
