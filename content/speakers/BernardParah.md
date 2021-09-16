@@ -5,10 +5,38 @@ img: bernardparah.jpg
 twitter: '@bernard_parah'
 github: b3h3rkz
 linkedin: bernard-parah-22437386
+showPage: true
 ---
 
 # Bernard Parah
  
-Blablablablablablablabla
-blablablabla
+Bernard is the CEO of Bitnob, a technology and financial services company for the African continent built on top of Bitcoin. They offer automated Bitcoin savings and purchases, Bitcoin collateralized loans, remittance services, OTC and business applications that make it easier for people in Africa to transition into the Bitcoin economy.
 
+
+<br><br>
+
+## Dive deeper
+
+
+<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
+[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Bitnob joins the Lightning Network** <br><br>
+[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - BTC In Emerging Markets** <br><br>
+[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+</div>
+
+</div>
+
+<br>
