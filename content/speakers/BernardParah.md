@@ -31,6 +31,11 @@ Bernard is the CEO of Bitnob, a technology and financial services company for th
 [ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
 </div>
 
+<div class="p-3 my-2">
+
+**Watch - BTC In Emerging Markets** <br><br>
+[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+</div>
 
 </div>
 
