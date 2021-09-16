@@ -27,8 +27,8 @@ Bernard is the CEO of Bitnob, a technology and financial services company for th
 
 <div class="p-3 my-2">
 
-**Read - Bernard Parah: Bitnob joins the Lightning Network** <br><br>
-[ ![Bernard Parah: Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
+**Read - Bitnob joins the Lightning Network** <br><br>
+[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
 </div>
 
 
