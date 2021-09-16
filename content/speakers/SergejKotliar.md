@@ -12,7 +12,6 @@ metaImage: meta_sergejkotliar.jpg
 # Sergej Kotliar
  
 Sergej Kotliar is the CEO and Founder of Bitrefill. The company aims to allow users to buy almost anything with Bitcoin through the use of gift cards. With their easy and intuitive purchasing process, users can live on Bitcoin in more than 200 jurisdictions around the world.
-
 <br><br>
 Sergej Kotliar es el CEO y fundador de Bitrefill. La compañía tiene como objetivo permitir a los usuarios comprar casi cualquier cosa con Bitcoin mediante el uso de tarjetas de regalo. Con su proceso de compra fácil e intuitivo, los usuarios pueden vivir en Bitcoin en más de 200 jurisdicciones alrededor de todo el mundo.
 <br><br>
