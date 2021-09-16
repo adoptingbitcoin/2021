@@ -12,6 +12,9 @@ showPage: true
 Not only a data privacy and tech policy attorney, but a real cypherpunk, Chase Perkins is the CEO and Founder of Impervious.ai. Their API allows any developer to build on the Lightning Network and enables a programmatic layer 3 for the creation of censorship resistant, permissionless apps.
 
 <br><br>
+Chase Perkins no solamente es un abogado especializado en políticas de privacidad y tecnología de datos, sino un verdadero cypherpunk, y además el CEO y fundador de Impervious.ai. Su API permite a cualquier desarrollador trabajar sobre Lightning Network y habilita una tercera capa programática para la creación de aplicaciones resistentes a la censura y que no requieren permisos.
+
+<br><br>
 
 ## Dive deeper
 
