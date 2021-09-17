@@ -4,7 +4,6 @@ function: Voltage Cloud
 img: bobthebuilder.jpg
 twitter: '@BitcoinCoderBob'
 github: BitcoinCoderBob
-url: https://voltage.cloud/
 ---
 
 # Bob The Builder
