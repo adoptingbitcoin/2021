@@ -11,8 +11,8 @@ showPage: true
 # Ben Arc
  
 From Wales, Ben Arc advocates and educates about Free Open Source Software (FOSS). Since around 2014, he has been building hardware and software for Bitcoin and LN. In this space, Ben encourages people to build their own things and in this way, gain more autonomy while interacting with Bitcoin and Bitcoin devices. LNbits is one of his projects, a free and open-source lightning wallet. 
-
-
+<br><br>
+Nativo de Gales, Ben Arc es un promotor y educador sobre el software libre de código abierto (FOSS). Aproximadamente desde 2014, ha estado construyendo hardware y software para Bitcoin y Lightning Network. En este espacio, Ben anima a las personas a construir sus propias cosas y de esta manera, obtener más autonomía al interactuar con Bitcoin y dispositivos Bitcoin. LNbits es uno de sus proyectos, una billetera Lightning gratuita y de código abierto.
 <br><br>
 
 ## Dive deeper
