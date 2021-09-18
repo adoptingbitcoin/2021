@@ -23,11 +23,11 @@ Alex Leishman is the Co-Founder and Chief Executive Officer at River Financial. 
 </div>
 
 **Watch - Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank** <br><br>
-[ ![Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank)](https://www.youtube.com/watch?v=z748YqKzOHc/)
+[ ![Bitcoin Rapid Fire - w/ Alex Leishman: Building a Bitcoin Bank)(/content/alex_rapidfire.png)](https://www.youtube.com/watch?v=z748YqKzOHc/)
 </div>
 
 **Watch - Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company** <br><br>
-[ ![Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company](/content/alex_pomp.jpg)](https://www.youtube.com/watch?v=UIt-_iFnn08/)
+[ ![Pomp Podcast 407: Alexander Leishman On Building A Bitcoin Company](/content/alex_pomp.png)](https://www.youtube.com/watch?v=UIt-_iFnn08/)
 </div>
 
 </div>
