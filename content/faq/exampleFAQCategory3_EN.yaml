@@ -1,13 +1,7 @@
-title: General
+title: Safety practices
 language: en
 faq:
-  - question: 'Is there a place to chat with organizers and other attendees?'
-    answer: 'Yes, please join the <a href="https://t.me/AdoptingBTC">chat on telegram</a> and say hello '
-  - question: 'Will I be photographed or video recorded at the summit?'
-    answer: 'Only with your explicit consent. There will be a seamless way to signal consent or dissent for attendees with colored conference badges.'
-  - question: 'How can I volunteer?'
-    answer: 'Join the <a href="https://t.me/AdoptingBTC">chat on telegram</a> and introduce yourself or  <a href="mailto:adoptingbitcoin@galoy.io">drop an email</a> and state how you can to contribute.'
-  - question: 'Will there be a hacktable?'
-    answer: 'Yes, there will be a #reckless room with hackers and tinkerers, impromptu talks, prototypes, ad-hoc demos and unconference / barcamp style participant-driven meetings.'
-  - question: 'Can I contribute to the hacktable?'
-    answer: 'Absolutely, that’s what it’s for. Join the <a href="https://t.me/bitcoinhacktable">Hacktable chat on telegram</a> and connect with the Lightning hackers'
+  - question: 'Security in El Salvador'
+    answer: 'Contrary to the international perception, El Salvador is a safe place, especially for tourists. Despite having a high crime rate, it is not dangerous for tourists to visit. Crime in El Salvador has declined and is isolated to specific areas that tourists will never enter.'
+  - question: 'Security at the conference'
+    answer: 'As with any Bitcoin conference, don’t “bring” your coins to the conference and don’t carry valuable items with you.'
