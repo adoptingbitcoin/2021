@@ -1,12 +1,11 @@
-title: Accomodation
+title: Booking
 language: en
 faq:
-  - question: 'What is the best way to lodge?'
-    answer: 'The conference is taking place at the Sheraton Hotel, so the easiest is to have lodging there. The Sheraton is also the preferred place to stay for international statesmen when in El Salvador, like US presidents. Furthermore, there are several hotels in walking distance and plenty of AirBnB options nearby as well.'
-  - question: 'How about security of visitors in El Salvador?'
-    answer: 'Contrary to international perception, El Salvador is a safe place. Despite having a high crime rate, it is not dangerous for tourists to visit. Crime in El Salvador has declined and is isolated to specific areas that tourists will never enter.'
-  - question: 'What privacy or security precautions can I take?'
-    answer: 'As with any Bitcoin conference, don’t “bring” your coins to the conference and don’t carry valuable items with you.'
+  - question: 'Layover'
+    answer: 'If you have a layover somewhere on your way to El Savador, make sure to check the Covid restrictions requirements of the transit country/city/state. <a href="https://www.iatatravelcentre.com/world.php">Click here for more info.</a>'
+  - question: 'Hotels and Lodging'
+    answer: 'Book your hotel stay early, the week of the 16th of November will be full of bitcoin events that will take over the city! We recommend the following options - <a href="https://www.marriott.com/hotels/travel/salsi-sheraton-presidente-san-salvador-hotel/">Sheraton Presidente</a>, <a href="https://www.barcelo.com/en-ca/barcelo-san-salvador/">Barcelo</a>. If you choose to book an airbnb, here are the safe areas we recommend you look for - Colonia San Benito, or Colonia Escalon.'
+
 
 
 
