@@ -39,7 +39,7 @@ Romain Rouphael es el cofundador de LN Markets e ITŌ, siendo esta última la em
 
 <div class="p-3 my-2">
 
-**Todo lo que necesitas saber sobre LNMarkets - Hablemos de Bitcoin con R. Rouphael**  <br><br>
+**Watch - Todo lo que necesitas saber sobre LNMarkets - Hablemos de Bitcoin con R. Rouphael**  <br><br>
 [![Todo lo que necesitas saber sobre LNMarkets - Hablemos de Bitcoin con R. Rouphael](/content/romain_hablemos.png)](https://www.youtube.com/watch?v=TLCYocg_B5Q/)
 </div>
 </div>
