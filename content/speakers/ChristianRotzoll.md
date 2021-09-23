@@ -33,12 +33,6 @@ A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better kn
 
 <div class="p-3 my-2">
 
-**Listen - What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll** <br><br>
-[ ![What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll](/content/rootzoll_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/lightning-series-running-a-node/)
-</div>
-
-<div class="p-3 my-2">
-
 **Watch - Lightning Hackdays Munich 2019** <br><br>
 [ ![Lightning Hackdays Munich 2019](/content/rootzoll_stadicus.png)](https://player.vimeo.com/video/288241783?h=d71558c9be/)
 </div>
@@ -47,6 +41,12 @@ A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better kn
 
 **Read - 21ism Code Block01 - Rootzoll** <br><br>
 [ ![21ism Code Block01 - Rootzoll](/content/rootzoll_21ism.png)](https://21ism.com/portfolio-item/rootzoll/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll** <br><br>
+[ ![What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll](/content/rootzoll_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/lightning-series-running-a-node/)
 </div>
 
 </div>
