@@ -10,7 +10,7 @@ showPage: true
 
 # Christian Rotzoll
  
-A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better known by his online handle rootzoll, is a computer scientist from Bauhaus University Weimar and early Bitcoin and free software advocate from Berlin, Germany. He is the co-founder of Fulmo, organizers of the Lightning Conference 2019 in Berlin, as well as the Lightning Hackdays in New York 2018, Munich 2019 and Barcelona 2020. Rootzoll is also the lead dev of RaspibBlitz - a sovereign FOSS node package to run from home on low-cost hardware focused on privacy and security.
+A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better known by his online handle rootzoll, is a computer scientist from Bauhaus University Weimar and early Bitcoin and free software advocate from Berlin / Germany. He is the co-founder of Fulmo, organizers of the Lightning Conference 2019 in Berlin, as well as the Lightning Hackdays in New York 2018, Munich 2019 and Barcelona 2020. Rootzoll is also the lead dev of RaspibBlitz - a sovereign FOSS node package to run from home on low-cost hardware focused on privacy and security.
 
 
 <br><br>
@@ -33,20 +33,19 @@ A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better kn
 
 <div class="p-3 my-2">
 
-**Watch - Anita Posch #130 - Fulmo: RaspiBlitz and the Speed of Lightning** <br><br>
-[ ![Anita Posch #130 - Fulmo: RaspiBlitz and the Speed of Lightning](/content/rootzoll_anita.png)](https://youtu.be/VOs3KYizlMo/)
+**Watch - Anita Posch 130 - Fulmo: RaspiBlitz and the Speed of Lightning** <br><br>
+[ ![Anita Posch 130 - Fulmo: RaspiBlitz and the Speed of Lightning](/content/rootzoll_anita.png)](https://youtu.be/VOs3KYizlMo/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - What Bitcoin Did Lightning Series #372: Running a Node with Openoms & Rootzoll** <br><br>
-[ ![What Bitcoin Did Lightning Series #372: Running a Node with Openoms & Rootzoll](/content/rootzoll_anita.png)](https://www.whatbitcoindid.com/podcast/lightning-series-running-a-node/)
+**Listen - What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll** <br><br>
+[ ![What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll](/content/rootzoll_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/lightning-series-running-a-node/)
 </div>
 
 <div class="p-3 my-2">
-**Watch - Impressions from the Lightning Hackdays Munich 2019** <br><br>
+**Watch - Lightning Hackdays Munich 2019** <br><br>
 [ ![Lightning Hackdays Munich 2019](/content/rootzoll_stadicus.png)](https://player.vimeo.com/video/288241783?h=d71558c9be/)
-
 </div>
 
 </div>
