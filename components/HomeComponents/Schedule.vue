@@ -23,6 +23,10 @@
           <ul v-html="$t('schedule.day3list')"></ul>
         </div>
       </div>
+
+      <div class="color-bg p-5 text-white rounded mt-10">
+        <p v-html="$t('tickets.otherConferences')"/>
+      </div>
     </Container>
   </BGGrey>
 </template>
@@ -41,5 +45,8 @@ export default {
 ul{
   list-style: initial;
   padding-left: 20pt;
+}
+.color-bg{
+  background: -webkit-linear-gradient(10deg, #e60000, #004bb3, #004bb3);
 }
 </style>
