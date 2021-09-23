@@ -38,9 +38,6 @@
         </td>
       </tr>
     </table>
-    <div class="color-bg p-5 text-white rounded">
-      <p v-html="$t('tickets.otherConferences')"/>
-    </div>
   </Container>
 </template>
 
@@ -73,7 +70,4 @@ export default {
 .ticket-3{
     background-image: url("~/assets/images/ticket_3.jpg");
   }
-.color-bg{
-  background: -webkit-linear-gradient(10deg, #e60000, #004bb3, #004bb3);
-}
 </style>
