@@ -1,7 +1,7 @@
 ---
 name: "Paul <br>Itoi"
 function: Sphinx / Stakwork
-img: paulitoi.jpg
+img: paulitoi.png
 twitter: '@paulitoi'
 linkedin: paul-itoi-b1bb
 github: pitoi
