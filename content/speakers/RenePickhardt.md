@@ -49,7 +49,7 @@ Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consul
 <div class="p-3 my-2">
 
 **Read - Lightning Network Protocol Suite** <br><br>
-[ ![Lightning Network Protocol Suite](/content/rene_suite.png)](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lightning_Network_Protocol_Suite.png/)
+[ ![Lightning Network Protocol Suite](/content/rene_suite.png)](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lightning_Network_Protocol_Suite.png)
 </div>
 
 <div class="p-3 my-2">
@@ -60,7 +60,7 @@ Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consul
 
 <div class="p-3 my-2">
 
-**Listen - Rene Pickhardt Talks LN Fee Blackmail Attacks - LNJ034** <br><br>
+**Listen - Rene Pickhardt Talks LN Fee Blackmail Attacks** <br><br>
 [ ![Rene Pickhardt Talks LN Fee Blackmail Attacks - LNJ034](/content/rene_junkies.png)](https://lightningjunkies.net/lnj034-rene-pickhardt-talks-ln-blackmail-attacks/)
 </div>
 
