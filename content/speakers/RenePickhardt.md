@@ -31,7 +31,7 @@ Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consul
 <div class="p-3 my-2">
 
 **Read - Optimally Reliable & Cheap Payment Flows on the Lightning Network** <br><br>
-[ ![Optimally Reliable & Cheap Payment Flows on the Lightning Network](/content/rene_reliable.png)](https://arxiv.org/abs/2107.05322/)
+[ ![Optimally Reliable & Cheap Payment Flows on the Lightning Network](/content/rene_reliable1.png)](https://arxiv.org/abs/2107.05322/)
 </div>
 
 <div class="p-3 my-2">
