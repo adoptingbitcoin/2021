@@ -42,6 +42,18 @@ Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consul
 
 <div class="p-3 my-2">
 
+**Read - Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network** <br><br>
+[ ![Imbalance measure and proactive channel rebalancing algorithm for the Lightning Network](/content/rene_proactive.png)](https://arxiv.org/abs/1912.09555/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Lightning Network Protocol Suite** <br><br>
+[ ![Lightning Network Protocol Suite](/content/rene_suite.png)](https://upload.wikimedia.org/wikipedia/commons/f/f9/Lightning_Network_Protocol_Suite.png/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Rene Pickhardt's Youtube Channel** <br><br>
 [ ![Rene Pickhardt's Youtube Channel](/content/rene_youtube.png)](https://www.youtube.com/renepickhardt/)
 </div>
