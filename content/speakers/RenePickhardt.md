@@ -25,7 +25,7 @@ Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consul
 <div class="p-3 my-2">
 
 **Read - Rene Pickhardt - Introduction to the Lightning Network Protocol** <br><br>
-[ ![Introduction to the Lightning Network Protocol](/content/rene_lnprotocol.png)](https://upload.wikimedia.org/wikipedia/commons/b/b7/Introduction_to_the_Lightning_Network_Protocol_and_the_Basics_of_Lightning_Technology_%28BOLT_aka_Lightning-rfc%29.pdf/)
+[ ![Introduction to the Lightning Network Protocol](/content/rene_lnprotocol.png)](https://upload.wikimedia.org/wikipedia/commons/b/b7/Introduction_to_the_Lightning_Network_Protocol_and_the_Basics_of_Lightning_Technology_%28BOLT_aka_Lightning-rfc%29.pdf)
 </div>
 
 <div class="p-3 my-2">
