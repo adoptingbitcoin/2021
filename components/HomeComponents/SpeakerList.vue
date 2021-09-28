@@ -9,13 +9,7 @@
           <Speaker v-for="(speaker, i) in speakers" :key="i" :index="i" :speaker="speaker" />
         </div>
       </Container>
-      <div class="mx-auto w-content">
-        <div class="inline-block w-content cursor-pointer mx-2" @click="toggleSpeakerSignup">
-          <CTA>{{ $t('speakers.callforparticipation')}}</CTA>
-        </div>
-      </div>
     </BGGrey>
-    <SpeakerSignup v-if="showSpeakerSignup" />
   </div>
 </template>
 
@@ -24,26 +18,11 @@ import Speaker from '~/components/Speaker'
 import GradientHeader from '~/components/GradientHeader'
 import BGGrey from '~/components/BGGrey'
 import Container from '~/components/Container'
-import SpeakerSignup from '~/components/HomeComponents/SpeakerSignup'
 import CTA from '~/components/CTA'
 export default {
   name: 'SpeakerList',
-  components: { CTA, SpeakerSignup, Container, BGGrey, GradientHeader, Speaker },
+  components: { CTA, Container, BGGrey, GradientHeader, Speaker },
   props: ['speakers'],
-  data () {
-    return {
-      showSpeakerSignup: Boolean(false),
-      showSponsorSignup: Boolean(false)
-    }
-  },
-  methods: {
-    toggleSpeakerSignup () {
-      this.showSpeakerSignup = !this.showSpeakerSignup
-    }
-  },
-  toggleSponsorSignup () {
-    this.showSponsorSignup = !this.showSponsorSignup
-  }
 }
 </script>
 
