@@ -9,7 +9,7 @@ showPage: true
 
 # Stefan Richter
  
-Stefan's current contributions include netpositive.money, an initiative for Bitcoiners who care about the climate, and Honigdachs, a German Bitcoin podcast. Lately he has been returning to his theoretical computer science roots in his joint work with René Pickhardt on optimal payment flows in the Lightning Network.
+Stefan's current contributions include netpositive.money, an initiative for Bitcoiners who care about the climate, and Honigdachs, a popular German Bitcoin podcast. Lately he has been returning to his theoretical computer science roots in his joint work with René Pickhardt on optimal payment flows in the Lightning Network.
 <br><br>
 
 ## Dive deeper
