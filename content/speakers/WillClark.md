@@ -13,7 +13,7 @@ showPage: true
 Will Clark is a Lightning Application Engineer at Global Mesh Labs developing an approach to paying Lightning invoices over the goTenna Mesh network and integrating the public goTenna Mesh SDK into a system using open-source Bitcoin Lightning.
 <br><br>
 Will Clark es un Ingeniero de Aplicaciones Lightning en Global Mesh Labs. Allí desarrolla un enfoque para pagar facturas Lightning a través de la red goTenna Mesh e integrar el SDK público goTenna Mesh en un sistema que utilice Bitcoin Lightning de código abierto.
-<br<br>>
+<br><br>
 
 ## Dive deeper
 
@@ -28,7 +28,7 @@ Will Clark es un Ingeniero de Aplicaciones Lightning en Global Mesh Labs. Allí 
 <div class="p-3 my-2">
 
 **Listen - Richard Myers – Bitcoin incentivised mesh networking with Lot49** <br><br>
-[ ![Richard Myers – Bitcoin incentivised mesh networking with Lot49](/content/will_stephan.png)](https://stephanlivera.com/episode/80/)
+[ ![Richard Myers – Bitcoin incentivised mesh networking with Lot49](/content/will_livera.png)](https://stephanlivera.com/episode/80/)
 </div>
 
 <div class="p-3 my-2">
