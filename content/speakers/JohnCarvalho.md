@@ -2,7 +2,7 @@
 name: "John <br>Carvalho"
 function: The ₿iz
 img: johncarvalho.jpg
-twitter: '@BitcoinErrorLog'
+twitter: 'BitcoinErrorLog'
 github: bitcoinerrorlog
 linkedin: bitcoinerrorlog
 ---

@@ -2,7 +2,7 @@
 name: "Chase <br>Perkins"
 function: Impervious.ai
 img: chaseperkins.jpg
-twitter: '@chasethetruth'
+twitter: 'chasethetruth'
 linkedin: chaseperkins007
 showPage: true
 ---

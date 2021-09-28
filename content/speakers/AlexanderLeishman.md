@@ -2,7 +2,7 @@
 name: "Alexander <br>Leishman"
 function: River Financial
 img: alexanderleishman.jpg
-twitter: '@leishman'
+twitter: 'leishman'
 linkedin: alexanderleishman
 showPage: true
 ---

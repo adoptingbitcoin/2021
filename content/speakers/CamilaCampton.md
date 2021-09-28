@@ -2,7 +2,7 @@
 name: "Camila <br>Campton"
 function: Swan Bitcoin
 img: camilacampton.jpg
-twitter: '@camilacampton'
+twitter: 'camilacampton'
 github: 
 linkedin: mariacamilazuluaga
 ---

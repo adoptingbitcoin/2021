@@ -2,7 +2,7 @@
 name: "Christian <br>Rotzoll"
 function: Fulmo / RaspiBlitz
 img: christianrotzoll.jpg
-twitter: '@rootzoll'
+twitter: 'rootzoll'
 github: rootzoll
 linkedin: rotzoll
 showPage: true

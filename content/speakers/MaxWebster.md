@@ -2,7 +2,7 @@
 name: "Max <br>Webster"
 function: Entiende Bitcoin
 img: maxwebster.jpg
-twitter: '@MaxAWebster'
+twitter: 'MaxAWebster'
 linkedin: maxwebster
 showPage: true
 ---
