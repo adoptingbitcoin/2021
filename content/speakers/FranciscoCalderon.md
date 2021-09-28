@@ -11,7 +11,8 @@ showPage: true
 # Francisco Calderón
  
 Francisco is a software engineer and FOSS activist since 1999. When researching about UNIX OS, he found Linux and free software movements and later became the head of technology of the Canadian Bitcoin Lightning Network brokerage, Graaf One. In mid-2019, he wrote a paper called ’Venezuela: From Hyperinflation to Hyperbitcoinization. Currently he is working  on P2PLNBot, a peer to peer telegram bot which allows people to trade fiat for Bitcoin using the Lightning Network.
-
+<br><br>
+Francisco Calderón es un ingeniero de software y partidario del software libre de código abierto (FOSS) y, por supuesto, de Bitcoin. A mediados de 2019, escribió un artículo llamado “Venezuela: de hiperinflación a hiperbitcoinización”, publicado en su página personal.
 <br><br>
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
