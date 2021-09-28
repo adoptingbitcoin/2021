@@ -2,7 +2,7 @@
 name: "Francisco <br>Calderón"
 function: Independent Software Engineer
 img: franciscocalderon.jpg
-twitter: '@negrunch'
+twitter: 'negrunch'
 github: grunch
 linkedin: fjcalderon
 showPage: true

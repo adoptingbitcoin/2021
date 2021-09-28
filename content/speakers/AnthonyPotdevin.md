@@ -2,7 +2,7 @@
 name: "Anthony <br> Potdevin"
 function: Amboss Technologies
 img: anthonypotdevin.jpg
-twitter: '@tonyioi'
+twitter: 'tonyioi'
 linkedin: potdevin
 github: apotdevin
 ---

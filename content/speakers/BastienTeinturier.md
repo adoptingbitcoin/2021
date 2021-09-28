@@ -2,7 +2,7 @@
 name: "Bastien <br>Teinturier"
 function: ACINQ
 img: bastienteinturier.jpg
-twitter: '@realtbast'
+twitter: 'realtbast'
 github: t-bast
 linkedin: bastien-teinturier-91b16a48
 metaImage: meta_bastienteinturier.jpg

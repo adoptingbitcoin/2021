@@ -2,7 +2,7 @@
 name: "Francis <br>Pouliot"
 function: Bull Bitcoin
 img: francispouliot.jpg
-twitter: '@francispouliot_'
+twitter: 'francispouliot_'
 github: FrancisPouliot
 linkedin: francispouliot
 showPage: true
