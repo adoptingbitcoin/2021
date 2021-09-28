@@ -2,7 +2,7 @@
 name: "Alex <br>Gladstein"
 function: Human Rights Foundation
 img: alexgladstein.jpg
-twitter: '@gladstein'
+twitter: 'gladstein'
 linkedin: alexgladstein
 ---
 
