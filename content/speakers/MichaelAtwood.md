@@ -2,7 +2,7 @@
 name: "Michael <br>Atwood"
 function: Oshi
 img: michaelatwood1.png
-twitter: '@dooowta'
+twitter: 'dooowta'
 github: 
 linkedin:
 showPage: true

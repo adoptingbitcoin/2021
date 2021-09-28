@@ -2,7 +2,7 @@
 name: "Ben <br>Arc"
 function: LNbits
 img: benarc.jpg
-twitter: '@arcbtc'
+twitter: 'arcbtc'
 github: arcbtc
 linkedin:
 showPage: true

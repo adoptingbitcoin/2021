@@ -2,7 +2,7 @@
 name: "Bob <br>The Builder"
 function: Voltage Cloud
 img: bobthebuilder.jpg
-twitter: '@BitcoinCoderBob'
+twitter: 'BitcoinCoderBob'
 github: BitcoinCoderBob
 showPage: true
 ---

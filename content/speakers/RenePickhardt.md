@@ -2,7 +2,7 @@
 name: "Rene <br>Pickhardt"
 function: Norwegian university of science and technology
 img: renepickhardt.png
-twitter: '@renepickhardt'
+twitter: 'renepickhardt'
 github: renepickhardt
 linkedin: rene-pickhardt-80313744
 showPage: true
