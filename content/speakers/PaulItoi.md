@@ -32,7 +32,7 @@ Paul Itoi is channelling major creative energy into two projects that exemplify 
 <div class="p-3 my-2">
 
 **Read - 21ism - Block 008 - CODE - Paul Itoi** <br><br>
-[ ![21ism - Block 008 - CODE - Paul Itoi](/content/paul_21ism.png)](https://21ism.com/portfolio-item/paul-itoi//)
+[ ![21ism - Block 008 - CODE - Paul Itoi](/content/paul_21ism.png)](https://21ism.com/portfolio-item/paul-itoi/)
 </div>
 
 <div class="p-3 my-2">
