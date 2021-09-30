@@ -24,8 +24,6 @@ Jestopher is an active member of the Lightning Community, providing perspective 
 
 <div class="p-3 my-2">
 
-<div class="p-3 my-2">
-
 **Watch - The Lightning Network - Advanced LND Routing, Node Optimization, Sovereign Computing** <br><br>
 [ ![The Lightning Network - Advanced LND Routing, Node Optimization, Sovereign Computing](/content/jesse_bm.png)](https://www.youtube.com/watch?v=JMXzVKPovak/)
 </div>
