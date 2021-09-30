@@ -41,6 +41,6 @@ Jestopher is an active member of the Lightning Community, providing perspective 
 **Watch - Bullish On Lightning Network With Thomas Jestopher: Meet The Taco Plebs** <br><br>
 [ ![Bullish On Lightning Network With Thomas Jestopher: Meet The Taco Plebs](/content/jesse_bullish.png)](https://www.youtube.com/watch?v=TZj91gT_W70/)
 </div>
-
+</div>
 
 <br>
