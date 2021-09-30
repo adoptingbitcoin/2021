@@ -69,8 +69,8 @@
   },
   "tickets": {
     "title": "GET YOUR TICKET HERE",
-    "ticket1": "Early innovator",
-    "ticket1Price": "$150",
+    "ticket1": "Early Adopter",
+    "ticket1Price": "$200",
     "ticket2": "Late mover",
     "ticket2Price": "$300",
     "ticket3": "Speaker",
