@@ -69,7 +69,7 @@
   "tickets": {
     "title": "OBTÉN TU BOLETO AQUÍ",
     "ticket1": "Descuento de preventa",
-    "ticket1Price": "$150",
+    "ticket1Price": "$200",
     "ticket2": "Normal",
     "ticket2Price": "$300",
     "ticket3": "Ponente ",
@@ -83,19 +83,15 @@
       "title": "Ticket Schedule",
       "prices": [
         {
-          "text": "<strong>Early innovator</strong> until 30.09.",
-          "price": "150$"
-        },
-        {
-          "text": "<strong>Early adopter</strong> until 15.10.",
+          "text": "<strong>Early adopter</strong> until October 15",
           "price": "200$"
         },
         {
-          "text": "<strong>Late adopter</strong> until 31.10.",
+          "text": "<strong>Late adopter</strong> until October 31",
           "price": "250$"
         },
         {
-          "text": "<strong>Late mover</strong> from 01.11.",
+          "text": "<strong>Late mover</strong> from November 1",
           "price": "300$"
         }
       ]
