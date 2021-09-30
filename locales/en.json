@@ -84,10 +84,6 @@
       "title": "Ticket Schedule",
       "prices": [
         {
-          "text": "<strong>Early innovator</strong> until September 30th",
-          "price": "$150"
-        },
-        {
           "text": "<strong>Early adopter</strong> until October 15th",
           "price": "$200"
         },
