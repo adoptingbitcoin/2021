@@ -18,7 +18,7 @@ Jonas Nick has been a Bitcoin developer with Blockstream since 2015. He is curre
 <div class="grid grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Watch - Jonas Nick - Der Schnorr Zoo (German)** <br><br>
+**Watch - Jonas Nick - "Der Schnorr Zoo" in German** <br><br>
 [ ![Jonas Nick - Der Schnorr Zoo](/content/jonas_zitadelle.png)](https://youtu.be/n9OWZq5z49I?t=3631/)
 </div>
 
@@ -30,8 +30,8 @@ Jonas Nick has been a Bitcoin developer with Blockstream since 2015. He is curre
 
 <div class="p-3 my-2">
 
-**Watch - Lightning (LN) on Nixos by Jonas Nick - DEMO at Understanding Bitcoin** <br><br>
-[ ![Lightning (LN) on Nixos by Jonas Nick - DEMO at Understanding Bitcoin](/content/jonas_understanding.png)](https://www.youtube.com/watch?v=m0VmZPpxtLY/)
+**Watch - Lightning on Nixos by Jonas Nick - DEMO at Understanding Bitcoin** <br><br>
+[ ![Lightning on Nixos by Jonas Nick - DEMO at Understanding Bitcoin](/content/jonas_understanding.png)](https://www.youtube.com/watch?v=m0VmZPpxtLY/)
 </div>
 
 <div class="p-3 my-2">
