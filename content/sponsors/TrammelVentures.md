@@ -1,6 +1,6 @@
 ---
 tier: dolphin
-img: trammellventures1.png
+img: TVP.png
 title: 'Trammell Ventures'
 prio: 44
 url: 'https://trammell.ventures/'
