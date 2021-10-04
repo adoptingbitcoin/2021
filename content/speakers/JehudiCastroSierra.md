@@ -9,7 +9,7 @@ showPage: true
 
 # Jehudi Castro Sierra
  
-Jehudi Castro Sierra is a software developer, Bitcoin advoate and has been Advisor to the Presidency of Colombia since 2018. Currently he is focused on Digital Transformation, Digital Talent and Digital Entrepreneurship. Previously he was the Vice-Minister of Digital Economy and worked for Oracle and Red Hat. He has been following the adoption of Bitcoin in El Salvador closely, and believes that Bitcoin and the Lightning Network are a big opportunity for many countries in Latin America. 
+Jehudi Castro Sierra is a software developer, Bitcoin advocate and Advisor to the Presidency of Colombia since 2018, where he is he is focused on Digital Transformation, Digital Talent and Digital Entrepreneurship. Colombia has one of the highest Bitcoin awareness in the world and has been one of the first countries to host the Bitcoin Whitepaper on a government website, has one of the highest peer to peer trading volumes in the world and is experimenting with a regulatory sandbox for Bitcoin. Previously he was the Vice-Minister of Digital Economy and worked for Oracle and Red Hat. He has been following the adoption of Bitcoin in El Salvador closely, and believes that Bitcoin and the Lightning Network are a big opportunity for many countries in Latin America. 
 <br><br>
 
 ## Dive deeper
