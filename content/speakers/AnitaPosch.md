@@ -1,7 +1,7 @@
 ---
 name: "Anita <br>Posch"
 function: Bitcoin Podcaster & Author LearnBitcoin.link
-img: anitaposch.jpg
+img: anitaposch.png
 twitter: 'anitaposch'
 github: anitaposch
 linkedin: anitaposch
