@@ -1,9 +1,9 @@
 ---
 tier: dolphin
 img: TVP3.png
-title: 'Trammell Ventures'
+title: 'Trammell Venture Partners'
 prio: 44
-url: 'https://trammell.ventures/'
+url: 'https://tvp.fund/'
 ---
 
 
