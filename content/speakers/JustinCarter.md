@@ -1,7 +1,7 @@
 ---
 name: "Justin <br>Carter"
 function: Galoy
-img: justincarter.jpg
+img: justincarter.png
 twitter: 'bodymindarts'
 linkedin: justinrc
 github: bodymindarts
