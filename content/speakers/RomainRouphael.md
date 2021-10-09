@@ -1,7 +1,7 @@
 ---
 name: "Romain <br>Rouphael"
 function: LN Markets
-img: romainrouphael.jpg
+img: romainrouphael1.png
 twitter: 'romain_rouphael'
 github: RomainRouphael
 linkedin: rouphael
