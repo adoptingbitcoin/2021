@@ -20,11 +20,11 @@ La Human Rights Foundation es una organización no partidista y sin fines de luc
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-<div class="p-3 my-2">
-
 **Watch - Bitcoin Is Protecting Human Rights Around the World** <br><br>
 [ ![Bitcoin Is Protecting Human Rights Around the World](/content/alex_reason.png)](https://www.youtube.com/watch?v=xLYYh4aPXAM/)
 </div>
+
+<div class="p-3 my-2">
 
 **Listen - Check Your Financial Privilege** <br><br>
 [ ![Check Your Financial Privilege](/content/alex_privilege.png)](https://bitcoinaudible.com/check-your-financial-privilege/)
