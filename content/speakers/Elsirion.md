@@ -1,7 +1,7 @@
 ---
 name: "Elsirion <br><br>"
 function: Blockstream
-img: elirsion.png
+img: elsirion.png
 twitter: 'EricSirion'
 github: elsirion
 showPage: false
