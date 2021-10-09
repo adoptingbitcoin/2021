@@ -11,6 +11,8 @@ showPage: true
  
 Bob is a backend engineer at Voltage which offers enterprise-grade infrastructure services for Bitcoin. As a self identified pleb, Bob is a Bitcoin evangelist helping to spread adoption through his code, guides, and memes.
 <br><br>
+Bob es un ingeniero de backend en Voltage, una empresa que ofrece servicios de infraestructura de nivel empresarial para Bitcoin. Autodenominado como un “plebeyo” , Bob es un evangelista de Bitcoin que ayuda a difundir la adopción a través de su código, guías y memes.
+<br><br>
 
 ## Dive deeper
 
