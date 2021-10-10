@@ -10,7 +10,7 @@ showPage: true
 
 # Johns Beharry
  
-Designer and software engineer from a tiny island in the Caribbean researching user experience of bitcoin payments and privacy.
+Johns is a hybrid product designer and software engineer from a tiny island in the Caribbean, researching user experience of bitcoin payments and privacy, whose presence within the Bitcoin Design Slack is as ubiquitous as bitcoin itself. 
 <br><br>
 
 ## Dive deeper
