@@ -20,7 +20,7 @@ Designer and software engineer from a tiny island in the Caribbean researching u
 <div class="p-3 my-2">
 
 **Listen - Privacy & Payments** <br><br>
-[ ![Privacy & Payments](/content/johns_beharry.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
+[ ![Privacy & Payments](/content/johns_advancing.png)](https://podcast.advancingbitcoin.com/1450198/6612919-privacy-payments-with-johns-beharry/)
 </div>
 
 <div class="p-3 my-2">
