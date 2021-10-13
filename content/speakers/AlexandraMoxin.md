@@ -5,7 +5,7 @@ img: alexandramoxin.png
 twitter: 'Alexandra933'
 github: lexi933
 linkedin: alexandra933
-showPage: false
+showPage: true
 ---
 
 # Alexandra Moxin
@@ -19,20 +19,14 @@ Alexandra founded Advance Tech Media home of the Advance Tech Podcast where she 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
-[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+**Listen - Alexandra Moxin: Bitcoin Changes the Power Dynamic – Back to the Individual** <br><br>
+[ ![Alexandra Moxin: Bitcoin Changes the Power Dynamic – Back to the Individual](/content/alex_anita.png)](https://bitcoinundco.com/en/alexandra-moxin/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - Bitnob joins the Lightning Network** <br><br>
-[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - BTC In Emerging Markets** <br><br>
-[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+**Watch - Advance Tech Podcast 58: A Conversation with Vijay Boyapati, Author of The Bullish Case for Bitcoin** <br><br>
+[ ![Advance Tech Podcast 58: A Conversation with Vijay Boyapati, Author of The Bullish Case for Bitcoin](/content/alex_vijay.png)](https://www.youtube.com/watch?v=6Gq6Y4NN3LU/)
 </div>
 
 </div>
