@@ -4,15 +4,12 @@ function: Open Source Developer
 img: openoms.png
 twitter: 'openoms'
 github: openoms
-showPage: false
+showPage: true
 ---
 
 # Openoms
  
-Lightning Network Researcher
-Full Node Enthusiast
-Privacy Advocate
-Open Source Software Maintainer and Contributor
+Openoms is a Lightning Network researcher and a strong advocate for privacy, as well as using your own full node to interact with the Bitcoin Network. He is contributing to various FOSS Bitcoin projects, most notably Raspiblitz and the Joinmarket interface JoinInBox, that enables users to improve their on-chain footprint while earning yield on their Bitcoin.
 <br><br>
 
 ## Dive deeper
@@ -21,32 +18,38 @@ Open Source Software Maintainer and Contributor
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Read - Fulmo Blog - Why Bitcoin can only be as free and open source software** <br><br>
-[ ![Fulmo Blog - Why Bitcoin can only be as free and open source software](/content/rootzoll_foss.png)](https://blog.fulmo.org/why-bitcoin-can-only-be-as-free-open-source-software/)
+**Listen - Citadel Dispatch e0.2.1 – the lightning network and bitcoin privacy** <br><br>
+[ ![Citadel Dispatch e0.2.1 – the lightning network and bitcoin privacy](/content/openoms_cd.png)](https://citadeldispatch.com/cd21/)
 </div>
 
 <div class="p-3 my-2">
 
-**Watch - Anita Posch 130 - Fulmo: RaspiBlitz and the Speed of Lightning** <br><br>
-[ ![Anita Posch 130 - Fulmo: RaspiBlitz and the Speed of Lightning](/content/rootzoll_anita.png)](https://youtu.be/VOs3KYizlMo/)
+**Listen - Raspiblitz with Rootzoll and Openoms** <br><br>
+[ ![Raspiblitz with Rootzoll and Openoms](/content/openoms_livera.png)](https://stephanlivera.com/episode/194/)
 </div>
 
 <div class="p-3 my-2">
 
-**Watch - Lightning Hackdays Munich 2019** <br><br>
-[ ![Lightning Hackdays Munich 2019](/content/rootzoll_stadicus.png)](https://player.vimeo.com/video/288241783?h=d71558c9be/)
+**Read - Lightning Node Management (EN)** <br><br>
+[ ![Lightning Node Management EN](/content/openoms_node.png)](https://www.lightningnode.info/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - 21ism Code Block01 - Rootzoll** <br><br>
-[ ![21ism Code Block01 - Rootzoll](/content/rootzoll_21ism.png)](https://21ism.com/portfolio-item/rootzoll/)
+**Read - Lightning Node Management (ES)** <br><br>
+[ ![Lightning Node Management ES](/content/openoms_node.png)](https://21ism.com/portfolio-item/rootzoll/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll** <br><br>
 [ ![What Bitcoin Did Lightning Series 372: Running a Node with Openoms & Rootzoll](/content/rootzoll_whatbitcoindid.png)](https://www.whatbitcoindid.com/podcast/lightning-series-running-a-node/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - Joininbox** <br><br>
+[ ![Joininbox](/content/openoms_joininbox.png)](https://github.com/openoms/joininbox/)
 </div>
 
 </div>
