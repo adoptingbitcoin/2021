@@ -19,7 +19,7 @@ Openoms is a Lightning Network researcher and a strong advocate for privacy, as 
 <div class="p-3 my-2">
 
 **Listen - Citadel Dispatch e0.2.1 – the lightning network and bitcoin privacy** <br><br>
-[ ![Citadel Dispatch e0.2.1 – the lightning network and bitcoin privacy](/content/openoms_cd21.png)](https://citadeldispatch.com/cd21/)
+[ ![Citadel Dispatch e0.2.1 – the lightning network and bitcoin privacy](/content/openoms_cd.png)](https://citadeldispatch.com/cd21/)
 </div>
 
 <div class="p-3 my-2">
