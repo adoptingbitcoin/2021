@@ -10,7 +10,7 @@
           {{ $t('tickets.ticket1') }}
         </h5>
         <span>{{ $t('tickets.ticket1Price') }}</span> <br>
-        <span class="text-xs text-white">until October 15</span>
+        <span class="text-xs text-white">until October 31</span>
       </a>
       <div class="ticket ticket-2 p-10 text-center text-white">
         <h5 class="text-2xl">
