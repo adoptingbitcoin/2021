@@ -4,18 +4,12 @@ function: Talaia Labs
 img: sergidelgado.png
 twitter: 'sr_gi'
 github: sr-gi
-showPage: false
+showPage: true
 ---
 
 # Sergi Delgado Segura
  
-Bitcoin enthusiast since 2015
-Started to work on Bitcoin as part of his PhD thesis
-His research was focused on the security and privacy aspects of Bitcoin and Lightning.
-Some of his work has been published at Financial Cryptography and Scaling Bitcoin.
-After graduating, he switched gear to a more developer focused job and he started to work on an interoperable Watchtower protocol for Lightning.
-He has proposed a draft for BOLT13 and presented his work both at Advancing Bitcoin and The Lightning Conference.
-As a Square Crypto grantee, he has designed and developed The Eye of Satoshi and is currently working in a Rust version of it.
+Sergi is a Bitcoin enthusiast since 2015 who started to work on Bitcoin as part of his PhD thesis. His research was focused on the security and privacy aspects of Bitcoin and Lightning. Some of his work has been published at Financial Cryptography and Scaling Bitcoin. After graduating, he switched gear to a more developer focused job and he started to work on an interoperable Watchtower protocol for Lightning. He has proposed a draft for BOLT13 and presented his work both at Advancing Bitcoin and The Lightning Conference. As a Square Crypto grantee, he has designed and developed The Eye of Satoshi and is currently working on a Rust version of it.
 <br><br>
 
 ## Dive deeper
@@ -24,20 +18,38 @@ As a Square Crypto grantee, he has designed and developed The Eye of Satoshi and
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
-[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+**Read - TxProbe: Discovering Bitcoin’s Network Topology Using Orphan Transactions** <br><br>
+[ ![TxProbe: Discovering Bitcoin’s Network Topology Using Orphan Transactions](/content/sergi_orphan.png)](https://arxiv.org/pdf/1812.00942.pdf/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - Bitnob joins the Lightning Network** <br><br>
-[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
+**Listen - Hashing It Out #68 – Sergi Delgado – Whatsat and Lightning** <br><br>
+[ ![Hashing It Out #68 – Sergi Delgado – Whatsat and Lightning](/content/sergi_hashing.png)](https://thebitcoinpodcast.com/hashing-it-out-68/)
 </div>
 
 <div class="p-3 my-2">
 
-**Watch - BTC In Emerging Markets** <br><br>
-[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+**Listen - Episode 17: Sergi Delgado** <br><br>
+[ ![Episode 17: Sergi Delgado](/content/sergi_diaries.png)](https://anchor.fm/thehoneybadgerdiaries/episodes/Episode-17-Sergi-Delgado--Barcelona-CatalunyaSpain-eci59k/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Towards a better understanding of Bitcoin by Sergi Delgado** <br><br>
+[ ![Towards a better understanding of Bitcoin by Sergi Delgado](/content/sergi_understanding.png)](https://www.youtube.com/watch?v=kd1PVnB5HhA/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Review técnico Taproot: esto es lo que se viene para Bitcoin** <br><br>
+[ ![Review técnico Taproot: esto es lo que se viene para Bitcoin, con Sergi Delgado y Diego Gurpegui](/content/sergi_taproot.png)](https://www.youtube.com/watch?v=P__bE-mgAU4/)
+</div>
+
+<div class="p-3 my-2">
+
+**Read - How Big a Problem Is Dust for Bitcoin?** <br><br>
+[ ![How Big a Problem Is Dust for Bitcoin?](/content/sergi_dust.png)](https://medium.com/primalbase/how-big-a-problem-is-dust-for-bitcoin-ac3f76bf856b/)
 </div>
 
 </div>
