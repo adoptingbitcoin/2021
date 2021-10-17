@@ -1,12 +1,12 @@
 ---
-name: "Gilles<br>Cardignan"
+name: "Gilles<br>Cadignan"
 function: Woleet
 img: gillescardignan.png
 twitter: 'gillesCadignan'
 showPage: false
 ---
 
-# Gilles Cardignan
+# Gilles Cadignan
  
 CEO and co-founder of @woleet 
 Woleet : DocuSign on Bitcoin
