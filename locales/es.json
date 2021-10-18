@@ -83,10 +83,6 @@
       "title": "Ticket Schedule",
       "prices": [
         {
-          "text": "<strong>Early Adopter</strong> until October 15",
-          "price": "200$"
-        },
-        {
           "text": "<strong>Late Adopter</strong> until October 31",
           "price": "250$"
         },
