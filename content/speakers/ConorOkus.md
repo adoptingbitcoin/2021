@@ -1,6 +1,6 @@
 ---
 name: "Conor <br>Okus"
-function: Sqaure Crypto
+function: Square Crypto
 img: conorokus.jpeg
 twitter: 'ConorOkus'
 github: ConorOkus
