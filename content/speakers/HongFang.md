@@ -9,9 +9,7 @@ showPage: false
 
 # Hong Fang
  
-Bernard is the CEO of Bitnob, a technology and financial services company for the African continent built on top of Bitcoin. They offer automated Bitcoin savings and purchases, Bitcoin collateralized loans, remittance services, OTC and business applications that make it easier for people in Africa to transition into the Bitcoin economy.
-<br><br>
-Bernard es el director de Bitnob, una empresa de tecnología y servicios financieros para el continente africano, construida sobre Bitcoin. Ellos ofrecen ahorros y compras automatizadas de Bitcoin, préstamos con garantía en Bitcoin, servicios de remesas, servicios OTC y aplicaciones comerciales que facilitan a las personas en África la transición hacia una economía en Bitcoin.
+Hong Fang is the CEO of Okcoin, a global, US-licensed cryptocurrency platform serving 184 countries — the largest reach of any US-based exchange. She joined Okcoin in 2019 and comes from a Wall Street background, having spent almost a decade at Goldman Sachs where she focused on M&A, capital markets, investment, restructuring and various other corporate development activities for both traditional financial institutions and fintech companies. Hong holds an MBA in Finance, Accounting and Entrepreneurship from the University of Chicago’s Booth School of Business.
 <br><br>
 
 ## Dive deeper
