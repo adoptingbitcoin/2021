@@ -19,19 +19,19 @@ Veronika, a strategist and auto-didact, is merging her mathematical-analytical s
 <div class="p-3 my-2">
 
 **Read - More Competition in the World's Most Important Market** <br><br>
-[ ![More Competition in the World's Most Important Market](/content/veroinka_market.png)](https://www.freeprivatecities.com/en/more-competition-in-the-worlds-most-important-market/)
+[ ![More Competition in the World's Most Important Market](/content/veronika_market.png)](https://www.freeprivatecities.com/en/more-competition-in-the-worlds-most-important-market/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Free Private Cities: Why Governments Are Obsolete Relics of the Past** <br><br>
-[ ![Free Private Cities: Why Governments Are Obsolete Relics of the Past](/content/veroinika_obsolete.png)](https://www.gammabeyond.com/podcast/018-free-private-cities-why-governments-are-obsolete-relics-of-the-past-dr-titus-gebel/)
+[ ![Free Private Cities: Why Governments Are Obsolete Relics of the Past](/content/veronika_obsolete.png)](https://www.gammabeyond.com/podcast/018-free-private-cities-why-governments-are-obsolete-relics-of-the-past-dr-titus-gebel/)
 </div>
 
 <div class="p-3 my-2">
 
 **Listen - Titus Gebel - Bitcoin Citadels as Free Private Cities** <br><br>
-[ ![Titus Gebel - Bitcoin Citadels as Free Private Cities](/content/veroinika_livera.png)](https://stephanlivera.com/episode/161/?fbclid=IwAR3DexNDi2AIWaC7PvspJCC6r7fOZ1n-WCR_IPnezRch7mBObYDxzfINGtk/)
+[ ![Titus Gebel - Bitcoin Citadels as Free Private Cities](/content/veronika_livera.png)](https://stephanlivera.com/episode/161/?fbclid=IwAR3DexNDi2AIWaC7PvspJCC6r7fOZ1n-WCR_IPnezRch7mBObYDxzfINGtk/)
 </div>
 
 <div class="p-3 my-2">
