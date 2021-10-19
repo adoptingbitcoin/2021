@@ -20,7 +20,7 @@ James is the CEO and Technical Director at Global Liquidity, and organizer of Ja
 <div class="p-3 my-2">
 
 **Watch - Swan Lounge: Plebnet and the Bitcoin Lightning Network** <br><br>
-[ ![Swan Lounge: Plebnet and the Bitcoin Lightning Network](/content/andrew_swan.png)](https://www.youtube.com/watch?v=eHwZVZLAOl0/)
+[ ![Swan Lounge: Plebnet and the Bitcoin Lightning Network](/content/james_swan.png)](https://www.youtube.com/watch?v=eHwZVZLAOl0/)
 </div>
 
 <div class="p-3 my-2">
