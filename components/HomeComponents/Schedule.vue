@@ -27,6 +27,7 @@
       <div class="color-bg p-5 text-white rounded mt-10">
         <p v-html="$t('tickets.otherConferences')"/>
       </div>
+      <ConventionSchedule />
     </Container>
   </BGGrey>
 </template>
@@ -35,9 +36,10 @@
 import GradientHeader from '~/components/GradientHeader'
 import Container from '~/components/Container'
 import BGGrey from '~/components/BGGrey'
+import ConventionSchedule from '~/components/Schedule/ConventionSchedule'
 export default {
   name: 'Schedule',
-  components: { BGGrey, Container, GradientHeader }
+  components: { ConventionSchedule, BGGrey, Container, GradientHeader }
 }
 </script>
 
