@@ -21,8 +21,8 @@ import Container from '~/components/Container'
 import CTA from '~/components/CTA'
 export default {
   name: 'SpeakerList',
-  components: { CTA, Container, BGGrey, GradientHeader, Speaker },
-  props: ['speakers'],
+  components: { Container, BGGrey, GradientHeader, Speaker },
+  props: ['speakers']
 }
 </script>
 

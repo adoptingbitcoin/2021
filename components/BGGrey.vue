@@ -12,9 +12,9 @@ export default {
 
 <style scoped>
 .background::before{
-  background-image: url("~/assets/images/adopting_bitcoin_grey.jpg");
-  background-size: cover;
+  background-image: url("~/assets/images/speaker-tile.jpg");
   background-position: center center;
+  background-repeat: repeat;
   position: absolute;
   top: 0;
   left: 0;
