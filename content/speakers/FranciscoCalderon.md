@@ -1,7 +1,7 @@
 ---
 name: "Francisco <br>Calderón"
 function: Independent Software Engineer
-img: franciscocalderon.jpg
+img: francisco.png
 twitter: 'negrunch'
 github: grunch
 linkedin: fjcalderon
