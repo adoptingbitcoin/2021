@@ -19,6 +19,12 @@ James is the CEO and Technical Director at Global Liquidity, and organizer of Ja
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Read - Lightning Network Subnets as the Basis for a Bayesian Network-Based Trust Model for a Global Decentralized Cloud Computing Marketplace** <br><br>
+[ ![Lightning Network Subnets as the Basis for a Bayesian Network-Based Trust Model for a Global Decentralized Cloud Computing Marketplace](/content/james_pleb.png)](https://james-global-liquidity.medium.com/ddf15d8d1f6f/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Swan Lounge: Plebnet and the Bitcoin Lightning Network** <br><br>
 [ ![Swan Lounge: Plebnet and the Bitcoin Lightning Network](/content/james_swan.png)](https://www.youtube.com/watch?v=eHwZVZLAOl0/)
 </div>
