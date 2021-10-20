@@ -28,6 +28,12 @@ Anthony is a web developer specializing in creating user interfaces and applicat
 [ ![How to start receiving Bitcoin donations](/content/tony_donations.png)](https://medium.com/@apotdevin/how-to-start-receiving-bitcoin-donations-a41025ffee28/)
 </div>
 
+<div class="p-3 my-2">
+
+**Watch - Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub** <br><br>
+[ ![Qué ha pasado en Lightning Network en 2020 visto desde Thunderhub](/content/anthony_luna.png)](https://www.youtube.com/watch?v=MMZC-ErlvNg/)
+</div>
+
 </div>
 
 <br>

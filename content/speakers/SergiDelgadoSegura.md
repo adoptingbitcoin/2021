@@ -52,6 +52,12 @@ Sergi is a Bitcoin enthusiast since 2015 who started to work on Bitcoin as part 
 [ ![How Big a Problem Is Dust for Bitcoin?](/content/sergi_dust.png)](https://medium.com/primalbase/how-big-a-problem-is-dust-for-bitcoin-ac3f76bf856b/)
 </div>
 
+<div class="p-3 my-2">
+
+**Watch - La vida de una transacción: De la Wallet a 1 confirmación con Sergi Delgado de Pisa Research** <br><br>
+[ ![La vida de una transacción: De la Wallet a 1 confirmación con Sergi Delgado de Pisa Research](/content/sergi_luna.png)](https://www.youtube.com/watch?v=XUmd4QM4Frk/)
+</div>
+
 </div>
 
 <br>
