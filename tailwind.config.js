@@ -17,5 +17,10 @@ module.exports = {
         yellow: '#ffcc00'
       }
     }
+  },
+  variants: {
+    extend: {
+      backgroundColor: ['odd', 'even']
+    }
   }
 }
