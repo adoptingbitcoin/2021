@@ -3,12 +3,12 @@ name: "Giacomo <br>Zucco"
 function: BHB Network
 img: giacomozucco.png
 twitter: 'giacomozucco'
-showPage: false
+showPage: true
 ---
 
 # Giacomo Zucco
  
-Bitcoin educator, consultant, entrepreneur, maximalist, troll. Previously involved in GreenAddress, AssoBIT, BlockchainLab, Bitcoin Magazine. Currently involved in BHB Network, BTCTimes, Relai, BCademy, Notarify.
+Giacomo is a Bitcoin protocol and Lightning Network protocol consultant/teacher. He spends his time supporting projects that he feels might be relevant for the future of Bitcoin, be it as educator, consultant, entrepreneur, maximalist or troll. Previously he was involved in GreenAddress, AssoBIT, BlockchainLab, Bitcoin Magazine. Currently he's advancing Bitcoin via BHB Network, BTCTimes, Relai, BCademy, Notarify.
 <br><br>
 
 ## Dive deeper
@@ -17,26 +17,26 @@ Bitcoin educator, consultant, entrepreneur, maximalist, troll. Previously involv
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives** <br><br>
-[ ![El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives](/content/anita_peterson.png)](https://bitcoinundco.com/en/elsalvador-bitcoinbeach/)
+**Listen - All Things Bitcoin** <br><br>
+[ ![All Things Bitcoin](/content/giacomo_things.png)](https://www.whatbitcoindid.com/podcast/all-things-bitcoin/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Andreas M. Antonopoulos: Lightning Unleashes Bitcoin** <br><br>
-[ ![Andreas M. Antonopoulos: Lightning Unleashes Bitcoin](/content/anita_andreas.png)](https://bitcoinundco.com/en/andreas-antonopoulos-lightning/)
+**Listen - Exploring RGB with Giacomo Zucco** <br><br>
+[ ![Exploring RGB with Giacomo Zucco ](/content/giacomo_junkies.png)](https://lightningjunkies.net/exploring-rgb-with-giacomo-zucco-lnj044/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Christian Decker: The Lightning Network and Greenlight Nodes** <br><br>
-[ ![Christian Decker: The Lightning Network and Greenlight Nodes](/content/anita_decker.png)](https://bitcoinundco.com/en/christian-decker-lightning/)
+**Listen - Bitcoin Toxicity** <br><br>
+[ ![Bitcoin Toxicity](/content/giacomo_toxicity.png)](https://www.whatbitcoindid.com/podcast/bitcoin-toxicity/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch** <br><br>
-[ ![Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch](/content/anita_wbd.png)](https://www.whatbitcoindid.com/podcast/batw-bitcoin-in-zimbabwe-with-anita-posch/)
+**Listen - There is only one Bitcoin** <br><br>
+[ ![There is only one Bitcoin](/content/livera1.png)](https://stephanlivera.com/episode/75/)
 </div>
 
 </div>
