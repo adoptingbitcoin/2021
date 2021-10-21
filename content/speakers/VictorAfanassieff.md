@@ -1,6 +1,6 @@
 ---
 name: "Victor <br>Afanassieff"
-function: LNMarkets
+function: LN Markets
 img: victor1.png
 github: vafanassieff
 showPage: false
