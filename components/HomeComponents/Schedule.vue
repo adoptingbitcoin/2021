@@ -10,16 +10,28 @@
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 1</h3>
           <span class="font-bold">{{ $t('schedule.date1') }}</span>
           <ul v-html="$t('schedule.day1list')"></ul>
-          <div class="mx-auto w-content cursor-pointer mx-2" @click="hideAllSchedules(); showDay1 = true">
+          <div class="mx-auto w-content cursor-pointer mx-2" @click="show1()">
             <CTA> SHOW SCHEDULE </CTA>
+          </div>
+          <div :class="{hidden: !showDay1}" class="">
+            <div class="md:hidden my-10">
+              <GradientHeader class="mx-auto">Day 1 Schedule</GradientHeader>
+              <DayOneSchedule />
+            </div>
           </div>
         </div>
         <div class="scheduleDay mx-auto">
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 2</h3>
           <span class="font-bold">{{ $t('schedule.date2') }}</span>
           <ul v-html="$t('schedule.day2list')"></ul>
-          <div class="mx-auto w-content cursor-pointer mx-2" @click="hideAllSchedules(); showDay2 = true">
+          <div class="mx-auto w-content cursor-pointer mx-2" @click="show2()">
             <CTA> SHOW SCHEDULE</CTA>
+          </div>
+          <div :class="{hidden: !showDay2}" class="">
+            <div class="md:hidden my-10">
+              <GradientHeader class="mx-auto">Day 2 Schedule</GradientHeader>
+              <DayTwoSchedule />
+            </div>
           </div>
         </div>
 
@@ -30,13 +42,17 @@
         </div>
       </div>
 
-      <div :class="{hidden: !showDay1}" class="my-5">
-        <GradientHeader class="mx-auto">Day 1 Schedule</GradientHeader>
-        <DayOneSchedule />
+      <div :class="{hidden: !showDay1}" class="my-10 ">
+        <div class="hidden md:block">
+          <GradientHeader class="mx-auto">Day 1 Schedule</GradientHeader>
+          <DayOneSchedule />
+        </div>
       </div>
-      <div :class="{hidden: !showDay2}" class="my-5">
-        <GradientHeader class="mx-auto">Day 2 Schedule</GradientHeader>
-        <DayTwoSchedule />
+      <div :class="{hidden: !showDay2}" class="my-10">
+        <div class=" hidden md:block">
+          <GradientHeader class="mx-auto">Day 2 Schedule</GradientHeader>
+          <DayTwoSchedule />
+        </div>
       </div>
       <div :class="{hidden: !showDay3}">DAY 3</div>
 
@@ -69,6 +85,30 @@ export default {
       this.showDay1 = false
       this.showDay2 = false
       this.showDay3 = false
+    },
+    show1 () {
+      if (this.showDay1) {
+        this.hideAllSchedules()
+      } else {
+        this.hideAllSchedules()
+        this.showDay1 = true
+      }
+    },
+    show2 () {
+      if (this.showDay2) {
+        this.hideAllSchedules()
+      } else {
+        this.hideAllSchedules()
+        this.showDay2 = true
+      }
+    },
+    show3 () {
+      if (this.showDay3) {
+        this.hideAllSchedules()
+      } else {
+        this.hideAllSchedules()
+        this.showDay3 = true
+      }
     }
   }
 }
