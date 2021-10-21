@@ -1,7 +1,7 @@
 ---
 name: "Hong <br>Fang"
 function: Okcoin
-img: hongfang.png
+img: hong.png
 twitter: 'hfangca'
 linkedin: hong-f-2114762
 showPage: true
