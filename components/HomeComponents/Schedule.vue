@@ -10,11 +10,17 @@
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 1</h3>
           <span class="font-bold">{{ $t('schedule.date1') }}</span>
           <ul v-html="$t('schedule.day1list')"></ul>
+          <div class="mx-auto w-content cursor-pointer mx-2" @click="hideAllSchedules(); showDay1 = true">
+            <CTA> SHOW SCHEDULE </CTA>
+          </div>
         </div>
         <div class="scheduleDay mx-auto">
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 2</h3>
           <span class="font-bold">{{ $t('schedule.date2') }}</span>
           <ul v-html="$t('schedule.day2list')"></ul>
+          <div class="mx-auto w-content cursor-pointer mx-2" @click="hideAllSchedules(); showDay2 = true">
+            <CTA> SHOW SCHEDULE</CTA>
+          </div>
         </div>
 
         <div class="scheduleDay mx-auto">
@@ -24,10 +30,19 @@
         </div>
       </div>
 
+      <div :class="{hidden: !showDay1}" class="my-5">
+        <GradientHeader class="mx-auto">Day 1 Schedule</GradientHeader>
+        <DayOneSchedule />
+      </div>
+      <div :class="{hidden: !showDay2}" class="my-5">
+        <GradientHeader class="mx-auto">Day 2 Schedule</GradientHeader>
+        <DayTwoSchedule />
+      </div>
+      <div :class="{hidden: !showDay3}">DAY 3</div>
+
       <div class="color-bg p-5 text-white rounded mt-10">
         <p v-html="$t('tickets.otherConferences')"/>
       </div>
-      <ConventionSchedule />
     </Container>
   </BGGrey>
 </template>
@@ -36,10 +51,26 @@
 import GradientHeader from '~/components/GradientHeader'
 import Container from '~/components/Container'
 import BGGrey from '~/components/BGGrey'
-import ConventionSchedule from '~/components/Schedule/ConventionSchedule'
+import CTA from '~/components/CTA'
+import DayOneSchedule from '~/components/Schedule/DayOneSchedule'
+import DayTwoSchedule from '~/components/Schedule/DayTwoSchedule'
 export default {
   name: 'Schedule',
-  components: { ConventionSchedule, BGGrey, Container, GradientHeader }
+  components: { DayTwoSchedule, DayOneSchedule, CTA, BGGrey, Container, GradientHeader },
+  data () {
+    return {
+      showDay1: false,
+      showDay2: false,
+      showDay3: false
+    }
+  },
+  methods: {
+    hideAllSchedules () {
+      this.showDay1 = false
+      this.showDay2 = false
+      this.showDay3 = false
+    }
+  }
 }
 </script>
 

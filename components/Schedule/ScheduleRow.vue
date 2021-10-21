@@ -1,9 +1,9 @@
 <template>
   <tr>
-    <td class="text-xs whitespace-nowrap bg-red text-white border border-white">
+    <td class="text-xs whitespace-nowrap bg-red text-white border border-white time-field" :class="{fixedheight: fixedheight}">
       {{ time }}
     </td>
-    <td class="border border-red  box-border">
+    <td class="border border-red  box-border text-sm">
       <slot />
     </td>
   </tr>
@@ -16,6 +16,10 @@ export default {
     time: {
       type: String,
       default: () => { return '' }
+    },
+    fixedheight: {
+      type: Boolean,
+      default: () => { return false }
     }
   }
 }
@@ -23,6 +27,12 @@ export default {
 
 <style scoped>
   td{
-    @apply p-5;
+    @apply p-2;
+  }
+  .time-field{
+    width: 150px;
+  }
+  .fixedheight{
+    height: 50px;
   }
 </style>
