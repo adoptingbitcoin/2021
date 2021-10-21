@@ -9,7 +9,7 @@ showPage: false
 
 # Peter Todd
  
-Bitcoin educator, consultant, entrepreneur, maximalist, troll. Previously involved in GreenAddress, AssoBIT, BlockchainLab, Bitcoin Magazine. Currently involved in BHB Network, BTCTimes, Relai, BCademy, Notarify.
+Peter Todd is a cryptochronomancer - h/t orionwl - known for his work on OpenTimestamps, Bitcoin Core and for hating bios.
 <br><br>
 
 ## Dive deeper
