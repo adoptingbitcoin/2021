@@ -4,7 +4,7 @@ function: Bitcoin Core Developer
 img: peter.jpg
 twitter: 'peterktodd'
 github: petertodd
-showPage: false
+showPage: true
 ---
 
 # Peter Todd
@@ -18,26 +18,38 @@ Peter Todd is a cryptochronomancer - h/t orionwl - known for his work on OpenTim
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives** <br><br>
-[ ![El Salvador First Country to Make Bitcoin Legal Tender – Bitcoin Beach Improving Lives](/content/anita_peterson.png)](https://bitcoinundco.com/en/elsalvador-bitcoinbeach/)
+**Listen - The Essence of Bitcoin** <br><br>
+[ ![The Essence of Bitcoin](/content/peter_wbd.png)](https://www.whatbitcoindid.com/podcast/peter-todd-on-the-essence-of-bitcoin/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Andreas M. Antonopoulos: Lightning Unleashes Bitcoin** <br><br>
-[ ![Andreas M. Antonopoulos: Lightning Unleashes Bitcoin](/content/anita_andreas.png)](https://bitcoinundco.com/en/andreas-antonopoulos-lightning/)
+**Listen - Should Signal have used Bitcoin instead?** <br><br>
+[ ![Should Signal have used Bitcoin instead?](/content/peter_livera.png)](https://stephanlivera.com/episode/268/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Christian Decker: The Lightning Network and Greenlight Nodes** <br><br>
-[ ![Christian Decker: The Lightning Network and Greenlight Nodes](/content/anita_decker.png)](https://bitcoinundco.com/en/christian-decker-lightning/)
+**Watch - Bitcoin History with Peter Todd and Guy Swann** <br><br>
+[ ![Bitcoin History with Peter Todd and Guy Swann](/content/peter_history.png)](https://www.youtube.com/watch?v=DCYCz186KAU/)
 </div>
 
 <div class="p-3 my-2">
 
-**Listen - Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch** <br><br>
-[ ![Bitcoin World #8: Bitcoin in Zimbabwe with Anita Posch](/content/anita_wbd.png)](https://www.whatbitcoindid.com/podcast/batw-bitcoin-in-zimbabwe-with-anita-posch/)
+**Watch - Bitcoin Stories: Peter Todd** <br><br>
+[ ![Bitcoin Stories: Peter Todd](/content/peter_stories.png)](https://www.youtube.com/watch?v=1V3AquMaZ3w/)
+</div>
+
+<div class="p-3 my-2">
+
+**Listen - Peter Todd On Hardware Wallets, Security & Proofmarshall** <br><br>
+[ ![Peter Todd On Hardware Wallets, Security & Proofmarshall](/content/peter_takeover.png)](https://bitcoin-takeover.com/s4-e7-peter-todd-on-hardware-wallets-security-proof-marshall/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Meddling with Time and Bitcoin** <br><br>
+[ ![Meddling with Time and Bitcoin](/content/peter_wasabi.png)](https://www.youtube.com/watch?v=pgb-8TAlCFc/)
 </div>
 
 </div>
