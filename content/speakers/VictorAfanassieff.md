@@ -3,12 +3,13 @@ name: "Victor <br>Afanassieff"
 function: LN Markets
 img: victor1.png
 github: vafanassieff
-showPage: false
+showPage: true
 ---
 
 # Victor Afanassieff
  
-Ben is a Bitcoin developer who values freedom for all and believes that privacy technologies like Bitcoin are the best way to achieve this.
+Victor Afanassieff is the Co-Founder and CTO of LN Markets, the trading platform built on the Bitcoin Lightning Network which uses Bitcoin, paid and settled over the Network as collateral for derivatives trading. Victor is a full stack developer building on the Lightning Network since 2018. He graduated from the French coding school Ecole 42 (Paris).
+
 <br><br>
 
 ## Dive deeper
@@ -17,21 +18,17 @@ Ben is a Bitcoin developer who values freedom for all and believes that privacy 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
-[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+**Read - LN Markets is on Bitcoin mainnet** <br><br>
+[ ![LN Markets is on Bitcoin mainnet](/content/romain_lnmarkets.png)](https://lnmarkets.substack.com/p/ln-markets/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - Bitnob joins the Lightning Network** <br><br>
-[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
+**Watch - Potzblitz! - The weekly Lightning talk #2 with Victor Afanassieff, Romain Rouphael and Josh Scigala**  <br><br>
+[![Potzblitz! - The weekly Lightning talk #2 with Victor Afanassieff, Romain Rouphael and Josh Scigala](/content/romain_potzblitz.png)](https://www.youtube.com/watch?v=3-Xw99W5Jzk/)
 </div>
 
 <div class="p-3 my-2">
-
-**Watch - BTC In Emerging Markets** <br><br>
-[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
-</div>
 
 </div>
 
