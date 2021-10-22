@@ -9,7 +9,7 @@ showPage: true
 
 # Peter Todd
  
-Peter Todd is a cryptochronomancer - h/t orionwl - known for his work on OpenTimestamps, Bitcoin Core and for hating bios.
+Peter Todd has been one of the most prolific contributors to free software and Bitcoin in general, and is known widely for his work on OpenTimestamps and Bitcoin Core.  
 <br><br>
 
 ## Dive deeper
