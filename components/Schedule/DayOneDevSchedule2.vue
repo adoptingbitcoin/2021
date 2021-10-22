@@ -14,7 +14,7 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:35 - 3:00">
-        <b>How to make signing more secure</b> <br><br>
+        <b>Lightning Native Teams</b> <br><br>
 
         Paul Itoi - Co-Founder of Sphinx Chat
       </ScheduleRowRight>
