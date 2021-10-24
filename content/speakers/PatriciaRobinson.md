@@ -8,7 +8,7 @@ showPage: true
 
 # Patricia Robinson
  
-Patricia is a Designer focused on FOSS bitcoin projects. She is an advocate for BTCPay Server. Passionate about human freedom and privacy; she is excited to open a discussion about Bitcoin Smiles.
+Patricia is a designer focused on FOSS bitcoin projects, an advocate for BTCPay Server and passionate about human freedom and privacy. She is excited to open a discussion about Bitcoin Smiles.
 <br><br>
 
 ## Dive deeper
