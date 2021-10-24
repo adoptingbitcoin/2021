@@ -3,7 +3,7 @@ name: "Patricia <br>Robinson"
 function: Bitcoin Smiles
 img: patriciarobinson.png
 twitter: 'bentricia21'
-showPage: false
+showPage: true
 ---
 
 # Patricia Robinson
@@ -17,20 +17,14 @@ Patricia is a Designer focused on FOSS bitcoin projects. She is an advocate for 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
-[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+**Watch - Bitcoin Smiles in El Salvador - I Am Satoshi Series** <br><br>
+[ ![Bitcoin Smiles in El Salvador - I Am Satoshi Series](/content/patricia_okcoin.png)](https://www.youtube.com/watch?v=5KWewAhxo0E/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - Bitnob joins the Lightning Network** <br><br>
-[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - BTC In Emerging Markets** <br><br>
-[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+**Read - The inspiring initiative in El Salvador: Bitcoin Smiles** <br><br>
+[ ![The inspiring initiative in El Salvador: Bitcoin Smiles](/content/patricia_bm.png)](https://bitcoinmagazine.com/business/el-salvador-bitcoin-smiles-raising-btc/)
 </div>
 
 </div>
