@@ -36,7 +36,7 @@
       <ScheduleRow time="11:05  - 11:40">
         <b>Bitcoin Smiles Q&A</b> <br><br>
 
-        Patricia Robinson - Bitcoin Smiles <br>
+        Bentricia21 - Bitcoin Smiles <br>
         Pavlenex - BTCPayServer <br>
         Enrique Berrios - Dentist at Bitcoin Smiles
       </ScheduleRow>

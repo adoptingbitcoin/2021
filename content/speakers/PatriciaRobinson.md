@@ -1,14 +1,14 @@
 ---
-name: "Patricia <br>Robinson"
+name: "Bentricia21 <br><br>"
 function: Bitcoin Smiles
 img: patriciarobinson.png
 twitter: 'bentricia21'
 showPage: true
 ---
 
-# Patricia Robinson
+# Bentricia21
  
-Patricia is a designer focused on FOSS bitcoin projects, an advocate for BTCPay Server and passionate about human freedom and privacy. She is excited to open a discussion about Bitcoin Smiles.
+Bentricia21 is a designer focused on FOSS bitcoin projects, an advocate for BTCPay Server and passionate about human freedom and privacy. She is excited to open a discussion about Bitcoin Smiles.
 <br><br>
 
 ## Dive deeper
