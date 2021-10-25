@@ -9,7 +9,7 @@
       <ScheduleRowRight time="4:45 - 5:10">
         <b>Federated Mints</b><br><br>
 
-        Elsirion - Blockstream
+        elsirion - Blockstream
       </ScheduleRowRight>
 
       <ScheduleRowRight time="5:15 - 6:10">
