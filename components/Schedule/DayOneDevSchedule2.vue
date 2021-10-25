@@ -27,7 +27,7 @@
         Roy Sheinfeld - CEO of Breez <br>
         Conor Okus - Product Manager at Square Crypto <br><br>
 
-        Host: Christian Rotzoll - Fulmo
+        Host: Jeff Gallas - Fulmo
       </ScheduleRowRight>
 
       <ScheduleRowRight time="4:00 - 4:30" fixedheight="true">
