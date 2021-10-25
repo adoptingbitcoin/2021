@@ -24,7 +24,7 @@ Elsirion is a Crypto-Anarchist and aspiring Cypherpunk developing mostly on Rust
 
 <div class="p-3 my-2">
 
-**Watch - Fedimint with Elsirion and The Smuggler at HCPP21** <br><br>
+**Watch - Fedimint with elsirion and Smuggler at HCPP21** <br><br>
 [ ![Fedimint with Elsirion and The Smuggler at HCPP21](/content/elsirion_hcpp21.png)](https://www.youtube.com/watch?v=JXGmzTbyuEw&t=5330s/)
 </div>
 
