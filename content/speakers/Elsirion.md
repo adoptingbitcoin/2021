@@ -1,5 +1,5 @@
 ---
-name: "Elsirion <br><br>"
+name: "elsirion <br><br>"
 function: Blockstream
 img: elsirion.png
 twitter: 'EricSirion'
@@ -7,7 +7,7 @@ github: elsirion
 showPage: true
 ---
 
-# Elsirion
+# elsirion
  
 Elsirion is a Crypto-Anarchist and aspiring Cypherpunk developing mostly on Rust and researching cryptography and distributed systems with the goal of making Bitcoin more private and accessible at the same time. He is interested in everything that enhances personal freedom. 
 <br><br>
