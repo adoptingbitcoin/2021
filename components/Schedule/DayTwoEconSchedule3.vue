@@ -22,7 +22,7 @@
         Host: Mario Aguiluz - CSO IBEX
       </ScheduleRow>
 
-      <ScheduleRow time="6:15 - 6:25" fixedheight="true">
+      <ScheduleRow time="6:15 - 6:25" :fixedheight="true">
         Closing Remarks: Chris Hunter
       </ScheduleRow>
     </tbody>

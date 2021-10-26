@@ -1,5 +1,5 @@
 <template>
-  <BGGrey class="pb-16">
+  <BGGrey class="pb-16" id="schedule">
     <Container>
       <GradientHeader class="mb-16">
         {{ $t('schedule.title') }}

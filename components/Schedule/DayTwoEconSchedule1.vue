@@ -1,7 +1,7 @@
 <template>
   <table class="table text-center">
     <tbody class="even:bg-gray-300">
-      <ScheduleRow time="7:30- 09:00" fixedheight="true">
+      <ScheduleRow time="7:30- 09:00" :fixedheight="true">
         Registration + coffee & snacks
       </ScheduleRow>
 
@@ -41,7 +41,7 @@
         Host: Will Hernandez - Growth & Business Manager Paxful
       </ScheduleRow>
 
-      <ScheduleRow time="12:10 - 1:30" fixedheight="true">
+      <ScheduleRow time="12:10 - 1:30" :fixedheight="true">
         Lunch break
       </ScheduleRow>
     </tbody>

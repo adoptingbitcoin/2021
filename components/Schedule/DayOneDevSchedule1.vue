@@ -1,11 +1,11 @@
 <template>
   <table class="table text-center">
     <tbody class="even:bg-red">
-      <ScheduleRowRight time="7:30- 09:00" fixedheight="true">
+      <ScheduleRowRight time="7:30- 09:00" :fixedheight="true">
         Registration + coffee & snacks
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="09:00 - 09:10" fixedheight="true">
+      <ScheduleRowRight time="09:00 - 09:10" :fixedheight="true">
         Opening Remarks: Nicolas Burtey
       </ScheduleRowRight>
 
@@ -45,7 +45,7 @@
         Jesse Jestopher - Co-Founder Amboss Technologies
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="12:10 - 1:30" fixedheight="true">
+      <ScheduleRowRight time="12:10 - 1:30" :fixedheight="true">
         Lunch break
       </ScheduleRowRight>
     </tbody>
