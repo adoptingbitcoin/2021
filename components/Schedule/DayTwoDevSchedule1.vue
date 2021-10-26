@@ -1,11 +1,11 @@
 <template>
   <table class="table text-center">
     <tbody class="even:bg-red">
-      <ScheduleRowRight time="7:30- 09:00" fixedheight="true">
+      <ScheduleRowRight time="7:30- 09:00" :fixedheight="true">
         Registration + coffee & snacks
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="9:05 - 9:25" fixedheight="true">
+      <ScheduleRowRight time="9:05 - 9:25" :fixedheight="true">
         <b>The perfect LN wallet: what we dream of, what we have now</b><br><br>
         Giacomo Zucco / BHB Network
       </ScheduleRowRight>
@@ -31,7 +31,7 @@
         Ben Arc - Teacher LNBits
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="12:10 - 1:30" fixedheight="true">
+      <ScheduleRowRight time="12:10 - 1:30" :fixedheight="true">
         Lunch break
       </ScheduleRowRight>
     </tbody>

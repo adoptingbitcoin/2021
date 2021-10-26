@@ -23,7 +23,7 @@
         Host: Mark Moss
       </ScheduleRow>
 
-      <ScheduleRow time="6:15 - 6:30" fixedheight="true">
+      <ScheduleRow time="6:15 - 6:30" :fixedheight="true">
         Closing Remarks: Moritz Wietersheim
       </ScheduleRow>
     </tbody>

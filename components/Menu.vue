@@ -25,6 +25,9 @@
           <NuxtLink to="/#tickets" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.tickets') }}
           </NuxtLink>
+          <NuxtLink to="/#schedule" class="link" @click.native="menuIsShown=false">
+            {{ $t('menu.schedule') }}
+          </NuxtLink>
           <NuxtLink to="/#sponsors" class="link" @click.native="menuIsShown=false">
             {{ $t('menu.sponsors') }}
           </NuxtLink>

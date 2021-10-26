@@ -30,7 +30,7 @@
         Host: Jeff Gallas - Fulmo
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="4:00 - 4:30" fixedheight="true">
+      <ScheduleRowRight time="4:00 - 4:30" :fixedheight="true">
         Coffee Break
       </ScheduleRowRight>
     </tbody>

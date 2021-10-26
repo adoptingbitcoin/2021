@@ -27,7 +27,7 @@
         Host: Stephan Livera - Host of the Bitcoin Podcast
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="3:50 - 4:15" fixedheight="true">
+      <ScheduleRowRight time="3:50 - 4:15" :fixedheight="true">
         Coffee Break
       </ScheduleRowRight>
     </tbody>
