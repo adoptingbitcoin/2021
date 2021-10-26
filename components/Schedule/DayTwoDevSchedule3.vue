@@ -7,7 +7,7 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="4:45 - 5:10">
-        <b>Federated Mints</b><br><br>
+        <b>Improving Bitcoin Privacy with Federated E-Cash Mints</b><br><br>
 
         elsirion - Blockstream
       </ScheduleRowRight>

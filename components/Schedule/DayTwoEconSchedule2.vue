@@ -4,8 +4,10 @@
       <ScheduleRow time="1:35 - 2:00">
         <b>Bitcoin as the Next Internet</b><br><br>
 
-        Max Webster - Hivemind <br><br>
-        Host: Aaron Van Wirdum
+        Max Webster - Hivemind <br>
+        James Andrew - Global Liquidity <br><br>
+        
+        Host: Jeff Gallas
       </ScheduleRow>
 
       <ScheduleRow time="2:05 - 2:30">

@@ -27,7 +27,7 @@
         Roy Sheinfeld - CEO of Breez <br>
         Conor Okus - Product Manager at Square Crypto <br><br>
 
-        Host: Jeff Gallas - Fulmo
+        Host: Aaron van Wirdum - Bitcoin Magazine
       </ScheduleRowRight>
 
       <ScheduleRowRight time="4:00 - 4:30" :fixedheight="true">

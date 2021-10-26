@@ -28,6 +28,12 @@ Elsirion is a Crypto-Anarchist and aspiring Cypherpunk developing mostly on Rust
 [ ![Fedimint with Elsirion and The Smuggler at HCPP21](/content/elsirion_hcpp21.png)](https://www.youtube.com/watch?v=JXGmzTbyuEw&t=5330s/)
 </div>
 
+<div class="p-3 my-2">
+
+**Read - Federated E-Cash as a Bitcoin Scaling Technology** <br><br>
+[ ![Federated E-Cash as a Bitcoin Scaling Technology](/content/elsirion_ecash.png)](https://medium.com/blockstream/blockstream-sponsors-federated-e-cash-as-a-bitcoin-scaling-technology-637ba05de7b3/)
+</div>
+
 </div>
 
 <br>
