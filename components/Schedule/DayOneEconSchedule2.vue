@@ -29,7 +29,7 @@
         Host: Alexandra Moxin - Advance Tech Podcast <br>
       </ScheduleRow>
 
-      <ScheduleRow time="4:00 - 4:30" fixedheight="true">
+      <ScheduleRow time="4:00 - 4:30" :fixedheight="true">
         Coffee Break
       </ScheduleRow>
     </tbody>

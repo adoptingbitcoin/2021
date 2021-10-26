@@ -21,7 +21,7 @@
         Bastien Teinturier - Software Developer ACINQ
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="6:15 - 6:30" fixedheight="true">
+      <ScheduleRowRight time="6:15 - 6:30" :fixedheight="true">
         Closing Remarks: Jeff Gallas
       </ScheduleRowRight>
     </tbody>

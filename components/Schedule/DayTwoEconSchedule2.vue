@@ -24,7 +24,7 @@
         Host: Rodrigo Gomez - Country Manager of Bitrefill - El Salvador
       </ScheduleRow>
 
-      <ScheduleRow time="3:50 - 4:15" fixedheight="true">
+      <ScheduleRow time="3:50 - 4:15" :fixedheight="true">
         Coffee Break
       </ScheduleRow>
     </tbody>

@@ -23,7 +23,7 @@
         Host: Pablo Fernandez
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="6:15 - 6:25" fixedheight="true">
+      <ScheduleRowRight time="6:15 - 6:25" :fixedheight="true">
         Closing Remarks: Nicolas Burtey
       </ScheduleRowRight>
     </tbody>
