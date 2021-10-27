@@ -6,7 +6,7 @@
 
         Max Webster - Hivemind <br>
         James Andrew - Global Liquidity <br><br>
-        
+
         Host: Jeff Gallas
       </ScheduleRow>
 
@@ -15,6 +15,8 @@
       </ScheduleRow>
 
       <ScheduleRow time="2:35 - 3:00">
+        <b>El Salvador - The global pilot for the Bitcoin circular economy: A progress report</b><br><br>
+        
         Sergej Kotliar - Founder & CEO Bitrefill
       </ScheduleRow>
 
