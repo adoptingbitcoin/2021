@@ -11,7 +11,7 @@ metaImage: meta_sergejkotliar.jpg
 
 # Sergej Kotliar
  
-Sergej Kotliar is the CEO and Founder of Bitrefill. The company aims to allow users to buy almost anything with Bitcoin through the use of gift cards. With their easy and intuitive purchasing process, users can live on Bitcoin in more than 200 jurisdictions around the world.
+Sergej Kotliar is the CEO and Founder of Bitrefill. Based in Sweden, Bitrefill allows users to buy almost anything with Bitcoin through the sale of digital gift cards. Bitrefill is the number one place where people use their bitcoin, and is available in over 100 countries. Bitrefill is also a thought leader in the Lightning space - from being the first major merchant to accept real-money payments to pioneering concepts for Lightning-native services such as the first Lightning Service Provider “Thor”. Sergej is a M.Sc. in Engineering, has been programming since his teenage years and actively leads product development at Bitrefill. Prior to Bitrefill, he co-founded a Swedish app startup in the early 2010's.
 <br><br>
 Sergej Kotliar es el CEO y fundador de Bitrefill. La compañía tiene como objetivo permitir a los usuarios comprar casi cualquier cosa con Bitcoin mediante el uso de tarjetas de regalo. Con su proceso de compra fácil e intuitivo, los usuarios pueden vivir en Bitcoin en más de 200 jurisdicciones alrededor de todo el mundo.
 <br><br>
