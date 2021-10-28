@@ -19,6 +19,12 @@ Conor is a Product Manager at Square Crypto, managing their grant program that f
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Watch - Bitcoin is for Everyone - Episode 1 | Hello Bitcoin** <br><br>
+[ ![Bitcoin is for Everyone - Episode 1 | Hello Bitcoin](/content/conor_hello.png)](https://www.youtube.com/watch?v=oubZGyDY4Dc/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Saving for the future & working in the Bitcoin industry - Conor Okus** <br><br>
 [ ![Saving for the future & working in the Bitcoin industry - Conor Okus](/content/conor_future.png)](https://www.youtube.com/watch?v=WCKRR09UqrM/)
 </div>
