@@ -22,7 +22,6 @@
         <b>If it looks better, it works better</b> <br><br>
 
         Anthony Potdevin - Co-Founder Amboss Technologies <br>
-        Pavlenex - BTCPay & Bitcoin Design <br>
         Johns Beharry - Bitcoin designer at Peak Shift <br>
         John Carvalho - The Biz <br> <br>
 
