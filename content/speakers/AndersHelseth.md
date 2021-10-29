@@ -22,8 +22,6 @@ Anders is a Senior Analyst at Arcane Research. He has been the project lead of t
 [ ![The State of Lightning](/content/anders_state.png)](https://www.research.arcane.no/the-state-of-lightning/)
 </div>
 
-</div>
-
 <div class="p-3 my-2">
 
 **Read - Una vista al estado del Lightning - ES** <br><br>
