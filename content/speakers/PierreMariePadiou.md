@@ -1,15 +1,13 @@
 ---
 name: "Pierre-Marie <br>Padiou"
 function: ACINQ
-img: pierremariepadiou.jpg
-twitter: 
+img: pierremariepadiou1.png
 github: pm47
 linkedin: pmpadiou
 url: https://www.linkedin.com/in/pmpadiou/
+showPage: true
 ---
 
 # Pierre-Marie Padiou
  
-Blablablablablablablabla
-blablablabla
-
+Pierre-Marie Padiou is the CEO and cofounder of ACINQ. Founded in 2014, ACINQ is one of the main developers of the Bitcoin Lightning Network. Pierre-Marie is passionate about both technology and entrepreneurship. He considers himself very lucky to have the opportunity of building meaningful products and services for such a major innovation as Bitcoin.
