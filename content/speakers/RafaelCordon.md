@@ -1,42 +1,18 @@
 ---
-name: "Rafael <br>Cordon"
+name: "Rafa <br>Cordon"
 function: Ibex Mercado
-img: rafaelcordon.png
+img: rafacordon.png
 twitter: 'rafa_cordon'
 linkedin: rafael-cordon
-showPage: false
+showPage: true
 ---
 
 # Rafael Cordon
  
-Bastien Teinturier is a software engineer at the Paris based Bitcoin tech company ACINQ. Founded in 2014, ACINQ is a French startup building products and services for the Bitcoin ecosystem. Bastien is working on both the Lightning Network specification and ACINQ's implementation.
-<br><br>
-Bastien Teinturier es ingeniero de software en la empresa de tecnología Bitcoin con sede en París, ACINQ. Fundada en 2014, ACINQ es una startup francesa que crea productos y servicios para el ecosistema de Bitcoin. Bastien está trabajando tanto en la especificación de Lightning Network como en la implementación de ACINQ.
+Rafa Cordon is CTO at IBEX, leading development of IBEX’s Lightning-powered solutions. A lifelong learner and passionate builder, Rafa has been involved in the Bitcoin community since 2017 when he founded Decentralized Technologies, a smart contract development and learning platform. Additionally, Rafa is founder and Chief Cloud Architect at ITZ Data, a specialized cloud consulting firm. He has worked for more than 10 years advising companies and governments on data platform architecture and strategy. Rafa holds a Master’s degree in Engineering from Duke University and currently lives in Guatemala.
 <br><br>
 
-## Dive deeper
 
 
-<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-<div class="p-3 my-2">
 
-**Watch - The Lightning network** <br><br>
-[ ![The Lightning network](/content/bastien_lightning.png)](https://www.youtube.com/watch?v=xMWdMaxvP0Y/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - The Lightning Conference 2019: Trampoline Routing**  <br><br>
-[![The Lightning Conference 2019: Trampoline Routing](/content/bastien_lnconf.png)](https://www.youtube.com/watch?v=1E-KhLA6Gck/)
-</div>
-
-<div class="p-3 my-2">
-
-**Listen - SLP142 Pierre-Marie Padiou - ACINQ & Phoenix Wallet: easiest non-custodial lightning wallet yet?**  <br><br>
-[![SLP142 Pierre-Marie Padiou - ACINQ & Phoenix Wallet: easiest non-custodial lightning wallet yet?](/content/SLP142-Pierre-Marie-Padiou.png)](https://stephanlivera.com/episode/142/)
-</div>
-
-</div>
-
-<br>
 
