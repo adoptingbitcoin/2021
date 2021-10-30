@@ -4,7 +4,6 @@ function: ACINQ
 img: pierremariepadiou1.png
 github: pm47
 linkedin: pmpadiou
-url: https://www.linkedin.com/in/pmpadiou/
 showPage: true
 ---
 
