@@ -19,7 +19,7 @@ Aleks is the founder of Amber, the worlds first Bitcoin DCA app. He is a writer 
 <div class="p-3 my-2">
 
 **Watch - The Remnant** <br><br>
-[ ![The Remnant](/content/aleks_remnant.png)](https://www.youtube.com/watch?v=GAAAasOBzDQ/)
+[ ![The Remnant](/content/aleks_crypto.png)](https://www.youtube.com/watch?v=GAAAasOBzDQ/)
 </div>
 
 <div class="p-3 my-2">
