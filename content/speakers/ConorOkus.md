@@ -5,7 +5,7 @@ img: conorokus.jpeg
 twitter: 'ConorOkus'
 github: ConorOkus
 linkedin: conorokus
-showPage: false
+showPage: true
 ---
 
 # Conor Okus
@@ -19,8 +19,14 @@ Conor is a Product Manager at Square Crypto, managing their grant program that f
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Read - The State of Lightning** <br><br>
-[ ![The State of Lightning](/content/anders_state.png)](https://www.research.arcane.no/the-state-of-lightning/)
+**Watch - Bitcoin is for Everyone - Episode 1 | Hello Bitcoin** <br><br>
+[ ![Bitcoin is for Everyone - Episode 1 | Hello Bitcoin](/content/conor_hello.png)](https://www.youtube.com/watch?v=oubZGyDY4Dc/)
+</div>
+
+<div class="p-3 my-2">
+
+**Watch - Saving for the future & working in the Bitcoin industry - Conor Okus** <br><br>
+[ ![Saving for the future & working in the Bitcoin industry - Conor Okus](/content/conor_future.png)](https://www.youtube.com/watch?v=WCKRR09UqrM/)
 </div>
 
 </div>

@@ -37,8 +37,10 @@
         <b>Bitcoin Smiles Q&A</b> <br><br>
 
         Bentricia21 - Bitcoin Smiles <br>
-        Pavlenex - BTCPayServer <br>
-        Enrique Berrios - Dentist at Bitcoin Smiles
+        Josh Young - NewStory <br>
+        Enrique Berrios - Dentist at Bitcoin Smiles <br><br>
+
+        Host: Chris Hunter - Galoy
       </ScheduleRow>
 
       <ScheduleRow time="11:45 - 12:10">

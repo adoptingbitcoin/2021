@@ -4,8 +4,10 @@
       <ScheduleRow time="1:35 - 2:00">
         <b>Bitcoin as the Next Internet</b><br><br>
 
-        Max Webster - Hivemind <br><br>
-        Host: Aaron Van Wirdum
+        Max Webster - Hivemind <br>
+        James Andrew - Global Liquidity <br><br>
+
+        Host: Jeff Gallas
       </ScheduleRow>
 
       <ScheduleRow time="2:05 - 2:30">
@@ -13,6 +15,8 @@
       </ScheduleRow>
 
       <ScheduleRow time="2:35 - 3:00">
+        <b>El Salvador - The global pilot for the Bitcoin circular economy: A progress report</b><br><br>
+        
         Sergej Kotliar - Founder & CEO Bitrefill
       </ScheduleRow>
 
