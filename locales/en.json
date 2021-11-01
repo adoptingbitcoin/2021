@@ -69,8 +69,8 @@
   },
   "tickets": {
     "title": "GET YOUR TICKET HERE",
-    "ticket1": "Late Adopter",
-    "ticket1Price": "$250",
+    "ticket1": "Late Mover",
+    "ticket1Price": "$300",
     "ticket2": "Late Mover",
     "ticket2Price": "$300",
     "ticket3": "Speaker",
@@ -83,10 +83,6 @@
     "priceUp": {
       "title": "Ticket Schedule",
       "prices": [
-        {
-          "text": "<strong>Late Adopter</strong> until October 31",
-          "price": "$250"
-        },
         {
           "text": "<strong>Late Mover</strong> from November 1",
           "price": "$300"
