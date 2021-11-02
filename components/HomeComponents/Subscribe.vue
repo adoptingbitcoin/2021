@@ -24,7 +24,8 @@
             </div>
           </div>
           <div v-if="error">
-            There was an Error!
+            There was an Error! <br>
+            {{ errorMessage }}
           </div>
           <div v-if="success">
             Yay!
@@ -49,7 +50,8 @@ export default {
       email: '',
       error: false,
       success: false,
-      loading: false
+      loading: false,
+      errorMessage: ''
     }
   },
   methods: {
@@ -59,26 +61,26 @@ export default {
     onSuccess () {
       console.log('Successfully Subscribed to Newsletter!')
     },
-    subscribe () {
+    async subscribe () {
+      if (this.email === '') {
+        return
+      }
       this.loading = true
       this.success = false
       this.error = false
-      fetch('https://bitkushin.space/adoptingbitcoin_mail_subscribe.php?email=' + this.email).then((result) => {
-        this.loading = false
-        if (result.ok || result.status === 400) {
-          this.success = true
-          this.email = ''
-        } else {
-          this.success = false
-          this.error = true
-        }
-        console.log(result)
-      }, (error) => {
-        this.loading = false
+      const result = await fetch('https://bitkushin.space/adoptingbitcoin_mail_subscribe.php?email=' + this.email)
+      this.loading = false
+      if (result.ok) {
+        this.success = true
+        this.email = ''
+      } else {
         this.success = false
         this.error = true
-        console.log(error)
-      })
+        const errorMessage = await result.json()
+        console.log(errorMessage)
+        this.errorMessage = errorMessage.message
+      }
+      console.log(result)
     }
   }
 }
