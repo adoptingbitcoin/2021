@@ -8,51 +8,77 @@
         <p class="mb-10">
           {{ $t('subscribe.text') }}
         </p>
-        <mailchimp-subscribe
-          url="https://space.us5.list-manage.com/subscribe/post-json"
-          user-id="625da9c0dc52c7b96a2dffdbe"
-          list-id="bcae950e07"
-          @error="onError"
-          @success="onSuccess"
-        >
-          <template v-slot="{ subscribe, setEmail, error, success, loading }">
-            <form @submit.prevent="subscribe">
-              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
-                <div class="bg-white px-5 py-2">
-                  <input type="email" @input="setEmail($event.target.value)" :placeholder="$t('subscribe.enteremail')" />
-                </div>
-              </div>
 
-              <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
-                <div class="bg-white px-5 py-2">
-                  <button type="submit">{{ $t('subscribe.signup') }}</button>
-                </div>
-              </div>
-              <div v-if="error" v-html="error"></div>
-              <div v-if="success">Yay!</div>
-              <div v-if="loading">Loading…</div>
-            </form>
-          </template>
-        </mailchimp-subscribe>
+        <form @submit.prevent="subscribe">
+          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto">
+            <div class="bg-white px-5 py-2">
+              <input v-model="email" type="email" :placeholder="$t('subscribe.enteremail')">
+            </div>
+          </div>
+
+          <div class="cta-border p-1 rounded mx-auto my-5 text-center w-100 md:inline-block md:w-auto md:ml-5">
+            <div class="bg-white px-5 py-2">
+              <button type="submit">
+                {{ $t('subscribe.signup') }}
+              </button>
+            </div>
+          </div>
+          <div v-if="error">
+            There was an Error!
+          </div>
+          <div v-if="success">
+            Yay!
+          </div>
+          <div v-if="loading">
+            Loading…
+          </div>
+        </form>
       </div>
-
     </Container>
   </div>
 </template>
 
 <script>
-import MailchimpSubscribe from 'vue-mailchimp-subscribe'
 import Container from '~/components/Container'
 import BlueTitle from '~/components/BlueTitle'
 export default {
   name: 'Subscribe',
-  components: { BlueTitle, Container, MailchimpSubscribe },
+  components: { BlueTitle, Container },
+  data () {
+    return {
+      email: '',
+      error: false,
+      success: false,
+      loading: false
+    }
+  },
   methods: {
     onError () {
       console.log('Error subscribing to Newsletter!')
     },
     onSuccess () {
       console.log('Successfully Subscribed to Newsletter!')
+    },
+    subscribe () {
+      this.loading = true
+      this.success = false
+      this.error = false
+      fetch('https://bitkushin.space/adoptingbitcoin_mail_subscribe.php?email=' + this.email).then((result) => {
+        this.loading = false
+        if (result.ok || result.status === 400) {
+          this.success = true
+          this.email = ''
+        } else {
+          this.success = false
+          this.error = true
+        }
+        console.log(result)
+      }, (error) => {
+        this.loading = false
+        this.success = false
+        this.error = true
+        console.log(error)
+      })
     }
   }
 }
