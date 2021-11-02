@@ -19,8 +19,7 @@
     "nuxt": "^2.15.7",
     "sass": "^1.39.0",
     "vue": "^2.6.14",
-    "vue-check-view": "^0.3.0",
-    "vue-mailchimp-subscribe": "^1.1.0"
+    "vue-check-view": "^0.3.0"
   },
   "devDependencies": {
     "@babel/eslint-parser": "^7.15.4",
