@@ -39,6 +39,9 @@
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 3</h3>
           <span class="font-bold">{{ $t('schedule.date3') }}</span>
           <ul v-html="$t('schedule.day3list')"></ul>
+          <a class="mx-auto w-content cursor-pointer mx-2 block" href="/CONVIVIO-BITCOIN-BEACH.pdf" target="_blank">
+            <CTA> SHOW SCHEDULE</CTA>
+          </a>
         </div>
       </div>
 
@@ -55,6 +58,8 @@
         </div>
       </div>
       <div :class="{hidden: !showDay3}">DAY 3</div>
+
+        <img src="~/assets/images/day3schedule.jpg" class="w-full h-auto my-5" alt="">
 
       <div class="color-bg p-5 text-white rounded mt-10">
         <p v-html="$t('tickets.otherConferences')"/>
