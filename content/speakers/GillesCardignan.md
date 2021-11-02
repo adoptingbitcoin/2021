@@ -3,18 +3,12 @@ name: "Gilles<br>Cadignan"
 function: Woleet
 img: gillescardignan.png
 twitter: 'gillesCadignan'
-showPage: false
+showPage: true
 ---
 
 # Gilles Cadignan
  
-CEO and co-founder of @woleet 
-Woleet : DocuSign on Bitcoin
-Woleet : Digital trust minimization service built on a Bitcoin layer 2 
-crypto OG (2013)
-translated Mastering Bitcoin in French in 2014
-Teaching Bitcoin to MD in digital trust at Univ. La Rochelle
-Active member of the French speaking Bitcoin community
+Gilles is the CEO and co-founder of @Woleet, a company focused on digital trust minimization services built on Bitcoin layer 2. As a a crypto OG since 2013 and active member of the French speaking Bitcoin community, he translated Mastering Bitcoin to French in 2014. He's also teaching Bitcoin to MD in digital trust at Univ. La Rochelle.
 <br><br>
 
 ## Dive deeper
@@ -23,20 +17,14 @@ Active member of the French speaking Bitcoin community
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
-**Listen - Bernard Parah: Bitcoin for Africa - E115** <br><br>
-[ ![Bernard Parah: Bitcoin for Africa - E115](/content/bernard_citizenbitcoin.png)](https://citizenbitcoin.world/episodes/bernard-parah-bitcoin-for-africa-e115/)
+**Read - The (Other) Bitcoin Standard** <br><br>
+[ ![The (Other) Bitcoin Standard](/content/gilles_standard.png)](https://medium.com/@gillesCadignan/the-other-bitcoin-standard-226e743687dd/)
 </div>
 
 <div class="p-3 my-2">
 
-**Read - Bitnob joins the Lightning Network** <br><br>
-[ ![Bitnob joins the Lightning Network](/content/bernard_bitnob.png)](https://medium.com/@parah/bitnob-joins-the-lightning-network-bdd2ffc7e67/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - BTC In Emerging Markets** <br><br>
-[ ![BTC In Emerging Markets](/content/bernard_emergingmarkets.png)](https://www.youtube.com/watch?v=2pNse-Owu6I/)
+**Watch - Bitcoin est indestructible - FR** <br><br>
+[ ![Bitcoin est indestructible - FR](/content/gilles_bitcoin.png)](https://www.youtube.com/watch?v=r14_D2EbPqk/)
 </div>
 
 </div>
