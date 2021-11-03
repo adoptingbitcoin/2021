@@ -19,7 +19,7 @@ Will Hernandez is a NC graduate in Business and Financial Economics from Methodi
 <div class="p-3 my-2">
 
 **Watch - LightningDiaries: Day 1 In El Salvador Using Only Bitcoin Via The Paxful Lightning Wallet** <br><br>
-[ ![LightningDiaries: Day 1 In El Salvador Using Only Bitcoin Via The Paxful Lightning Wallet](/content/will_paxfulwallet.png)](https://www.youtube.com/watch?v=O9EwK3nvsIk/)
+[ ![LightningDiaries: Day 1 In El Salvador Using Only Bitcoin Via The Paxful Lightning Wallet](/content/will_paxfullwallet.png)](https://www.youtube.com/watch?v=O9EwK3nvsIk/)
 </div>
 
 <div class="p-3 my-2">
