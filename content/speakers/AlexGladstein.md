@@ -15,6 +15,11 @@ Alex Gladstein es el director de estrategia de la Human Rights Foundation. Como 
 La Human Rights Foundation es una organización no partidista y sin fines de lucro que promueve y protege los derechos humanos a nivel mundial, con un enfoque en sociedades cerradas.
 <br><br>
 
+## Day 2 | ECON Track | 9:05 - 9:25
+Bitcoin is Hope!<br><br>
+
+<br><br>
+
 ## Dive deeper
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
