@@ -9,7 +9,7 @@ showPage: true
 
 # Carlos Miguel Rivas Carillo
  
-Carlos is an experienced lawyer in cross-border transactions and has been working on developing the fintech ecosystem of El Salvador since 2018. A founding member of the El Salvador Fintech Association, he is highly experienced in regional processes on banking and financial regulation. He is also the president of the El Salvador Entrepreneurs Association and co-founder of of Hardmode Interactive, a boutique software development company that was recently feautured on Forbes Central America.
+Carlos is an experienced lawyer in cross-border transactions and has been working on developing the fintech ecosystem of El Salvador since 2018. A founding member of the El Salvador Fintech Association, he is highly experienced in regional processes on banking and financial regulation. He is also the president of the El Salvador Entrepreneurs Association and co-founder of Hardmode Interactive, a boutique software development company that was recently feautured on Forbes Central America.
 <br><br>
 
 ## Dive deeper
