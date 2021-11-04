@@ -1,6 +1,6 @@
 ---
 tier: shark
-img: lnbig1.png
+img: lnbig2.png
 title: 'LNBIG'
 prio: 47
 url: 'https://lnbig.com/'
