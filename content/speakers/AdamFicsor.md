@@ -12,6 +12,18 @@ showPage: true
 Adam is a .NET/C# developer, who got his first Bitcoin experience under Nicolas Dorier in Japan, where he co-authored "Programming the Blockchain in C#". While Nicolas moved on to creating BTCPay, Adam moved on to building privacy technologies for Bitcoin. This journey led to the creation of Wasabi Wallet, an open source privacy-focused Bitcoin wallet with built-in Coinjoin.
 <br><br>
 
+## Day 2 | DEV Track | 3:05 - 3:45
+
+Lightning Privacy Panel<br><br>
+Adam Ficsor - Wasabi Wallet<br>
+Peter Todd  - Bitcoin Core Developer<br>
+Bastien Teinturier - Software Developer ACINQ<br>
+Openoms - Open Source Developer Raspiblitz <br><br>
+
+Host: Stephan Livera - Host of the Bitcoin Podcast
+<br><br>
+
+
 ## Dive deeper
 
 
