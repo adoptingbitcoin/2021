@@ -16,7 +16,7 @@ Together with his colleague Caralie, Jonas co-manages Chaincode’s educational 
 ## Day 2 | DEV Track | 5:15 - 6:10
 
 Onboarding Bitcoin and Lightning Developers<br><br>
-"Will Clark - LIghtning Application Engineer at Global Mesh Labs<br>
+Will Clark - LIghtning Application Engineer at Global Mesh Labs<br>
 Gloria Zhao - Brink Fellow, Bitcoin Core Contributor<br>
 Jonas - Qala<br>
 Jonas Nick - Bitcoin Research Blockstream<br><br>
