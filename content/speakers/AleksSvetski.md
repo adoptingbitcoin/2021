@@ -12,6 +12,12 @@ showPage: true
 Aleks is the founder of Amber, the worlds first Bitcoin DCA app. He is a writer at Bitcoin Magazine & The Bitcoin Times and host of the Wake Up Podcast. When people complain about toxicity in Bitcoin, chances are high they talk about Aleks, the Bitcoin Ultra-Supremacist.
 <br><br>
 
+## Day 2 | ECON Track | 4:45 - 5:10
+Building for the Remnant<br><br>
+Is mass adoption significant or selective adoption more critical?<br>
+If the masses will be forced to join, then why not focus on the remnants?
+<br><br>
+
 ## Dive deeper
 
 
