@@ -14,7 +14,7 @@ A former Data Scientist / Data Engineer, Josie originally found Bitcoin through 
 
 ## Day 1 | DEV Track | 9:15 - 9:40
 
-<b>Introduction to Chaincode's Lightning Protocol Development</b><br>
+<br><b>Introduction to Chaincode's Lightning Protocol Development</b><br><br>
 
 Chaincode run's a 5-week seminar on Lightning, aimed at on-boarding developers to understanding and working on the Lightning Network. All of the material for the seminar is open source and any group of individuals can organize their own "seminar" or work through the material at their own pace. The goal of this talk is to explain the distributed learning format, introduce the material, and talk about my personal experience as a seminar participant.<br><br>
 

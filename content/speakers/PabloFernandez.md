@@ -15,7 +15,7 @@ Pablo is the Lead Developer at Swan Bitcoin. He's been a software engineer and a
 
 ## Day 1 | DEV Track | 9:00 - 6:00
 
-Pablo will be your MC of the DEV Track on Day 1
+Pablo will be your MC of the DEV Track on Day 1<br><br>
 
 ## Day 2 | DEV Track | 5:15 - 6:10
 

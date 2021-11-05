@@ -14,7 +14,7 @@ Adam is a .NET/C# developer, who got his first Bitcoin experience under Nicolas 
 
 ## Day 2 | DEV Track | 3:05 - 3:45
 
-<b>Lightning Privacy Panel</b><br><br>
+<br><b>Lightning Privacy Panel</b><br><br>
 
 <b>Panelists:</b><br>
 Adam Ficsor - zkSNACKs<br>
