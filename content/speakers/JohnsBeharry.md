@@ -13,6 +13,19 @@ showPage: true
 Johns is a hybrid product designer and software engineer from a tiny island in the Caribbean, researching user experience of bitcoin payments and privacy, whose presence within the Bitcoin Design Slack is as ubiquitous as bitcoin itself. 
 <br><br>
 
+## Day 1 | ECON Track | 3:05 - 3:55
+
+<b>If it looks better, it works better</b><br><br>
+Designing for Bitcoin is seemingly more complex. Is it possible to create products all while upholding the core values of self-sovereignty? <br><br>
+
+<b>Panelists:</b><br>
+Anthony Potdevin - Co-Founder Amboss Technologies <br>
+Johns Beharry - Bitcoin designer at Peak Shift<br>
+John Carvalho - The Biz <br><br>
+
+<b>Host:</b> Alexandra Moxin - Advance Tech Podcast
+<br><br>
+
 ## Dive deeper
 
 

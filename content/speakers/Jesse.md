@@ -1,5 +1,5 @@
 ---
-name: "Jesse <br>Jestopher"
+name: "Jestopher<br><br>"
 function: Amboss Technologies
 img: thomasjestopher.png
 twitter: 'Jestopher_BTC'
@@ -11,6 +11,12 @@ showPage: true
  
 Jestopher is an active member of the Lightning Community, providing perspective on operating lightning network routing nodes. Jestopher is the co-founder of Amboss Technologies, where he interfaces between community desires and technical direction to create lightning products that users love. With an inventing mindset and a background in Environmental and Transportation Engineering, Jestopher is energized by the opportunities that the Lightning Network can provide to further human flourishing using frictionless payment and savings technology. You can find Jestopher co-hosting the Lightning Friday podcast, a live-recorded Twitter Space, as well as Bitcoin Kindergarten, which is an education-centric live "call in" show for new-coiners, plebs, and maximalists. He provides a modicum of professionalism, off-setting at least some degeneracy.
 <br><br>
+
+## Day 1 | DEV Track | 11:45 - 12:10
+Where do you fit in the Lightning Network?<br><br>
+Every node on the Lightning Network has a unique personality: economically, behaviorally, and mathematically. With more than 17,000 nodes on the network, what makes your node unique? How are you equipped to interact and thrive in this new ecosystem?<br>
+<br><br>
+
 
 ## Dive deeper
 

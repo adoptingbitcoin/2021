@@ -13,6 +13,11 @@ showPage: true
 Conor is a Product Manager at Square Crypto, managing their grant program that funds over 20 open-source developers and designers. He's also the User Experience Lead at Hello Bitcoin, the most friendly place for beginners to learn about Bitcoin. 
 <br><br>
 
+## Day 1 | DEV Track | 10:45 - 11:10
+
+<b>Improving the developer experience with BDK & LDK</b><br><br>
+Building Bitcoin Wallets with LDK & BDK - We'll give an overview of how developers can use these SDK's to build Bitcoin wallets faster without worrying about the low level logic.  <br><br>
+
 ## Dive deeper
 
 

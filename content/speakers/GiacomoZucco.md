@@ -11,6 +11,12 @@ showPage: true
 Giacomo is a Bitcoin protocol and Lightning Network protocol consultant/teacher. He spends his time supporting projects that he feels might be relevant for the future of Bitcoin, be it as educator, consultant, entrepreneur, maximalist or troll. Previously he was involved in GreenAddress, AssoBIT, BlockchainLab, Bitcoin Magazine. Currently he's advancing Bitcoin via BHB Network, BTCTimes, Relai, BCademy, Notarify.
 <br><br>
 
+## Day 2 | DEV Track | 9:05 - 9:25
+
+<b>The perfect LN wallet: what we dream of, what we have now</b><br>
+
+What should a good, modern LN wallet have? Taproot compatibility, UX abstraction from L2 vs L1 distinction, easy pairing with full nodes, advanced LN features vs. a benchmark of current options.<br><br>
+
 ## Dive deeper
 
 

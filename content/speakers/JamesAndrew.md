@@ -13,6 +13,18 @@ showPage: true
 James is the CEO and Technical Director at Global Liquidity, and organizer of James' Crypto Tree House. He was an early pioneer of high-frequency trading on Wall Street, and is now working at Global Liquidity to bridge the worlds of gaming and trading.
 <br><br>
 
+## Day 2 | ECON Track | 1:35 - 2:00
+
+<b>Bitcoin as the Next Internet</b><br><br>
+<br><br>
+
+<b>Panelists:</b><br>
+Max Webster - Hivemind<br>
+James Andrew - Global Liquidity<br>
+<b>Host:</b> Jeff Gallas - Fulmo <br><br>
+
+<br><br>
+
 ## Dive deeper
 
 

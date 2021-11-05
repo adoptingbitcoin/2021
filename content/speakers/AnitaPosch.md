@@ -13,6 +13,20 @@ showPage: true
 Anita Posch is the author of "(L)earn Bitcoin" and host of "The Anita Posch Show". She was the first Bitcoin podcaster to visit Zimbabwe to study how Bitcoin can improve the living conditions and financial freedom of billions of people in flawed democracies and developing regions. Anita translated two volumes of "The Internet of Money" by Andreas M. Antonopoulos into German. Anita's work is discussed in media all over the world: Bitcoin Magazine, CoinDesk, What Bitcoin Did, and German TV, among others. She is a member of the board of the educational NGO Bitcoin Austria. 
 <br><br>
 
+## Day 2 | ECON Track | 10:30 - 11:10
+
+<b>Lightning and the Creator Economy</b><br><br>
+LN micropayments are the key to unlocking more democratized monetization streams for artists, writers, and other creatives who have traditionally relied on centralized services to monetize their work.<br><br>
+
+<b>Panelists:</b><br>
+Roy Sheinfeld - Co-founder & CEO of Breez<br>
+Adam Curry - Podfather 2.0<br>
+Michael Tidwell - Head of System Operations of Zebedee<br>
+Colin Harper - Content and Tech LuxorTechnologies<br><br>
+
+<b>Host:</b> Anita Posch - Bitcoin Advocate, Author and Podcaster
+<br><br>
+
 ## Dive deeper
 
 

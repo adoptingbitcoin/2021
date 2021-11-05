@@ -12,6 +12,12 @@ showPage: true
 Hong Fang is the CEO of Okcoin, a global, US-licensed cryptocurrency platform serving 184 countries — the largest reach of any US-based exchange. She joined Okcoin in 2019 and comes from a Wall Street background, having spent almost a decade at Goldman Sachs where she focused on M&A, capital markets, investment, restructuring and various other corporate development activities for both traditional financial institutions and fintech companies. Hong holds an MBA in Finance, Accounting and Entrepreneurship from the University of Chicago’s Booth School of Business.
 <br><br>
 
+## Day 2 | ECON Track | 2:05 - 2:30
+
+<b>Keynote</b><br>
+
+<br><br>
+
 ## Dive deeper
 
 

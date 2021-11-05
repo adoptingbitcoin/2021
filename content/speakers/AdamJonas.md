@@ -15,13 +15,15 @@ Together with his colleague Caralie, Jonas co-manages Chaincode’s educational 
 
 ## Day 2 | DEV Track | 5:15 - 6:10
 
-Onboarding Bitcoin and Lightning Developers<br><br>
+<b>Onboarding Bitcoin and Lightning Developers</b><br><br>
+
+<b>Panelists:</b><br>
 Will Clark - Lightning Application Engineer at Global Mesh Labs<br>
 Gloria Zhao - Brink Fellow, Bitcoin Core Contributor<br>
-Jonas - Qala<br>
+Adam Jonas - Qala<br>
 Jonas Nick - Bitcoin Research Blockstream<br><br>
 
-Host: Pablo Fernandez
+<b>Host:</b> Pablo Fernandez
 <br><br>
 
 ## Dive deeper

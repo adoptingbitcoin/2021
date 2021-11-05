@@ -13,7 +13,7 @@ Aleks is the founder of Amber, the worlds first Bitcoin DCA app. He is a writer 
 <br><br>
 
 ## Day 2 | ECON Track | 4:45 - 5:10
-Building for the Remnant<br><br>
+<b>Building for the Remnant</b><br><br>
 Is mass adoption significant or selective adoption more critical?<br>
 If the masses will be forced to join, then why not focus on the remnants?
 <br><br>

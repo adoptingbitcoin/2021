@@ -11,9 +11,17 @@ showPage: true
 # Christian Rotzoll
  
 A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better known by his online handle rootzoll, is a computer scientist from Bauhaus University Weimar and early Bitcoin and free software advocate from Berlin / Germany. He is the co-founder of Fulmo, organizers of the Lightning Conference 2019 in Berlin, as well as the Lightning Hackdays in New York 2018, Munich 2019 and Barcelona 2020. Rootzoll is also the lead dev of RaspibBlitz - a sovereign FOSS node package to run from home on low-cost hardware focused on privacy and security.
-
-
 <br><br>
+
+## Day 1 | Hackspace | tbd
+
+<b>Raspiblitz</b><br><br>
+DIY Fullnode for merchants & local communities<br><br>
+
+## Day 2 | Hackspace | tbd
+
+<b>Raspiblitz</b><br><br>
+C-lightning with v1.7.1 & a spanish WebUI preview of v1.8.0<br><br>
 
 ## Dive deeper
 

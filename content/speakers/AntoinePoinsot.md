@@ -5,64 +5,29 @@ img: antoinepoinsot.jpg
 twitter: 'darosior'
 github: AntoinePoinsot
 linkedin: AntoinePoinsot
+showPage: false
 ---
 
 # Antoine Poinsot
 
-Praeposuisse tergum Phaeocomes auctus amplecti pectore hunc *sidera aras unus*.
-*Capaneusque* sortem genitor, cedere, fama, mali qui consanguineas! Tamen
-Pygmalion Neritius *arma extremos*; conplectens plena forma quod, et.  
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
 
 <br><br>
-**TALKS @ AdoptingBigcoin 2021:**
-## Pay over the lightning network
 
-Praeposuisse tergum Phaeocomes auctus amplecti pectore hunc *sidera aras unus*.
-*Capaneusque* sortem genitor, cedere, fama, mali qui consanguineas! Tamen
-Pygmalion Neritius *arma extremos*; conplectens plena forma quod, et.
+## Day 1 | DEV Track | 1:35 - 2:00
+
+<b>Fee-bumping for presigned transactions protocols</b><br><br>
 
 
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
+## Dive deeper
 
-<br><br>
-## RECENT PROJECTS
-<br>
 
-**YOUTUBE The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
+<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
+<div class="p-3 my-2">
+
+**Watch - Revault: A Multiparty Bitcoin Vault Architecture** <br><br>
+[ ![Revault: A Multiparty Bitcoin Vault Architecture](/content/antoine_reckless.png)](https://www.youtube.com/watch?v=WFBxPGLYZAo)
+</div>
+
+</div>
 
 <br>
-
-**YOUTUBE: The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.
-
-<br>
-
-**YOUTUBE: The Internet of money**
-Heres parabat maxima. Petunt Phoebe vidi perdidit longe, illius hasta Laurenti,
-quod! Tendat habitandae genetrix pallebant Cecropidae et deos, lac nigra o
-respiciens aras nondum, terras, sua! Linguae habet herbas et tenet appellantque
-dives vestem nunc fetum senemque modo. Illo Eurydicenque ossa, non [sic
-concutiens](http://pennae-putes.org/) tollens confessus dixit animos insignis;
-pro tibi pertimuit mugitus.

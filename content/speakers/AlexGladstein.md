@@ -16,8 +16,8 @@ La Human Rights Foundation es una organización no partidista y sin fines de luc
 <br><br>
 
 ## Day 2 | ECON Track | 9:05 - 9:25
-Bitcoin is Hope!<br><br>
-
+<b>Bitcoin is Hope!</b><br><br>
+Fireside Video with Gerson Martinez
 <br><br>
 
 ## Dive deeper

@@ -11,6 +11,12 @@ showPage: true
 Gilles is the CEO and co-founder of @Woleet, a company focused on digital trust minimization services built on Bitcoin layer 2. As a a crypto OG since 2013 and active member of the French speaking Bitcoin community, he translated Mastering Bitcoin to French in 2014. He's also teaching Bitcoin to MD in digital trust at Univ. La Rochelle.
 <br><br>
 
+## Day 2 | DEV Track | 1:35 - 2:00
+
+<b>Bitcoin Applied to Digital Truth</b><br>
+
+How to use layer 2 Bitcoin anchoring applications to do electronic signature seals and time stamping of sensitive/important data.<br><br>
+
 ## Dive deeper
 
 
