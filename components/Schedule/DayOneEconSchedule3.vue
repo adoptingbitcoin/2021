@@ -4,20 +4,20 @@
       <ScheduleRow time="4:35 - 5:00">
         <b>Self-Custody Solutions for Salvadoran Companies</b> <br><br>
 
-        Moritz Wietersheim - Founder of Specter Solutions <br><br>
+        <nuxt-link to="/speaker/MoritzWietersheim">Moritz Wietersheim</nuxt-link> - Founder of Specter Solutions <br><br>
         (Spanish)
       </ScheduleRow>
 
       <ScheduleRow time="5:05 - 5:30">
         <b>Taking local commerce off-the-chain</b> <br><br>
 
-        Michael Atwood - Founder of Oshi
+        <nuxt-link to="/speaker/MichaelAtwood">Michael Atwood</nuxt-link> - Founder of Oshi
       </ScheduleRow>
 
       <ScheduleRow time="5:35 - 6:15">
         <b>Bitcoin for Institutions</b> <br><br>
 
-        Alexander Leishman (River) <br>
+        <nuxt-link to="/speaker/AlexanderLeishman">Alexander Leishman</nuxt-link> (River) <br>
         Chris Hunter (Galoy) <br> <br>
 
         Host: Mark Moss

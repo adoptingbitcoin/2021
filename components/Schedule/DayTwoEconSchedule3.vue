@@ -2,13 +2,13 @@
   <table class="table text-center">
     <tbody class="">
       <ScheduleRow time="4:15 - 4:40">
-        Fode Diop - Bitcoin Application Developper at the Global Mesh Lab
+        <nuxt-link to="/speaker/FodeDiop">Fode Diop</nuxt-link> - Bitcoin Application Developper at the Global Mesh Lab
       </ScheduleRow>
 
       <ScheduleRow time="4:45 - 5:10">
         <b>Building for the Remnant</b><br><br>
 
-        Aleks Svetski - Co Founder at Amber, Writer, Speaker
+        <nuxt-link to="/speaker/AleksSvetski">Aleks Svetski</nuxt-link> - Co Founder at Amber, Writer, Speaker
       </ScheduleRow>
 
       <ScheduleRow time="5:15 - 6:10">

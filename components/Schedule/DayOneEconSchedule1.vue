@@ -18,15 +18,15 @@
 
       <ScheduleRow time="09:35 - 10:10">
         <b>Bootstrapping Bitcoin Adoption</b> <br><br>
-        Mike Peterson - Director of Bitcoin Beach <br><br>
+        <nuxt-link to="/speaker/MikePeterson">Mike Peterson</nuxt-link> - Director of Bitcoin Beach <br><br>
         <i>Hosted by: Gerson Martinez</i>
       </ScheduleRow>
 
       <ScheduleRow time="10:15 - 11:00">
         <b>El Salvador - Paving the Way for Bitcoin Adoption in South America</b> <br><br>
 
-        Jehudi Castro Sierra - Former Vice-Minister of Digital Economy Colombia <br><br>
-        Monica Taher - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
+        <nuxt-link to="/speaker/JehudiCastroSierra">Jehudi Castro Sierra</nuxt-link> - Former Vice-Minister of Digital Economy Colombia <br><br>
+        <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
         <br><br>
 
         Host: Camila Campton - Social Media Manager Swan Bitcoin <br><br>
@@ -36,9 +36,9 @@
       <ScheduleRow time="11:05  - 11:40">
         <b>Bitcoin for Non-Profits</b> <br><br>
 
-        Bentricia21 - Bitcoin Smiles <br>
-        Josh Young - NewStory <br>
-        Enrique Berrios - Dentist at Bitcoin Smiles <br><br>
+        <nuxt-link to="/speaker/Bentricia21">Bentricia21</nuxt-link> - Bitcoin Smiles <br>
+        <nuxt-link to="/speaker/JoshYoung">Josh Young</nuxt-link> - NewStory <br>
+        <nuxt-link to="/speaker/EnriqueBerrios">Enrique Berrios</nuxt-link> - Dentist at Bitcoin Smiles <br><br>
 
         Host: Chris Hunter - Co-Host / Galoy
       </ScheduleRow>
@@ -46,7 +46,7 @@
       <ScheduleRow time="11:45 - 12:10">
         <b>Take BTC to the Third Layer</b> <br><br>
 
-        Chase Perkins - Founder ImperviousAi
+        <nuxt-link to="/speaker/ChasePerkins">Chase Perkins</nuxt-link> - Founder ImperviousAi
       </ScheduleRow>
 
       <ScheduleRow time="12:10 - 1:30" :fixedheight="true">

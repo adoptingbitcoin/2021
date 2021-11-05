@@ -4,26 +4,26 @@
       <ScheduleRow time="1:35 - 2:00">
         <b>Bitcoin as the Next Internet</b><br><br>
 
-        Max Webster - Hivemind <br>
-        James Andrew - Global Liquidity <br><br>
+        <nuxt-link to="/speaker/MaxWebster">Max Webster</nuxt-link> - Hivemind <br>
+        <nuxt-link to="/speaker/JamesAndrew">James Andrew</nuxt-link> - Global Liquidity <br><br>
 
         Host: Jeff Gallas
       </ScheduleRow>
 
       <ScheduleRow time="2:05 - 2:30">
-        Hong Fang - CEO Okcoin
+        <nuxt-link to="/speaker/HongFang">Hong Fang</nuxt-link> - CEO Okcoin
       </ScheduleRow>
 
       <ScheduleRow time="2:35 - 3:00">
         <b>El Salvador - The global pilot for the Bitcoin circular economy: A progress report</b><br><br>
-        
-        Sergej Kotliar - Founder & CEO Bitrefill
+
+        <nuxt-link to="/speaker/SergejKotliar">Sergej Kotliar</nuxt-link> - Founder & CEO Bitrefill
       </ScheduleRow>
 
       <ScheduleRow time="3:05 - 3:45">
         <b>Fireside: The Cure for Financial Apartheid</b><br><br>
 
-        Ray Youssef - CEO of Paxful <br><br>
+        <nuxt-link to="/speaker/RayYoussef">Ray Youssef</nuxt-link> - CEO of Paxful <br><br>
 
         Host: Rodrigo Gomez - Country Manager of Bitrefill - El Salvador
       </ScheduleRow>
