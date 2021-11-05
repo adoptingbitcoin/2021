@@ -35,4 +35,7 @@ export default {
   .fixedheight{
     height: 50px;
   }
+  a{
+    @apply font-bold underline;
+  }
 </style>

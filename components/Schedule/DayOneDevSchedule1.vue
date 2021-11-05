@@ -11,38 +11,37 @@
 
       <ScheduleRowRight time="09:15 - 09:40">
         <b>Introduction to Chaincode's Lightning Protocol Development</b> <br><br>
-        Josie - Bitcoin Core Contributor
+        <nuxt-link to="/speaker/Josie">Josie</nuxt-link> - Bitcoin Core Contributor
       </ScheduleRowRight>
 
       <ScheduleRowRight time="09:45 - 10:10">
         <b>Peer Infrastructure Improvement</b> <br><br>
 
         Warren Togami (Blockstream) <br>
-        Konstantin Nick (Donnerlabs)
+        <nuxt-link to="/speaker/KonstantinNick">Konstantin Nick</nuxt-link> (Donnerlabs)
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:15 - 10:40">
         <b>Onboarding a Country to Lightning -
           A Cloud Architecture Approach</b> <br><br>
 
-        Rafael Cordón - CTO IBEX
+        <nuxt-link to="/speaker/RafaelCordon">Rafael Cordón</nuxt-link> - CTO IBEX
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:45 - 11:10">
         <b>Improving the developer experience with BDK & LDK</b> <br><br>
-
-        Conor Okus - Product Manager Square Crypto
+        <nuxt-link to="/speaker/ConorOkus">Conor Okus</nuxt-link> - Product Manager Square Crypto
       </ScheduleRowRight>
 
       <ScheduleRowRight time="11:15 - 11:40">
         <b>Integrating Lightning in an exchange</b> <br><br>
-        Francis Pouliot - CEO Founder of Bull Bitcoin
+        <nuxt-link to="/speaker/FrancisPouliot">Francis Pouliot</nuxt-link> - CEO Founder of Bull Bitcoin
       </ScheduleRowRight>
 
       <ScheduleRowRight time="11:45 - 12:10">
         <b>Where do you fit in the Lightning Network?</b> <br><br>
 
-        Jesse Jestopher - Co-Founder Amboss Technologies
+        <nuxt-link to="/speaker/Jesse">Jesse Jestopher</nuxt-link> - Co-Founder Amboss Technologies
       </ScheduleRowRight>
 
       <ScheduleRowRight time="12:10 - 1:30" :fixedheight="true">

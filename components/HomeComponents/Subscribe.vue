@@ -80,7 +80,6 @@ export default {
         console.log(errorMessage)
         this.errorMessage = errorMessage.message
       }
-      console.log(result)
     }
   }
 }
