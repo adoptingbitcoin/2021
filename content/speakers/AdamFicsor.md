@@ -14,19 +14,17 @@ Adam is a .NET/C# developer, who got his first Bitcoin experience under Nicolas 
 
 ## Day 2 | DEV Track | 3:05 - 3:45
 
-Lightning Privacy Panel
-
 <br>
+<i>Lightning Privacy Panel</i><br><br>
 
-<span style="font-size: 1.5rem">Panelists:</span><br>
-
-Adam Ficsor - zkSNACKs <br>
+<b>Panelists:</b><br>
+Adam Ficsor - zkSNACKs<br>
 Peter Todd  - Bitcoin Core Developer<br>
 Bastien Teinturier - Software Developer ACINQ<br>
 Openoms - Open Source Developer Raspiblitz <br><br>
 
 <b>Host:</b> Stephan Livera - Host of the Bitcoin Podcast
-<br><br><br><br>
+<br><br>
 
 
 ## Dive deeper

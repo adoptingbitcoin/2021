@@ -15,7 +15,8 @@ Together with his colleague Caralie, Jonas co-manages Chaincode’s educational 
 
 ## Day 2 | DEV Track | 5:15 - 6:10
 
-<br><i>Onboarding Bitcoin and Lightning Developers</i><br><br>
+<br>
+<i>Onboarding Bitcoin and Lightning Developers</i><br><br>
 
 <b>Panelists:</b><br>
 Will Clark - Lightning Application Engineer at Global Mesh Labs<br>
