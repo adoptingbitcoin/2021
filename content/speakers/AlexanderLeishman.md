@@ -15,9 +15,10 @@ Alex Leishman es el cofundador y director ejecutivo de River Financial. Con sede
 <br><br>
 
 ## Day 2 | ECON Track | 9:05 - 9:25
-Bitcoin for Institutions<br><br>
-Alexander Leishman (River)<br>
-Host: Chris Hunter (Galoy)<br><br>
+<br>
+<i>Bitcoin for Institutions</i><br><br>
+Alexander Leishman - River<br>
+<b>Host:</b> Chris Hunter - Co-Host / Galoy<br><br>
 
 ## Dive deeper
 

@@ -12,6 +12,15 @@ showPage: true
 Elsirion is a Crypto-Anarchist and aspiring Cypherpunk developing mostly on Rust and researching cryptography and distributed systems with the goal of making Bitcoin more private and accessible at the same time. He is interested in everything that enhances personal freedom. 
 <br><br>
 
+## Day 2 | DEV Track | 4:45 - 5:10
+<br>
+<i>Improving Bitcoin Privacy with Federated E-Cash Mints</i><br><br>
+Lightning, while being a huge improvement, still has a scaling, privacy and accessibility problem. Channel management is expensive and tedious, leading to many users choosing custodial services, sacrificing privacy and censorship resistance. Federated E-Cash Mints on top of Bitcoin and Lightning, based on the anonymous e-cash ideas by David Chaum, solve these problems in two ways:<br>
+1 - Custodianship of the backing funds is distributed over the federation members, preventing censorship and theft by single entities<br>
+2 - User access to funds is granted through anonymous e-cash tokens issued by the federation<br>
+This allows for a set of not fully trusted parties (e.g. local community members) to run a semi-custodial, anonymous Lightning wallet service, fully interoperable with everyone else.
+<br><br>
+
 ## Dive deeper
 
 
