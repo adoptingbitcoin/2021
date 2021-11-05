@@ -34,13 +34,13 @@
       </ScheduleRow>
 
       <ScheduleRow time="11:05  - 11:40">
-        <b>Bitcoin Smiles Q&A</b> <br><br>
+        <b>Bitcoin for Non-Profits</b> <br><br>
 
         Bentricia21 - Bitcoin Smiles <br>
         Josh Young - NewStory <br>
         Enrique Berrios - Dentist at Bitcoin Smiles <br><br>
 
-        Host: Chris Hunter - Galoy
+        Host: Chris Hunter - Co-Host / Galoy
       </ScheduleRow>
 
       <ScheduleRow time="11:45 - 12:10">

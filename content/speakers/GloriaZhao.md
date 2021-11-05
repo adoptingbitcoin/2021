@@ -12,6 +12,25 @@ showPage: true
 Gloria is a Bitcoin Core developer and fellow at Brink who focuses mainly on mempool validation and transaction relay. She is currently working on Package Mempool Accept.
 <br><br>
 
+## Day 1 | DEV Track | 2:05 - 2:30
+<br>
+<i>Transaction Relay Policy for L2 Developers</i><br>
+
+Policy and transaction relay guarantees are a nebulous and important security subject for L2, especially because it’s very poorly documented and there are a ton of very subtle mempool attacks.<br><br>
+
+## Day 2 | DEV Track | 5:15 - 6:10
+
+<b>Onboarding Bitcoin and Lightning Developers</b><br><br>
+
+<b>Panelists:</b><br>
+Will Clark - Lightning Application Engineer at Global Mesh Labs<br>
+Gloria Zhao - Brink Fellow, Bitcoin Core Contributor<br>
+Adam Jonas - Qala<br>
+Jonas Nick - Bitcoin Research Blockstream<br><br>
+
+<b>Host:</b> Pablo Fernandez
+<br><br>
+
 ## Dive deeper
 
 

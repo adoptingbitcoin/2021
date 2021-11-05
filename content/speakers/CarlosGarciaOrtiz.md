@@ -12,6 +12,11 @@ showPage: true
 Carlos is a software/hardware developer and entrepreneur passionate about learning, sharing and building new projects in the Bitcoin space. He is the Co-Founder and Co-Creator of Bleskomat - a Bitcoin / Lightning ATM for instant payments, low fees and easy setup.
 <br><br>
 
+## Day 2 | Hackspace | tbd
+<br>
+<i>Bleskomat -  The Lightning Onboarding Machine</i><br><br>
+El Salvador edition, easy to build with intergrated screen and controller<br><br>
+
 ## Dive deeper
 
 

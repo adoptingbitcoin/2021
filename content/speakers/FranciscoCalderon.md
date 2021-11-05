@@ -15,6 +15,15 @@ Francisco is a software engineer and FOSS activist since 1999. When researching 
 Francisco Calderón es un ingeniero de software y partidario del software libre de código abierto (FOSS) y, por supuesto, de Bitcoin. A mediados de 2019, escribió un artículo llamado “Venezuela: de hiperinflación a hiperbitcoinización”, publicado en su página personal.
 <br><br>
 
+## Day 2 | Hackspace | tbd
+<br>
+<i>Aprende a desarrollar un sistema de propinas lightning con nodejs</i><br><br>
+Tutorial: https://grunch.dev/es/guides/lapp/ <br>
+ 
+Full project for lightning tips: https://github.com/grunch/lntip<br><br>
+
+## Dive deeper
+
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 

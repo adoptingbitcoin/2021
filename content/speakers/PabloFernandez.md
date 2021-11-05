@@ -1,21 +1,21 @@
 ---
-name: "Jonas <br>Nick"
-function: Blockstream
-img: jonasnick.jpg
-twitter: 'n1ckler'
-github: jonasnick
+name: "Pablo <br>Fernandez"
+function: Swan Bitcoin
+img: pablofernandez.png
+twitter: 'pablof7z'
+github: heelhook
+linkedin: pablofer
 showPage: true
 ---
 
-# Jonas Nick
+# Pablo Fernandez
  
-Jonas Nick has been a Bitcoin developer with Blockstream since 2015. He is currently working in the research group focused on signatures and script languages like Miniscript and Simplicity for the Bitcoin protocol, wallets, the Elements sidechain and the Lightning Network. He is also a contributor to free and open source projects like Bitcoin Core, libsecp, rust-bitcoin and many others. Jonas is also a co-author of the Schnorr and Taproot specifications and works on both, theory and implementation, of various Bitcoin protocols like adaptor signatures, key aggregation, MuSig, MuSig2, FROST, Batch Verify and many more.
+Pablo is the Lead Developer at Swan Bitcoin. He's been a software engineer and a FOSS advocate for the past 20+ years. Formerly a Linux kernel contributor, working in the HPC (high performance computing) industry, Pablo transitioned to focusing his work and energy in Bitcoin-related projects 4+ years ago.
 <br><br>
 
-## Day 2 | DEV Track | 9:30 - 9:55
-<br>
-<i>Mass Adoption, But Decentralized</i><br><br>
-Because transaction throughput is limited, true mass adoption of Bitcoin can only be achieved today by giving up control to centralized institutions such as banks which is the exact outcome that Bitcoin was designed to avoid! This talk will discuss state-of-the-art research in scaling Bitcoin that does not give up on decentralization.<br><br>
+## Day 1 | DEV Track | 9:00 - 6:00
+
+Pablo will be your MC of the DEV Track on Day 1<br><br>
 
 ## Day 2 | DEV Track | 5:15 - 6:10
 
@@ -61,3 +61,4 @@ Jonas Nick - Bitcoin Research Blockstream<br><br>
 </div>
 
 <br>
+

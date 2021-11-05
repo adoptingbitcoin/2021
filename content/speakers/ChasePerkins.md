@@ -14,6 +14,11 @@ Not only a data privacy and tech policy attorney, but a real cypherpunk, Chase P
 Chase Perkins no solamente es un abogado especializado en políticas de privacidad y tecnología de datos, sino un verdadero cypherpunk, y además el CEO y fundador de Impervious.ai. Su API permite a cualquier desarrollador trabajar sobre Lightning Network y habilita una tercera capa programática para la creación de aplicaciones resistentes a la censura y que no requieren permisos.
 <br><br>
 
+## Day 1 | ECON Track | 11:45 - 12:10
+<br>
+<i>Take BTC to the Third Layer</i><br><br>
+Impervious API is a programmatic layer that sits on top of the Bitcoin Lightning Network, i.e., "Layer 3." What are its prominent applications? How can developers leverage this 3rd layer solution?<br><br>
+
 ## Dive deeper
 
 <br>

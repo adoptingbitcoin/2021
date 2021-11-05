@@ -29,7 +29,7 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:45 - 11:10">
-        <b>LDK & BDK</b> <br><br>
+        <b>Improving the developer experience with BDK & LDK</b> <br><br>
 
         Conor Okus - Product Manager Square Crypto
       </ScheduleRowRight>

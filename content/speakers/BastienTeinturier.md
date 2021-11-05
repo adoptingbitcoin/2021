@@ -10,11 +10,18 @@ showPage: true
 ---
 
 # Bastien Teinturier
- 
+
 Bastien Teinturier is a software engineer at the Paris based Bitcoin tech company ACINQ. Founded in 2014, ACINQ is a French startup building products and services for the Bitcoin ecosystem. Bastien is working on both the Lightning Network specification and ACINQ's implementation.
 <br><br>
 Bastien Teinturier es ingeniero de software en la empresa de tecnología Bitcoin con sede en París, ACINQ. Fundada en 2014, ACINQ es una startup francesa que crea productos y servicios para el ecosistema de Bitcoin. Bastien está trabajando tanto en la especificación de Lightning Network como en la implementación de ACINQ.
 <br><br>
+
+## Day 1 | DEV Track | 5:35 - 6:15
+<br>
+<i>Privacy on Lightning</i><br><br>
+<br><br>
+
+
 
 ## Dive deeper
 

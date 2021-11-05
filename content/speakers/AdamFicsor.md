@@ -14,13 +14,15 @@ Adam is a .NET/C# developer, who got his first Bitcoin experience under Nicolas 
 
 ## Day 2 | DEV Track | 3:05 - 3:45
 
-Lightning Privacy Panel<br><br>
-Adam Ficsor - Wasabi Wallet<br>
+<br><i>Lightning Privacy Panel</i><br><br>
+
+<b>Panelists:</b><br>
+Adam Ficsor - zkSNACKs<br>
 Peter Todd  - Bitcoin Core Developer<br>
 Bastien Teinturier - Software Developer ACINQ<br>
 Openoms - Open Source Developer Raspiblitz <br><br>
 
-Host: Stephan Livera - Host of the Bitcoin Podcast
+<b>Host:</b> Stephan Livera - Host of the Bitcoin Podcast
 <br><br>
 
 
