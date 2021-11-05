@@ -13,7 +13,8 @@ Jestopher is an active member of the Lightning Community, providing perspective 
 <br><br>
 
 ## Day 1 | DEV Track | 11:45 - 12:10
-Where do you fit in the Lightning Network?<br><br>
+<br>
+<i>Where do you fit in the Lightning Network?</i><br><br>
 Every node on the Lightning Network has a unique personality: economically, behaviorally, and mathematically. With more than 17,000 nodes on the network, what makes your node unique? How are you equipped to interact and thrive in this new ecosystem?<br>
 <br><br>
 

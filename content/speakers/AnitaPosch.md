@@ -14,8 +14,8 @@ Anita Posch is the author of "(L)earn Bitcoin" and host of "The Anita Posch Show
 <br><br>
 
 ## Day 2 | ECON Track | 10:30 - 11:10
-
-<b>Lightning and the Creator Economy</b><br><br>
+<br>
+<i>Lightning and the Creator Economy</i><br><br>
 LN micropayments are the key to unlocking more democratized monetization streams for artists, writers, and other creatives who have traditionally relied on centralized services to monetize their work.<br><br>
 
 <b>Panelists:</b><br>

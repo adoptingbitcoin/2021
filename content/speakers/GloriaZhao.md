@@ -13,8 +13,8 @@ Gloria is a Bitcoin Core developer and fellow at Brink who focuses mainly on mem
 <br><br>
 
 ## Day 1 | DEV Track | 2:05 - 2:30
-
-<b>Transaction Relay Policy for L2 Developers</b><br>
+<br>
+<i>Transaction Relay Policy for L2 Developers</i><br>
 
 Policy and transaction relay guarantees are a nebulous and important security subject for L2, especially because it’s very poorly documented and there are a ton of very subtle mempool attacks.<br><br>
 

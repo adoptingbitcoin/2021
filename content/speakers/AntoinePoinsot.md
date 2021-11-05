@@ -14,8 +14,8 @@ showPage: false
 <br><br>
 
 ## Day 1 | DEV Track | 1:35 - 2:00
-
-<b>Fee-bumping for presigned transactions protocols</b><br><br>
+<br>
+<i>Fee-bumping for presigned transactions protocols</i><br><br>
 
 
 ## Dive deeper

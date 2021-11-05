@@ -14,8 +14,8 @@ James is the CEO and Technical Director at Global Liquidity, and organizer of Ja
 <br><br>
 
 ## Day 2 | ECON Track | 1:35 - 2:00
-
-<b>Bitcoin as the Next Internet</b><br><br>
+<br>
+<i>Bitcoin as the Next Internet</i><br><br>
 <br><br>
 
 <b>Panelists:</b><br>

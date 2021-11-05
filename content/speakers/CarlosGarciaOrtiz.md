@@ -13,8 +13,8 @@ Carlos is a software/hardware developer and entrepreneur passionate about learni
 <br><br>
 
 ## Day 2 | Hackspace | tbd
-
-<b>Bleskomat -  The Lightning Onboarding Machine</b><br><br>
+<br>
+<i>Bleskomat -  The Lightning Onboarding Machine</i><br><br>
 El Salvador edition, easy to build with intergrated screen and controller<br><br>
 
 ## Dive deeper

@@ -14,8 +14,8 @@ Conor is a Product Manager at Square Crypto, managing their grant program that f
 <br><br>
 
 ## Day 1 | DEV Track | 10:45 - 11:10
-
-<b>Improving the developer experience with BDK & LDK</b><br><br>
+<br>
+<i>Improving the developer experience with BDK & LDK</i><br><br>
 Building Bitcoin Wallets with LDK & BDK - We'll give an overview of how developers can use these SDK's to build Bitcoin wallets faster without worrying about the low level logic.  <br><br>
 
 ## Dive deeper

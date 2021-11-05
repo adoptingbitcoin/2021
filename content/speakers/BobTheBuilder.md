@@ -8,7 +8,7 @@ showPage: true
 ---
 
 # Bob The Builder
- 
+<br>
 Bob is a backend engineer at Voltage which offers enterprise-grade infrastructure services for Bitcoin. As a self identified pleb, Bob is a Bitcoin evangelist helping to spread adoption through his code, guides, and memes.
 <br><br>
 Bob es un ingeniero de backend en Voltage, una empresa que ofrece servicios de infraestructura de nivel empresarial para Bitcoin. Autodenominado como un “plebeyo” , Bob es un evangelista de Bitcoin que ayuda a difundir la adopción a través de su código, guías y memes.
@@ -16,7 +16,7 @@ Bob es un ingeniero de backend en Voltage, una empresa que ofrece servicios de i
 
 ## Day 1 | DEV Track | 4:35 - 5:00
 
-<b>Lightning Node Observability</b><br><br>
+<i>Lightning Node Observability</i><br><br>
 Deep dive into your node and the metrics you may be missing<br><br>
 
 ## Dive deeper

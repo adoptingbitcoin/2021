@@ -16,8 +16,8 @@ Francis Pouliot es el CEO y fundador de Bull Bitcoin, además de un empresario, 
 <br><br>
 
 ## Day 1 | DEV Track | 11:15 - 11:40
-
-<b>Integrating Lightning in an exchange</b><br><br>
+<br>
+<i>Integrating Lightning in an exchange</i><br><br>
 Tips, tricks and solutions developed by Bull Bitcoin while integrating Lighting into their exchange, primarily adddressing other services who seek to integrate Lightning.<br><br>
 
 ## Dive deeper

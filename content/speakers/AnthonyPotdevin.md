@@ -13,8 +13,8 @@ Anthony is a web developer specializing in creating user interfaces and applicat
 <br><br>
 
 ## Day 2 | ECON Track | 10:30 - 11:10
-
-<b>Lightning and the Creator Economy</b><br><br>
+<br>
+<i>Lightning and the Creator Economy</i><br><br>
 LN micropayments are the key to unlocking more democratized monetization streams for artists, writers, and other creatives who have traditionally relied on centralized services to monetize their work.<br><br>
 
 Roy Sheinfeld - Co-founder & CEO of Breez<br>

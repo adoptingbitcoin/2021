@@ -13,8 +13,8 @@ Jehudi Castro Sierra is a software developer, Bitcoin advocate and Advisor to th
 <br><br>
 
 ## Day 1 | ECON Track | 10:15 - 11:00
-
-<b>El Salvador - Paving the Way for Bitcoin Adoption in Latin America</b><br><br>
+<br>
+<i>El Salvador - Paving the Way for Bitcoin Adoption in Latin America</i><br><br>
 This panel reviews the characteristics of LATAM as a region and the different use cases that bitcoin offers to over half a billion humans in the continent. From remittances to financial protection, Bitcoin is proving to be a powerful technology changing lives and transforming the meaning of money itself. In the context of weak currencies and authoritarian regimes, Bitcoin is a financial tool and freedom technology. <br><br>
 
 <b>Panelists:</b><br>

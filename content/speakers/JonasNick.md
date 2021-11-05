@@ -13,8 +13,8 @@ Jonas Nick has been a Bitcoin developer with Blockstream since 2015. He is curre
 <br><br>
 
 ## Day 2 | DEV Track | 9:30 - 9:55
-
-<b>Mass Adoption, But Decentralized</b><br><br>
+<br>
+<i>Mass Adoption, But Decentralized</i><br><br>
 Because transaction throughput is limited, true mass adoption of Bitcoin can only be achieved today by giving up control to centralized institutions such as banks which is the exact outcome that Bitcoin was designed to avoid! This talk will discuss state-of-the-art research in scaling Bitcoin that does not give up on decentralization.<br><br>
 
 ## Day 2 | DEV Track | 5:15 - 6:10

@@ -15,8 +15,8 @@ Chase Perkins no solamente es un abogado especializado en políticas de privacid
 <br><br>
 
 ## Day 1 | ECON Track | 11:45 - 12:10
-
-<b>Take BTC to the Third Layer</b><br><br>
+<br>
+<i>Take BTC to the Third Layer</i><br><br>
 Impervious API is a programmatic layer that sits on top of the Bitcoin Lightning Network, i.e., "Layer 3." What are its prominent applications? How can developers leverage this 3rd layer solution?<br><br>
 
 ## Dive deeper

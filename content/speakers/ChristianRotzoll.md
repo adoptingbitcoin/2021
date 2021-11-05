@@ -14,13 +14,13 @@ A longtime visitor of Berlin Room77 Bitcoin Meetup, Christian Rotzoll, better kn
 <br><br>
 
 ## Day 1 | Hackspace | tbd
-
-<b>Raspiblitz</b><br><br>
+<br>
+<i>Raspiblitz</i><br><br>
 DIY Fullnode for merchants & local communities<br><br>
 
 ## Day 2 | Hackspace | tbd
-
-<b>Raspiblitz</b><br><br>
+<br>
+<i>Raspiblitz</i><br><br>
 C-lightning with v1.7.1 & a spanish WebUI preview of v1.8.0<br><br>
 
 ## Dive deeper

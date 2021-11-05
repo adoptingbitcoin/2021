@@ -12,8 +12,8 @@ John Carvalho is a 9-year Bitcoin veteran that has been a staunch defender of "t
 <br><br>
 
 ## Day 1 | ECON Track | 2:05 - 2:30
-
-<b>Architecting a Self-Sovereign Economy</b><br><br>
+<br>
+<i>Architecting a Self-Sovereign Economy</i><br><br>
 A new set of products and open-source technology are released and built to allow for a post-hyperbitcoinized world. The vision is to empower a social economy that does not require banks, governments, or Big Tech. This will include core design principles, rationale, and a new technology Bitcoiners can build with and utilize to take control of their self-sovereignty on the internet.<br><br>
 
 ## Day 1 | ECON Track | 3:05 - 3:55

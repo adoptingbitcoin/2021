@@ -12,8 +12,8 @@ Bentricia21 is a designer focused on FOSS bitcoin projects, an advocate for BTCP
 <br><br>
 
 ## Day 1 | ECON Track | 11:05  - 11:40
-
-<b>Bitcoin for Non-Profits</b><br><br>
+<br>
+<i>Bitcoin for Non-Profits</i><br><br>
 Charitable organizations can achieve sustainability when they attract and effectively use enough of the right kinds of money necessary to achieve their impact. Could bitcoin be the change they need to increase their impact?<br><br>
 
 <b>Panelists:</b><br>

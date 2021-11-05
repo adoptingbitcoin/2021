@@ -14,8 +14,8 @@ Johns is a hybrid product designer and software engineer from a tiny island in t
 <br><br>
 
 ## Day 1 | ECON Track | 3:05 - 3:55
-
-<b>If it looks better, it works better</b><br><br>
+<br>
+<i>If it looks better, it works better</i><br><br>
 Designing for Bitcoin is seemingly more complex. Is it possible to create products all while upholding the core values of self-sovereignty? <br><br>
 
 <b>Panelists:</b><br>

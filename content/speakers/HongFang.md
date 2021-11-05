@@ -13,8 +13,8 @@ Hong Fang is the CEO of Okcoin, a global, US-licensed cryptocurrency platform se
 <br><br>
 
 ## Day 2 | ECON Track | 2:05 - 2:30
-
-<b>Keynote</b><br>
+<br>
+<i>Keynote</i><br>
 
 <br><br>
 

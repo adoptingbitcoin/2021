@@ -13,8 +13,8 @@ Anders is a Senior Analyst at Arcane Research. He has been the project lead of t
 <br><br>
 
 ## Day 2 | ECON Track | 9:30 - 9:55
-
-<b>The State of Lightning - a Helicopter View</b><br><br>
+<br>
+<i>The State of Lightning - a Helicopter View</i><br><br>
 Early October, Arcane Research, in collaboration with Lightning Labs, released  "The State of Lightning" report, a helicopter view of The Lightning Network through mapping the landscape, evaluating growth, and analyzing usage. This presentation will summarize the findings of the report for a non-technical audience.<br><br>
 
 

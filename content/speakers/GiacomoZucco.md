@@ -12,8 +12,8 @@ Giacomo is a Bitcoin protocol and Lightning Network protocol consultant/teacher.
 <br><br>
 
 ## Day 2 | DEV Track | 9:05 - 9:25
-
-<b>The perfect LN wallet: what we dream of, what we have now</b><br>
+<br>
+<i>The perfect LN wallet: what we dream of, what we have now</i><br>
 
 What should a good, modern LN wallet have? Taproot compatibility, UX abstraction from L2 vs L1 distinction, easy pairing with full nodes, advanced LN features vs. a benchmark of current options.<br><br>
 

@@ -12,8 +12,8 @@ Gilles is the CEO and co-founder of @Woleet, a company focused on digital trust 
 <br><br>
 
 ## Day 2 | DEV Track | 1:35 - 2:00
-
-<b>Bitcoin Applied to Digital Truth</b><br>
+<br>
+<i>Bitcoin Applied to Digital Truth</i><br>
 
 How to use layer 2 Bitcoin anchoring applications to do electronic signature seals and time stamping of sensitive/important data.<br><br>
 

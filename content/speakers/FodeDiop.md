@@ -13,8 +13,8 @@ showPage: true
 <br><br>
 
 ## Day 2 | ECON Track | 4:15 - 4:40
-
-<b></b><br><br>
+<br>
+<i></i><br><br>
   <br><br>
 
 ## Dive deeper

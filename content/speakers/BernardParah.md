@@ -16,8 +16,8 @@ Bernard es el director de Bitnob, una empresa de tecnología y servicios financi
 <br><br>
 
 ## Day 2 | ECON Track | 10:00 - 10:25
-
-<b>Challenges for the African Market</b><br><br>
+<br>
+<i>Challenges for the African Market</i><br><br>
 Africa's Bitcoin adoption rate is the highest globally. What are some of the challenges companies face when trying to scale in Africa?<br><br>
 
 

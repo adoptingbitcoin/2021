@@ -13,12 +13,13 @@ Gerson is a former derivatives trader turned bitcoin miner and investor in the d
 <br><br>
 
 ## Day 2 | ECON Track | 9:05 - 9:25
-<b>Bitcoin is Hope!</b><br><br>
+<br>
+<i>Bitcoin is Hope!</i><br><br>
 Fireside Video with Gerson Martinez
 <br><br>
 
 ## Day 2 | ECON Track | 9:00 - 6:00
-
+<br>
 Gerson will be your MC of the ECON Track on Day 2
 
 <br><br>

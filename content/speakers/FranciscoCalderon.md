@@ -16,8 +16,8 @@ Francisco Calderón es un ingeniero de software y partidario del software libre 
 <br><br>
 
 ## Day 2 | Hackspace | tbd
-
-<b>Aprende a desarrollar un sistema de propinas lightning con nodejs</b><br><br>
+<br>
+<i>Aprende a desarrollar un sistema de propinas lightning con nodejs</i><br><br>
 Tutorial: https://grunch.dev/es/guides/lapp/ <br>
  
 Full project for lightning tips: https://github.com/grunch/lntip<br><br>
