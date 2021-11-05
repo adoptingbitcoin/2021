@@ -7,28 +7,28 @@
 
       <ScheduleRowRight time="9:05 - 9:25" :fixedheight="true">
         <b>The perfect LN wallet: what we dream of, what we have now</b><br><br>
-        Giacomo Zucco / BHB Network
+        <nuxt-link to="/speaker/GiacomoZucco">Giacomo Zucco</nuxt-link> / BHB Network
       </ScheduleRowRight>
 
       <ScheduleRowRight time="09:30 - 9:55">
         <b>Mass Adoption, But Decentralized</b><br><br>
-        Jonas Nick - Bitcoin Research Blockstream
+        <nuxt-link to="/speaker/JonasNick">Jonas Nick</nuxt-link> - Bitcoin Research Blockstream
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:00 - 10:25">
         <b>A Short History of Double Spend Protection</b><br><br>
-        Peter Todd - Bitcoin Core Developer
+        <nuxt-link to="/speaker/PeterTodd">Peter Todd</nuxt-link> - Bitcoin Core Developer
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:30 - 11:10">
         <b>Optimally Reliable & Cheap Payment Flows on the Lightning Network</b><br><br>
-        Rene Pickhardt - Bitcoin & Lightning Network Developer & Educator <br>
-        Stefan Richter -  netpositive.money and host of the Honigdachs Podcast
+        <nuxt-link to="/speaker/RenePickhardt">Rene Pickhardt</nuxt-link> - Bitcoin & Lightning Network Developer & Educator <br>
+        <nuxt-link to="/speaker/StefanRichter">Stefan Richter</nuxt-link> -  netpositive.money and host of the Honigdachs Podcast
       </ScheduleRowRight>
 
       <ScheduleRowRight time="11:35 - 12:00">
         <b>All About LNbits and Local Custodianship</b><br><br>
-        Ben Arc - Teacher LNBits
+        <nuxt-link to="/speaker/BenArc">Ben Arc</nuxt-link> - Teacher LNBits
       </ScheduleRowRight>
 
       <ScheduleRowRight time="12:10 - 1:30" :fixedheight="true">

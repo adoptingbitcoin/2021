@@ -13,16 +13,16 @@
 
       <ScheduleRowRight time="2:35 - 3:00">
         <b>Running a big Lightning node: challenges, findings and next steps</b><br><br>
-        Victor Afanassieff and Romain Rouphael from LN Markets
+        <nuxt-link to="/speaker/VictorAfanassieff">Victor Afanassieff</nuxt-link> and <nuxt-link to="/speaker/RomainRouphael">Romain Rouphael</nuxt-link> from LN Markets
       </ScheduleRowRight>
 
       <ScheduleRowRight time="3:05 - 3:45">
         <b>Lightning Privacy</b><br><br>
 
-        Adam Ficsor - Wasabi Wallet <br>
-        Peter Todd  - Bitcoin Core Developer <br>
-        Bastien Teinturier - Software Developer ACINQ <br>
-        Openoms (Raspiblitz) <br><br>
+        <nuxt-link to="/speaker/AdamFicsor">Adam Ficsor</nuxt-link>  - Wasabi Wallet <br>
+        <nuxt-link to="/speaker/PeterTodd">Peter Todd</nuxt-link> - Bitcoin Core Developer <br>
+        <nuxt-link to="/speaker/BastienTeinturier">Bastien Teinturier</nuxt-link> - Software Developer ACINQ <br>
+        <nuxt-link to="/speaker/Openoms">Openoms</nuxt-link> (Raspiblitz) <br><br>
 
         Host: Stephan Livera - Host of the Bitcoin Podcast
       </ScheduleRowRight>
@@ -43,5 +43,4 @@ export default {
 </script>
 
 <style scoped>
-
 </style>

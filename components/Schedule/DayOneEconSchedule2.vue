@@ -4,12 +4,12 @@
       <ScheduleRow time="1:35 - 2:00">
         <b>Free Private Cities</b> <br><br>
 
-        Veronika Kuett / Tipolis
+        <nuxt-link to="/speaker/VeronikaKuett">Veronika Kuett</nuxt-link> / Tipolis
       </ScheduleRow>
 
       <ScheduleRow time="2:05 - 2:30">
         <b>Architecting a Self-Sovereign Economy</b> <br><br>
-        John Carvalho - CEO of Stealth Company
+        <nuxt-link to="/speaker/JohnCarvalho">John Carvalho</nuxt-link> - CEO of Stealth Company
       </ScheduleRow>
 
       <ScheduleRow time="2:35 - 3:00">
@@ -21,9 +21,9 @@
       <ScheduleRow time="3:05 - 3:55">
         <b>If it looks better, it works better</b> <br><br>
 
-        Anthony Potdevin - Co-Founder Amboss Technologies <br>
-        Johns Beharry - Bitcoin designer at Peak Shift <br>
-        John Carvalho - The Biz <br> <br>
+        <nuxt-link to="/speaker/AnthonyPotdevin">Anthony Potdevin</nuxt-link> - Co-Founder Amboss Technologies <br>
+        <nuxt-link to="/speaker/JohnsBeharry">Johns Beharry</nuxt-link> - Bitcoin designer at Peak Shift <br>
+        <nuxt-link to="/speaker/JohnCarvalho">John Carvalho</nuxt-link> - The Biz <br> <br>
 
         Host: Alexandra Moxin - Advance Tech Podcast <br>
       </ScheduleRow>

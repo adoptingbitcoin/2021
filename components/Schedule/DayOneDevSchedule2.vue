@@ -10,23 +10,21 @@
       <ScheduleRowRight time="2:05 - 2:30">
         <b>Transaction Relay Policy for L2 Developers</b> <br><br>
 
-        Gloria Zhao - Brink Fellow, Bitcoin Core Contributor
+        <nuxt-link to="/speaker/GloriaZhao">Gloria Zhao</nuxt-link> - Brink Fellow, Bitcoin Core Contributor
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:35 - 3:00">
         <b>Lightning Native Teams</b> <br><br>
 
-        Paul Itoi - Co-Founder of Sphinx Chat
+        <nuxt-link to="/speaker/PaulItoi">Paul Itoi</nuxt-link> - Co-Founder of Sphinx Chat
       </ScheduleRowRight>
 
       <ScheduleRowRight time="3:05 - 3:55">
         <b>The Future of Lightning Custody</b> <br><br>
-
-        Pierre Marie Padiou - CEO of ACINQ <br>
-        Nicolas Burtey - CEO of Galoy <br>
-        Roy Sheinfeld - CEO of Breez <br>
-        Conor Okus - Product Manager at Square Crypto <br><br>
-
+        <nuxt-link to="/speaker/PierreMariePadiou">Pierre Marie Padiou</nuxt-link> - CEO of ACINQ <br>
+        <nuxt-link to="/speaker/NicolasBurtey">Nicolas Burtey</nuxt-link> - CEO of Galoy <br>
+        <nuxt-link to="/speaker/RoySheinfeld">Roy Sheinfeld</nuxt-link> - CEO of Breez <br>
+        <nuxt-link to="/speaker/ConorOkus">Conor Okus</nuxt-link> - Product Manager at Square Crypto <br><br>
         Host: Aaron van Wirdum - Bitcoin Magazine
       </ScheduleRowRight>
 

@@ -8,26 +8,26 @@
       <ScheduleRow time="9:05 - 9:25">
         <b>Bitcoin is Hope!</b> <br><br>
 
-        Alex Gladstein - Chief Strategy Officer at Human Rights Foundation
+        <nuxt-link to="/speaker/AlexGladstein">Alex Gladstein</nuxt-link> - Chief Strategy Officer at Human Rights Foundation
       </ScheduleRow>
 
       <ScheduleRow time="09:30 - 9:55">
         <b>The State of Lightning - a Helicopter View</b><br><br>
-        Anders Helseth  - Senior Analyst Arcane Crypto
+        <nuxt-link to="/speaker/AndersHelseth">Anders Helseth</nuxt-link> - Senior Analyst Arcane Crypto
       </ScheduleRow>
 
       <ScheduleRow time="10:00 - 10:25">
         <b>Challenges for the African Market</b><br><br>
-        Bernard Parah - CEO and Co-Founder Bitnob
+        <nuxt-link to="/speaker/BernardParah">Bernard Parah</nuxt-link>- CEO and Co-Founder Bitnob
       </ScheduleRow>
 
       <ScheduleRow time="10:30 - 11:10">
         <b>Lightning and the Creator Economy</b><br><br>
 
-        Roy Sheinfeld - Co-founder & CEO of Breez <br>
+        <nuxt-link to="/speaker/RoySheinfeld">Roy Sheinfeld</nuxt-link> - Co-founder & CEO of Breez <br>
         Adam Curry - Podfather 2.0 <br>
-        Michael Tidwell - Head of System Operations of Zebedee <br>
-        Colin Harper - Content and Tech LuxorTechnologies <br><br>
+        <nuxt-link to="/speaker/MichaelTidwell">Michael Tidwell</nuxt-link> - Head of System Operations of Zebedee <br>
+        <nuxt-link to="/speaker/ColinHarper">Colin Harper</nuxt-link> - Content and Tech LuxorTechnologies <br><br>
 
         Host: Anita Posch - Bitcoin Advocate, Author and Podcaster
       </ScheduleRow>
@@ -35,7 +35,7 @@
       <ScheduleRow time="11:35 - 12:00">
         <b>Fireside Chat: El Salvador's Future is Bright with Bitcoin</b><br><br>
 
-        Monica Taher - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
+        <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
         <br><br>
 
         Host: Will Hernandez - Growth & Business Manager Paxful
