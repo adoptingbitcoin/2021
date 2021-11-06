@@ -12,6 +12,11 @@ Victor Afanassieff is the Co-Founder and CTO of LN Markets, the trading platform
 
 <br><br>
 
+## Day 2 | DEV Track | 2:35 - 3:00
+<br>
+<i>Running a big Lightning node: challenges, findings and next steps</i><br><br>
+LN Markets founders Victor and Romain will reveal all the intricacies they encountered in running a major LN node<br><br>
+
 ## Dive deeper
 
 

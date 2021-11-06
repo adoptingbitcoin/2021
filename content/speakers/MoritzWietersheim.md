@@ -12,6 +12,11 @@ showPage: true
 Moritz is CEO and cofounder at Specter Solutions. Launched in 2018 Specter is focused on providing wallet software, firmware and hardware solutions for Bitcoiner and enterprises. 
 <br><br>
 
+## Day 1 | ECON Track | 4:35 - 5:00
+<br>
+<i>Self-Custody Solutions for Salvadoran Companies</i><br><br>
+Why does self-custody matter for companies? Self-Custody solutions for companies? Different solutions in the market? Hosted vs. self-hosted solutions. How to work with Lightning Payment Providers? Q&A<br><br>
+
 ## Dive deeper
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">

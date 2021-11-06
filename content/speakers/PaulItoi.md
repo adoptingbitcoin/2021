@@ -13,6 +13,11 @@ showPage: true
 Paul Itoi is channelling major creative energy into two projects that exemplify the revolution of the Lightning Network and genuinely empower digital workers and content creators – Sphinx & Stakwork. At one time his creative energy went into his Art major, oil painting or the violin but now it’s this zeitgeisty software development and time with his family.
 <br><br>
 
+## Day 1 | DEV Track | 2:35 - 3:00
+<br>
+<i>Lightning Native Teams</i><br><br>
+<br><br>
+
 ## Dive deeper
 
 

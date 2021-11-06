@@ -15,6 +15,20 @@ Will Clark is a Lightning Application Engineer at Global Mesh Labs developing an
 Will Clark es un Ingeniero de Aplicaciones Lightning en Global Mesh Labs. Allí desarrolla un enfoque para pagar facturas Lightning a través de la red goTenna Mesh e integrar el SDK público goTenna Mesh en un sistema que utilice Bitcoin Lightning de código abierto.
 <br><br>
 
+## Day 2 | DEV Track | 5:15 - 6:10
+
+<br>
+<i>Onboarding Bitcoin and Lightning Developers</i><br><br>
+
+<b>Panelists:</b><br>
+Will Clark - Lightning Application Engineer at Global Mesh Labs<br>
+Gloria Zhao - Brink Fellow, Bitcoin Core Contributor<br>
+Adam Jonas - Qala<br>
+Jonas Nick - Bitcoin Research Blockstream<br><br>
+
+<b>Host:</b> Pablo Fernandez
+<br><br>
+
 ## Dive deeper
 
 

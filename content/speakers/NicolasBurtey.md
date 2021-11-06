@@ -16,6 +16,19 @@ Nicolas Burtey has been driving Bitcoin adoption on the ground in El Salvador. H
 Nicolas Burtey ha estado impulsando la adopción de Bitcoin directo desde El Salvador. Es cofundador de Galoy, que ha desarrollado la billetera Bitcoin Beach. Su trabajo ciertamente ha jugado un papel en la aprobación de la Ley Bitcoin, que le dio a este el estatus de moneda de curso legal en el país. Nicolas es coanfitrión de Adoptando Bitcoin y también será un panelista en la conferencia.
 <br><br>
 
+## Day 1 | DEV Track | 3:05 - 3:55
+<br>
+<i>The Future of Lightning Custody</i><br><br>
+Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
+
+<b>Panelists:</b><br>
+Pierre Marie Padiou - CEO of ACINQ<br>
+Nicolas Burtey - CEO of Galoy<br>
+Roy Sheinfeld - CEO of Breez<br>
+Conor Okus - Product Manager at Square Crypto<br><br>
+
+<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
+
 ## Dive deeper
 
 

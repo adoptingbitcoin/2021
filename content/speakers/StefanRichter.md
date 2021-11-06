@@ -12,6 +12,11 @@ showPage: true
 Stefan's current contributions include netpositive.money, an initiative for Bitcoiners who care about the climate, and Honigdachs, a popular German Bitcoin podcast. Lately he has been returning to his theoretical computer science roots in his joint work with René Pickhardt on optimal payment flows in the Lightning Network.
 <br><br>
 
+## Day 2 | DEV Track | 10:30 - 11:10
+<br>
+<i>Optimally Reliable & Cheap Payment Flows on the Lightning Network</i><br><br>
+Stefan Richter and René Pickhardt will present their new approach to multi-path finding in the Lightning Network, as originally detailed in the paper at https://arxiv.org/abs/2107.05322, and talk about new developments on the way to implementing these new methods.<br><br>
+
 ## Dive deeper
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
