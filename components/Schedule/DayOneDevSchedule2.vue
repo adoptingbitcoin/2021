@@ -14,7 +14,7 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:35 - 3:00">
-        <b>Lightning Native Teams</b> <br><br>
+        <b>Solving the Dev Crunch</b> <br><br>
 
         <nuxt-link to="/speaker/PaulItoi">Paul Itoi</nuxt-link> - Co-Founder of Sphinx Chat
       </ScheduleRowRight>

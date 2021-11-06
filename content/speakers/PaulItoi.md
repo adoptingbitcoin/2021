@@ -15,8 +15,8 @@ Paul Itoi is channelling major creative energy into two projects that exemplify 
 
 ## Day 1 | DEV Track | 2:35 - 3:00
 <br>
-<i>Lightning Native Teams</i><br><br>
-<br><br>
+<i>Solving the Dev Crunch</i><br><br>
+Are you building on lightning? Come see how you can use lightning & Sphinx to build the team to build your dream. Hire, coordinate, and pay using tribes and lightning payments. <br><br>
 
 ## Dive deeper
 
