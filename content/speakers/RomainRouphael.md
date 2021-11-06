@@ -15,6 +15,11 @@ Romain Rouphael is the Co-Founder of LN Markets and ITŌ - the latter is the Fin
 Romain Rouphael es el cofundador de LN Markets e ITŌ, siendo esta última la empresa FinTech que construyó LN Markets. La plataforma de trading LN Markets se basa en la Lightning Network, que utiliza Bitcoin, pagado y liquidado a través de la Red como garantía para el comercio de derivados. Romain tiene 12 años de experiencia en estrategia, desarrollo empresarial y ciencia de datos dentro de la industria FinTech.
 <br><br>
 
+## Day 2 | DEV Track | 2:35 - 3:00
+<br>
+<i>Running a big Lightning node: challenges, findings and next steps</i><br><br>
+LN Markets founders Victor and Romain will reveal all the intricacies they encountered in running a major LN node<br><br>
+
 ## Dive deeper
 
 

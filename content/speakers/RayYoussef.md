@@ -15,6 +15,18 @@ An immigrant from Egypt raised in the heart of New York, Ray has always had a pa
 Ray Youssef es el CEO de Paxful. Es un emprendedor y desarrollador. Ray es un tipo enfocado en los productos, que ama a los humanos y a Bitcoin. Recientemente ha estado en Nigeria, siendo testigo de la naciente construcción por parte de jóvenes de una capa de liquidación financiera panafricana que utiliza ‪Bitcoin.
 <br><br>
 
+## Day 2 | ECON Track | 3:05 - 3:45
+<br>
+<i>The Cure for Financial Apartheid</i><br><br>
+Many people worldwide live in environments of inflation, instability of the local currency, stringent capital controls on outflows, high transaction costs on financial services, and other financial obstacles. This financial apartheid is the greatest obstacle facing the developing world. 
+Bitcoin solves this!<br><br>
+
+Fireside Chat: <br>
+Ray Youssef - CEO of Paxful
+
+<b>Host:</b> Rodrigo Gomez - Country Manager of Bitrefill - El Salvador
+<br><br>
+
 ## Dive deeper
 
 

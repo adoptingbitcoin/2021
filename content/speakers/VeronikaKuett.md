@@ -12,6 +12,11 @@ showPage: true
 Veronika, a strategist and auto-didact, is merging her mathematical-analytical skills with her empathic side to bridge different ecosystems. She currently works with Tipolis Corporation, an operating company for so-called Free Private Cities, offering companies and individuals the basic services of a government as a one-stop-shop. Veronika envisions the transformation of society through building new structures from the ground up: having Bitcoin serve as the global and permissionless monetary layer merges well with building physical places with new governance models in the form of special economic zones. Opting out on every layer to build a better future for sovereign individuals. 
 <br><br>
 
+## Day 1 | ECON Track | 1:35 - 2:00
+<br>
+<i>Free Private Cities and Bitcoin</i><br><br>
+The sovereignty that individual Bitcoin users enjoy extends beyond the digital realm and into the physical world. Free Private Cities offer a peaceful way of opting out of conventional governance structures and building something aligned to the principles that made Bitcoin a success.<br><br>
+
 ## Dive deeper
 
 

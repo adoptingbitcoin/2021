@@ -13,6 +13,20 @@ showPage: true
 Michael has a passion for clean data, good infrastructure practices, and telling people, "You don't need a blockchain for that". He's currently working on Lightning infrastructure at ZEBEDEE, a portal into the Bitcoin gaming ecosystem. 
 <br><br>
 
+## Day 2 | ECON Track | 10:30 - 11:10
+<br>
+<i>Lightning and the Creator Economy</i><br><br>
+LN micropayments are the key to unlocking more democratized monetization streams for artists, writers, and other creatives who have traditionally relied on centralized services to monetize their work.<br><br>
+
+<b>Panelists:</b><br>
+Roy Sheinfeld - Co-founder & CEO of Breez<br>
+Adam Curry - Podfather 2.0<br>
+Michael Tidwell - Head of System Operations of Zebedee<br>
+Colin Harper - Content and Tech LuxorTechnologies<br><br>
+
+<b>Host:</b> Anita Posch - Bitcoin Advocate, Author and Podcaster
+<br><br>
+
 ## Dive deeper
 
 

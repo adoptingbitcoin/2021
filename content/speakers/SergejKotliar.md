@@ -16,6 +16,11 @@ Sergej Kotliar is the CEO and Founder of Bitrefill. Based in Sweden, Bitrefill a
 Sergej Kotliar es el CEO y fundador de Bitrefill. La compañía tiene como objetivo permitir a los usuarios comprar casi cualquier cosa con Bitcoin mediante el uso de tarjetas de regalo. Con su proceso de compra fácil e intuitivo, los usuarios pueden vivir en Bitcoin en más de 200 jurisdicciones alrededor de todo el mundo.
 <br><br>
 
+## Day 2 | ECON Track | 2:35 - 3:00
+<br>
+<i>El Salvador - The global pilot for the Bitcoin circular economy: A progress report</i><br><br>
+Bitcoin circular economy is an opportunity for the unbanked to have easy and instant access to a financial system while staying protected from corruption and unnecessary bureaucracy. This presentation will look into El Salvador's experiment and its global replicability.  <br><br>
+
 ## Dive deeper
 
 
