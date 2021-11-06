@@ -13,6 +13,11 @@ showPage: true
 Rene Pickhardt is an independent Lightning Network Researcher, Developer, Consultant and Educator. After discovering probabilistic pathfinding he was a pioneer in studying optimal payment flows. His main focus is to improve the reliability of the payment process but he has also pointed out several security issues. He is a long standing activist for open knowledge and answered over 50% of all questions tagged Lightning Network on Stack exchange. Rene has co-authored the book Mastering the Lightning Network and the Lightning Network Wikipedia Article. He also runs a Youtube channel about the Lightning network. He was a Teacher for Chaincodelabs' lightning Residency and openly shared over 300 slides examining the inner workings of the Lightning Network protocol. Of course his Lightning network node charges #zeroBaseFee 
 <br><br>
 
+## Day 2 | DEV Track | 10:30 - 11:10
+<br>
+<i>Optimally Reliable & Cheap Payment Flows on the Lightning Network</i><br><br>
+Stefan Richter and René Pickhardt will present their new approach to multi-path finding in the Lightning Network, as originally detailed in the paper at https://arxiv.org/abs/2107.05322, and talk about new developments on the way to implementing these new methods.<br><br>
+
 ## Dive deeper
 
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">

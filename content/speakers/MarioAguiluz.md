@@ -4,40 +4,24 @@ function: Ibex Mercado
 img: marioaguiluz.png
 twitter: 'maguiluz301'
 linkedin: maguiluz
-showPage: false
+showPage: true
 ---
 
 # Mario Aguiluz
- 
-Bastien Teinturier is a software engineer at the Paris based Bitcoin tech company ACINQ. Founded in 2014, ACINQ is a French startup building products and services for the Bitcoin ecosystem. Bastien is working on both the Lightning Network specification and ACINQ's implementation.
-<br><br>
-Bastien Teinturier es ingeniero de software en la empresa de tecnología Bitcoin con sede en París, ACINQ. Fundada en 2014, ACINQ es una startup francesa que crea productos y servicios para el ecosistema de Bitcoin. Bastien está trabajando tanto en la especificación de Lightning Network como en la implementación de ACINQ.
+Mario is the Chief Sales Officer at IBEX Mercado. His background is in energy, banking and business development.  
 <br><br>
 
-## Dive deeper
-
-
-<div class="grid grid-cols-1 md:grid-cols-2 gap-5">
-<div class="p-3 my-2">
-
-**Watch - The Lightning network** <br><br>
-[ ![The Lightning network](/content/bastien_lightning.png)](https://www.youtube.com/watch?v=xMWdMaxvP0Y/)
-</div>
-
-<div class="p-3 my-2">
-
-**Watch - The Lightning Conference 2019: Trampoline Routing**  <br><br>
-[![The Lightning Conference 2019: Trampoline Routing](/content/bastien_lnconf.png)](https://www.youtube.com/watch?v=1E-KhLA6Gck/)
-</div>
-
-<div class="p-3 my-2">
-
-**Listen - SLP142 Pierre-Marie Padiou - ACINQ & Phoenix Wallet: easiest non-custodial lightning wallet yet?**  <br><br>
-[![SLP142 Pierre-Marie Padiou - ACINQ & Phoenix Wallet: easiest non-custodial lightning wallet yet?](/content/SLP142-Pierre-Marie-Padiou.png)](https://stephanlivera.com/episode/142/)
-</div>
-
-</div>
-
+## Day 2 | ECON Track | 5:15 - 6:10
 <br>
+<i>Lightning Payments from a Merchant's Perspective</i><br><br>
+What businesses need to accept payments in bitcoin and Lightning, what experiences they’ve had, and lessons learned. <br><br>
+
+<b>Panelists:</b><br>
+Max Bloch - COO Ibex Mercado <br>
+Starbucks <br>
+OpenNode <br>
+
+<b>Host:</b> Mario Aguiluz - CSO IBEX
+<br><br>
 
 

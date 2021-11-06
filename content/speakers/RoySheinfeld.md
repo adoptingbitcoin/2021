@@ -13,6 +13,33 @@ showPage: true
 Roy is the co-founder & CEO of Breez, building an interface for the P2P Lightning economy, where users can buy, sell, and pay for goods, services, and streaming content with a non-custodial, seamless, and open mobile platform, turning bitcoin into the currency it was always meant to be.
 <br><br>
 
+## Day 1 | DEV Track | 3:05 - 3:55
+<br>
+<i>The Future of Lightning Custody</i><br><br>
+Self-custody of funds and holding the keys to your bitcoin is probably the most important best practice when starting to use Bitcoin, echoed in the mantra "Not your keys, not your coins". How can this mantra survive with millions of new users being onboarded to Lightning?<br><br>
+
+<b>Panelists:</b><br>
+Pierre Marie Padiou - CEO of ACINQ<br>
+Nicolas Burtey - CEO of Galoy<br>
+Roy Sheinfeld - CEO of Breez<br>
+Conor Okus - Product Manager at Square Crypto<br><br>
+
+<b>Host:</b> Aaron van Wirdum - Bitcoin Magazine<br><br>
+
+## Day 2 | ECON Track | 10:30 - 11:10
+<br>
+<i>Lightning and the Creator Economy</i><br><br>
+LN micropayments are the key to unlocking more democratized monetization streams for artists, writers, and other creatives who have traditionally relied on centralized services to monetize their work.<br><br>
+
+<b>Panelists:</b><br>
+Roy Sheinfeld - Co-founder & CEO of Breez<br>
+Adam Curry - Podfather 2.0<br>
+Michael Tidwell - Head of System Operations of Zebedee<br>
+Colin Harper - Content and Tech LuxorTechnologies<br><br>
+
+<b>Host:</b> Anita Posch - Bitcoin Advocate, Author and Podcaster
+<br><br>
+
 ## Dive deeper
 
 
