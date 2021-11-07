@@ -1,7 +1,7 @@
 ---
 name: "Sergej <br>Kotliar"
 function: Bitrefill
-img: sergejkotliar.jpg
+img: sergej2.png
 twitter: 'ziggamon'
 github: ziggamon
 linkedin: sergejkotliar
