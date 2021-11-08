@@ -11,7 +11,7 @@
 
       <ScheduleRow time="09:15 - 09:30">
         <b>Welcome to El Salvador!</b> <br><br>
-        María Luisa Hayem Brevé <br>
+        <nuxt-link to="/speaker/MariaLuisaHayem">María Luisa Hayem Brevé</nuxt-link> <br>
         <small><i>Minister of Economy El Salvador</i></small> <br><br>
         <small>(Spanish / English)</small>
       </ScheduleRow>
