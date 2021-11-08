@@ -27,9 +27,11 @@
 
         <nuxt-link to="/speaker/JehudiCastroSierra">Jehudi Castro Sierra</nuxt-link> - Former Vice-Minister of Digital Economy Colombia <br><br>
         <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
+        Gael Sánchez Smith - Author of Bitcoin lo Cambia Todo<br><br>
+        <nuxt-link to="/speaker/CarlosMiguelRivasCarillo">Carlos Miguel Rivas Carillo</nuxt-link> - Regulatory Specialist
         <br><br>
 
-        Host: Camila Campton - Social Media Manager Swan Bitcoin <br><br>
+        Host: <nuxt-link to="/speaker/CamilaCampton">Camila Campton</nuxt-link> - Social Media Manager Swan Bitcoin <br><br>
         <small>(Spanish)</small>
       </ScheduleRow>
 

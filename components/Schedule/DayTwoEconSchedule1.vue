@@ -29,7 +29,7 @@
         <nuxt-link to="/speaker/MichaelTidwell">Michael Tidwell</nuxt-link> - Head of System Operations of Zebedee <br>
         <nuxt-link to="/speaker/ColinHarper">Colin Harper</nuxt-link> - Content and Tech LuxorTechnologies <br><br>
 
-        Host: Anita Posch - Bitcoin Advocate, Author and Podcaster
+        Host: <nuxt-link to="/speaker/AnitaPosch">Anita Posch</nuxt-link> - Bitcoin Advocate, Author and Podcaster
       </ScheduleRow>
 
       <ScheduleRow time="11:35 - 12:00">
@@ -38,7 +38,7 @@
         <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
         <br><br>
 
-        Host: Will Hernandez - Growth & Business Manager Paxful
+        Host: <nuxt-link to="/speaker/WillHernandez">Will Hernandez</nuxt-link> - Growth & Business Manager Paxful
       </ScheduleRow>
 
       <ScheduleRow time="12:10 - 1:30" :fixedheight="true">

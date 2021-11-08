@@ -4,7 +4,7 @@
       <ScheduleRowRight time="1:35 - 2:00">
         <b>Fee-bumping for presigned transactions protocols</b><br><br>
 
-        Antoine Poinsot - Founder Revault
+        <nuxt-link to="/speaker/AntoinePoinsot">Antoine Poinsot</nuxt-link> - Founder Revault
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:05 - 2:30">

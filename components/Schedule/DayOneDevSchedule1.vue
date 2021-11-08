@@ -6,7 +6,7 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="09:00 - 09:10" :fixedheight="true">
-        Opening Remarks: Nicolas Burtey
+        Opening Remarks: <nuxt-link to="/speaker/NicolasBurtey">Nicolas Burtey</nuxt-link>
       </ScheduleRowRight>
 
       <ScheduleRowRight time="09:15 - 09:40">

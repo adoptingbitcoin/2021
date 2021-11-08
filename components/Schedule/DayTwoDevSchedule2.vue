@@ -3,12 +3,12 @@
     <tbody class="even:bg-red">
       <ScheduleRowRight time="1:35 - 2:00">
         <b>Bitcoin Applied to Digital Truth</b><br><br>
-        Gilles Cadigan - CEO Woolet
+        <nuxt-link to="/speaker/GillesCadignan">Gilles Cadigan</nuxt-link> - CEO Woolet
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:05 - 2:30">
         <b>DLCs and Lightning</b><br><br>
-        Ben Carman
+        <nuxt-link to="/speaker/ChrisStewart">Chris Stewart</nuxt-link> - Founder Suredbits
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:35 - 3:00">
