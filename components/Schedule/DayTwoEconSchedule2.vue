@@ -25,7 +25,7 @@
 
         <nuxt-link to="/speaker/RayYoussef">Ray Youssef</nuxt-link> - CEO of Paxful <br><br>
 
-        Host: Rodrigo Gomez - Country Manager of Bitrefill - El Salvador
+        Host: <nuxt-link to="/speaker/RodrigoGomez">Rodrigo Gomez</nuxt-link> - Country Manager of Bitrefill - El Salvador
       </ScheduleRow>
 
       <ScheduleRow time="3:50 - 4:15" :fixedheight="true">
