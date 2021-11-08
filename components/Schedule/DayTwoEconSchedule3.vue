@@ -16,7 +16,7 @@
 
         Max Bloch - COO <br>
         Starbucks <br>
-        OpenNode <br>
+        Open Node <br>
         McDonald's <br><br>
 
         Host: <nuxt-link to="/speaker/MarioAguiluz">Mario Aguiluz</nuxt-link> - CSO IBEX
