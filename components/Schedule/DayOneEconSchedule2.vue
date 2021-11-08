@@ -4,7 +4,8 @@
       <ScheduleRow time="1:35 - 2:00">
         <b>Free Private Cities</b> <br><br>
 
-        <nuxt-link to="/speaker/VeronikaKuett">Veronika Kuett</nuxt-link> / Tipolis
+        <nuxt-link to="/speaker/VeronikaKuett">Veronika Kuett</nuxt-link> / Tipolis <br>
+        <nuxt-link to="/speaker/PeterYoung">Peter Young</nuxt-link> / Free Private Cities Foundation <br>
       </ScheduleRow>
 
       <ScheduleRow time="2:05 - 2:30">
@@ -25,7 +26,7 @@
         <nuxt-link to="/speaker/JohnsBeharry">Johns Beharry</nuxt-link> - Bitcoin designer at Peak Shift <br>
         <nuxt-link to="/speaker/JohnCarvalho">John Carvalho</nuxt-link> - The Biz <br> <br>
 
-        Host: Alexandra Moxin - Advance Tech Podcast <br>
+        Host: <nuxt-link to="/speaker/AlexandraMoxin">Alexandra Moxin</nuxt-link> - Advance Tech Podcast <br>
       </ScheduleRow>
 
       <ScheduleRow time="4:00 - 4:30" :fixedheight="true">

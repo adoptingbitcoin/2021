@@ -18,9 +18,9 @@
         <b>Bitcoin for Institutions</b> <br><br>
 
         <nuxt-link to="/speaker/AlexanderLeishman">Alexander Leishman</nuxt-link> (River) <br>
-        Chris Hunter (Galoy) <br> <br>
+        Host: Chris Hunter (Galoy) <br> <br>
 
-        Host: Mark Moss
+      
       </ScheduleRow>
 
       <ScheduleRow time="6:15 - 6:30" :fixedheight="true">

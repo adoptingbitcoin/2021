@@ -29,7 +29,7 @@
         <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
         <br><br>
 
-        Host: Camila Campton - Social Media Manager Swan Bitcoin <br><br>
+        Host: <nuxt-link to="/speaker/CamilaCampton">Camila Campton</nuxt-link> - Social Media Manager Swan Bitcoin <br><br>
         <small>(Spanish)</small>
       </ScheduleRow>
 

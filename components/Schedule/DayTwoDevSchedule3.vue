@@ -3,7 +3,7 @@
     <tbody class="even:bg-red">
       <ScheduleRowRight time="4:15 - 4:40">
         <b>Bitcoin Beach Wallet - Building your own Bank</b><br><br>
-        Justin Carter (Galoy)
+        <nuxt-link to="/speaker/JustinCarter">Justin Carter</nuxt-link> (Galoy)
       </ScheduleRowRight>
 
       <ScheduleRowRight time="4:45 - 5:10">
@@ -20,7 +20,7 @@
         <nuxt-link to="/speaker/Josie">Josie</nuxt-link> - Bitcoin Core Contributor <br>
         <nuxt-link to="/speaker/JonasNick">Jonas Nick</nuxt-link> - Bitcoin Research Blockstream <br><br>
 
-        Host: Pablo Fernandez
+        Host: <nuxt-link to="/speaker/PabloFernandez">Pablo Fernandez</nuxt-link>
       </ScheduleRowRight>
 
       <ScheduleRowRight time="6:15 - 6:25" :fixedheight="true">
