@@ -29,6 +29,12 @@ James Andrew - Global Liquidity<br>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Read - Why Lightning, Why Now** <br><br>
+[ ![Why Lightning, Why Now](/content/max_why.png)](https://hivemind.vc/why-lightning-why-now/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Entiende Bitcoin** <br><br>
 [ ![Entiende Bitcoin](/content/max_entiende.png)](https://www.youtube.com/watch?v=C6YUztN7SKY/)
 </div>
