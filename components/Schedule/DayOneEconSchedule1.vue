@@ -42,7 +42,7 @@
         <nuxt-link to="/speaker/JoshYoung">Josh Young</nuxt-link> - NewStory <br>
         <nuxt-link to="/speaker/EnriqueBerrios">Enrique Berrios</nuxt-link> - Dentist at Bitcoin Smiles <br><br>
 
-        Host: Chris Hunter - Co-Host / Galoy
+        Host: <nuxt-link to="/speaker/ChrisHunter">Chris Hunter</nuxt-link> - Co-Host / Galoy
       </ScheduleRow>
 
       <ScheduleRow time="11:45 - 12:10">
