@@ -14,7 +14,7 @@ Max is the founder at Hivemind Ventures, investing in seed stage startups buildi
 
 ## Day 2 | ECON Track | 1:35 - 2:00
 <br>
-<i>Bitcoin as the Next Internet</i><br><br>
+<i>Investing in the Lightning Network as the Next Internet</i><br><br>
 <br><br>
 
 <b>Panelists:</b><br>
