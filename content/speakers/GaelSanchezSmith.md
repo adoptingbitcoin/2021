@@ -2,7 +2,7 @@
 name: "Gael <br>Sanchez Smith"
 function: Author Bitcoin lo Cambia Todo
 img: gaelsanchezsmith.png
-twitter: 'gaelsnasmith'
+twitter: 'gaelsansmith'
 linkedin: gael-sanchez-smith-55797536
 showPage: true
 ---
