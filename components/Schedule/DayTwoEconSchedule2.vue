@@ -2,7 +2,7 @@
   <table class="table text-center">
     <tbody class="even:bg-gray-300">
       <ScheduleRow time="1:35 - 2:00">
-        <b>Bitcoin as the Next Internet</b><br><br>
+        <b>Investing in the Lightning Network as the Next Internet</b><br><br>
 
         <nuxt-link to="/speaker/MaxWebster">Max Webster</nuxt-link> - Hivemind <br>
         <nuxt-link to="/speaker/JamesAndrew">James Andrew</nuxt-link> - Global Liquidity <br><br>
