@@ -50,6 +50,12 @@ Openoms  - Raspiblitz <br><br>
 **Listen - SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador**  <br><br>
 [![SLP279 Michael Peterson and Nicolas Burtey – Bitcoin Beach: Citadel by the sea in El Zonte, El Salvador](/content/livera_SLP279.png)](https://open.spotify.com/episode/6qFGnltKVFdH2kFiFNvKJ1/)
 </div>
+
+<div class="p-3 my-2">
+
+**Listen - t-bast Lightning Protocol Privacy Exploration**  <br><br>
+[![t-bast Lightning Protocol Privacy Exploration](/content/livera_privacy.png)](https://stephanlivera.com/episode/319/)
+</div>
 </div>
 
 <br>
