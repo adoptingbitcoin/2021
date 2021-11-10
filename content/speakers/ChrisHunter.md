@@ -42,6 +42,12 @@ Alexander Leishman - River<br>
 <div class="grid grid-cols-1 md:grid-cols-2 gap-5">
 <div class="p-3 my-2">
 
+**Read - Bitcoin Banking for Communities: Lessons Learned from El Zonte**<br><br>
+[ ![Bitcoin Banking for Communities: Lessons Learned from El Zonte](/content/chris_elzonte.png)](https://galoy.io/bitcoin-banking-for-communities-lessons-learned-from-el-zonte/)
+</div>
+
+<div class="p-3 my-2">
+
 **Watch - Galoy - Adopting Bitcoin LN Conference, Bitcoin Banking, & Bitcoin Beach**<br><br>
 [ ![Galoy - Adopting Bitcoin LN Conference, Bitcoin Banking, & Bitcoin Beach](/content/chris_bitrefill.png)](https://www.youtube.com/watch?v=q8sq1q3zdi4/)
 </div>
