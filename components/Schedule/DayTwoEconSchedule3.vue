@@ -14,16 +14,15 @@
       <ScheduleRow time="5:15 - 6:10">
         <b>Lightning Payments from a Merchant's Perspective</b><br><br>
 
-        Max Bloch - COO <br>
-        Starbucks <br>
-        Open Node <br>
-        McDonald's <br><br>
 
-        Host: <nuxt-link to="/speaker/MarioAguiluz">Mario Aguiluz</nuxt-link> - CSO IBEX
+        <nuxt-link to="/speaker/JoaoAlmeida">João Almeida</nuxt-link> - CTO of Open Node <br>
+        <nuxt-link to="/speaker/MarioAguiluz">Mario Aguiluz</nuxt-link> - CSO of Ibex Mercado <br>
+
+        Host: <nuxt-link to="/speaker/Rodrigo Gomez">Rodrigo Gomez</nuxt-link> - Bitrefill
       </ScheduleRow>
 
       <ScheduleRow time="6:15 - 6:25" :fixedheight="true">
-        Closing Remarks: Chris Hunter
+        Closing Remarks: <nuxt-link to="/speaker/ChrisHunter">Chris Hunter</nuxt-link>
       </ScheduleRow>
     </tbody>
   </table>
