@@ -9,6 +9,10 @@ showPage: true
 
 # Chris Hunter
 
+Chris Hunter is Co-Founder and President of Galoy, and co-organizer of the Adopting Bitcoin Lightning Summit. Galoy builds open source Bitcoin banking infrastructure and developed the Bitcoin Beach Wallet, the world’s largest community-owned Bitcoin bank. As President, Hunter leads all aspects of the business related to capital markets, operations, corporate finance, sales, marketing and government affairs. <br><br>
+
+Hunter is an active investor (Angel, Seed and Series A rounds) in the Bitcoin, fintech, psychedelic and renewable energy sectors. Prior to founding Galoy, he served as a Global executive who founded, led and successfully exited venture-backed companies in New York, Los Angeles, San Diego, Denver and Vancouver. 
+
 
 <br><br>
 
