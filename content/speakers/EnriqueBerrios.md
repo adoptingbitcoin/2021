@@ -17,9 +17,9 @@ Doctor of dental surgery at Bitcoin Smiles & El Zonte dental practice. Digital D
 Charitable organizations can achieve sustainability when they attract and effectively use enough of the right kinds of money necessary to achieve their impact. Could bitcoin be the change they need to increase their impact?<br><br>
 
 <b>Panelists:</b><br>
-bentricia21 - Bitcoin Smiles<br>
+
 Enrique Berrios - Dentist at Bitcoin Smiles<br>
-Josh Young - NewStory<br><br>
+Josh Young - New Story<br><br>
 
 <b>Host:</b> Chris Hunter - Co-Host / Galoy
 <br><br>

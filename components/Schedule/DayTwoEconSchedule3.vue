@@ -13,8 +13,6 @@
 
       <ScheduleRow time="5:15 - 6:10">
         <b>Lightning Payments from a Merchant's Perspective</b><br><br>
-
-
         <nuxt-link to="/speaker/JoaoAlmeida">João Almeida</nuxt-link> - CTO of Open Node <br>
         <nuxt-link to="/speaker/MarioAguiluz">Mario Aguiluz</nuxt-link> - CSO of Ibex Mercado <br>
 
