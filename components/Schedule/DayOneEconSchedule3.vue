@@ -19,8 +19,6 @@
 
         <nuxt-link to="/speaker/AlexanderLeishman">Alexander Leishman</nuxt-link> - River <br>
         Host: <nuxt-link to="/speaker/ChrisHunter">Chris Hunter</nuxt-link> - Galoy <br> <br>
-
-
       </ScheduleRow>
 
       <ScheduleRow time="6:15 - 6:30" :fixedheight="true">
