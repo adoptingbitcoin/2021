@@ -2,7 +2,7 @@
   <table class="table text-center">
     <tbody class="even:bg-gray-300">
       <ScheduleRow time="1:35 - 2:00">
-        <b>Free Private Cities</b> <br><br>
+        <b>Free Private Cities and Bitcoin</b> <br><br>
 
         <nuxt-link to="/speaker/VeronikaKuett">Veronika Kuett</nuxt-link> / Tipolis <br>
         <nuxt-link to="/speaker/PeterYoung">Peter Young</nuxt-link> / Free Private Cities Foundation <br>
