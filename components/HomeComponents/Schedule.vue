@@ -39,7 +39,7 @@
           <h3 class="text-2xl font-bold text-blue">{{ $t('schedule.day') }} 3</h3>
           <span class="font-bold">{{ $t('schedule.date3') }}</span>
           <ul v-html="$t('schedule.day3list')"></ul>
-          <a class="mx-auto w-content cursor-pointer mx-2 block" href="/CONVIVIO-BITCOIN-BEACH.pdf" target="_blank">
+          <a class="mx-auto w-content cursor-pointer mx-2 block" href="https://bitcoinbeachsv.com" target="_blank">
             <CTA> SHOW SCHEDULE</CTA>
           </a>
         </div>
