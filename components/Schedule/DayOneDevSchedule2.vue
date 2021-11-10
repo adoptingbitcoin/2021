@@ -25,7 +25,7 @@
         <nuxt-link to="/speaker/NicolasBurtey">Nicolas Burtey</nuxt-link> - CEO of Galoy <br>
         <nuxt-link to="/speaker/RoySheinfeld">Roy Sheinfeld</nuxt-link> - CEO of Breez <br>
         <nuxt-link to="/speaker/ConorOkus">Conor Okus</nuxt-link> - Product Manager at Square Crypto <br><br>
-        Host: <nuxt-link to="/speaker/AaronVanWirdum">Aaron van Wirdum</nuxt-link> - Bitcoin Magazine
+        Host:<nuxt-link to="/speaker/AaronVanWirdum">Aaron van Wirdum</nuxt-link> - Bitcoin Magazine
       </ScheduleRowRight>
 
       <ScheduleRowRight time="4:00 - 4:30" :fixedheight="true">
