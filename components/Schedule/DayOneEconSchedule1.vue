@@ -6,7 +6,7 @@
       </ScheduleRow>
 
       <ScheduleRow time="09:00 - 09:10" :fixedheight="true">
-        Opening Remarks: Chris Hunter
+        Opening Remarks: <nuxt-link to="/speaker/ChrisHunter">Chris Hunter</nuxt-link>
       </ScheduleRow>
 
       <ScheduleRow time="09:15 - 09:30">
@@ -38,7 +38,6 @@
       <ScheduleRow time="11:05  - 11:40">
         <b>Bitcoin for Non-Profits</b> <br><br>
 
-        <nuxt-link to="/speaker/Bentricia21">Bentricia21</nuxt-link> - Bitcoin Smiles <br>
         <nuxt-link to="/speaker/JoshYoung">Josh Young</nuxt-link> - NewStory <br>
         <nuxt-link to="/speaker/EnriqueBerrios">Enrique Berrios</nuxt-link> - Dentist at Bitcoin Smiles <br><br>
 
