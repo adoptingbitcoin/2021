@@ -22,7 +22,7 @@ Hunter is an active investor (Angel, Seed and Series A rounds) in the Bitcoin, f
 Charitable organizations can achieve sustainability when they attract and effectively use enough of the right kinds of money necessary to achieve their impact. Could bitcoin be the change they need to increase their impact?<br><br>
 
 <b>Panelists:</b><br>
-bentricia21 - Bitcoin Smiles<br>
+
 Enrique Berrios - Dentist at Bitcoin Smiles<br>
 Josh Young - New Story<br><br>
 
