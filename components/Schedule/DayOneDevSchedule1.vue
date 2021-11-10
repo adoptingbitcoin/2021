@@ -17,8 +17,8 @@
       <ScheduleRowRight time="09:45 - 10:10">
         <b>Peer Infrastructure Improvement</b> <br><br>
 
-        Warren Togami (Blockstream) <br>
-        <nuxt-link to="/speaker/KonstantinNick">Konstantin Nick</nuxt-link> (Donnerlabs)
+        <nuxt-link to="/speaker/WarrenTogami">Warren Togami</nuxt-link> - Blockstream <br>
+        <nuxt-link to="/speaker/KonstantinNick">Konstantin Nick</nuxt-link> - Donnerlabs
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:15 - 10:40">
