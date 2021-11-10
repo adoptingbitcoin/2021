@@ -51,9 +51,9 @@
         <!--        </NuxtLink>-->
       </div>
       <div class="text-center md:text-left md:float-right my-5">
-        <a href="https://galoy.io/" target="_blank"><span class="text-xs">hosted by</span> <span class="font-bold text-xl">galoy.io</span></a>
+        <a href="https://galoy.io/" target="_blank" class="galoy-holder"><span class="text-xs">hosted by</span> <img class="galoy-logo" src="~/assets/images/galoy-logo.png"></a>
       </div>
-      <div class="py-4" />
+      <div class="py-8" />
     </Container>
   </BGColor>
 </template>
@@ -82,5 +82,13 @@ export default {
 .svg-icon.svg-baseline svg {
   top: .125em;
   position: relative;
+}
+.galoy-logo{
+  max-height: 70px;
+  display: inline-block;
+  padding-bottom: 1em;
+}
+.galoy-holder{
+  padding-bottom: 25px;
 }
 </style>
