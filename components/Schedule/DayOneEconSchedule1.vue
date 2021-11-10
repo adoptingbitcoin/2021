@@ -13,6 +13,8 @@
         <b>Welcome to El Salvador!</b> <br><br>
         <nuxt-link to="/speaker/MariaLuisaHayem">María Luisa Hayem Brevé</nuxt-link> <br>
         <small><i>Minister of Economy El Salvador</i></small> <br><br>
+        <nuxt-link to="/speaker/MorenaValdez">Morena Ileana Valdez Vigil</nuxt-link> <br>
+        <small><i>Minister of Toursim El Salvador</i></small> <br><br>
         <small>(Spanish / English)</small>
       </ScheduleRow>
 
