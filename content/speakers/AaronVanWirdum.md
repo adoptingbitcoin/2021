@@ -1,7 +1,7 @@
 ---
 name: "Aaron <br>Van Wirdum"
 function: Bitcoin Magazine
-img: aaronvanwirdum.jpg
+img: aaronvanwirdumjpg.jpg
 twitter: 'AaronvanW '
 showPage: true
 ---
