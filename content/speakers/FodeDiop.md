@@ -10,13 +10,13 @@ showPage: true
 
 # Fodé Diop
 
-Fodé is a a full-stack software engineer passionate about Bitcoin, the Lightning Network, and financial inclusion. He launched the Bitcoin Developers Academy to help accelerate Bitcoin education for developers, especially for developers in Africa. Previously, he was at Global Mesh Labs working on Bitcoin application development.
+Fodé Diop is an entrepreneur, educator and self-taught software engineer. He was born in Dakar Sénégal (West Africa), but mostly grew up in the United States. He started looking into Bitcoin around 2011 and has since hooked on the technology and surrounding philosophies. He coincidentally returned to West Africa during the Covid-19 pandemic to spread Bitcoin technology knowledge in his native Wolof / French. He’s the organizer of the Dakar Bitcoin Developers Meetup group. Back at Make School in San Francisco, he created Firebolt, a service to send Bitcoin via sms. Shortly after in July 2019, he won the Mobility Transportation Hackathon as a solo hacker by building Litrides, a Bitcoin Lightning payments powered ride-share  service. He’s currently a software engineer at Global Mesh Labs. He’s also building the Bitcoin Developers Academy, which is an affordable global online school which would allow anybody with little prior exposure to programming, to learn how to build applications on top of the Bitcoin Protocol.
 <br><br>
 
 ## Day 2 | ECON Track | 4:15 - 4:40
 <br>
-<i></i><br><br>
-  <br><br>
+<i>From El Salvador to Sénégal - or how to accelerate Bitcoin and Lightning adoption in Africa</i><br><br>
+Fodé's observations on the ground with the Bitcoin legal tender roll out in El Salvador and how the lessons learned will help with Bitcoin and Lightning adoption in Sénégal and in the African continent.<br><br>
 
 ## Dive deeper
 

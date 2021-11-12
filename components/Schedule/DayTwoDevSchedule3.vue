@@ -2,7 +2,7 @@
   <table class="table text-center">
     <tbody class="even:bg-red">
       <ScheduleRowRight time="4:15 - 4:40">
-        <b>Bitcoin Beach Wallet - Building your own Bank</b><br><br>
+        <b>Building a Bitcoin Bank</b><br><br>
         <nuxt-link to="/speaker/JustinCarter">Justin Carter</nuxt-link> (Galoy)
       </ScheduleRowRight>
 

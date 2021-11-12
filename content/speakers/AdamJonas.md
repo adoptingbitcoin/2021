@@ -13,6 +13,11 @@ showPage: true
 Together with his colleague Caralie, Jonas co-manages Chaincode’s educational initiatives, including the residency and online seminars. Last summer, he helped organize the Summer of Bitcoin for Indian students learning how to contribute to open-source Bitcoin/LN projects and is currently focusing his energy on Qala (qala.dev), a program designed to train experienced African developers and match them Bitcoin/LN jobs. He previously worked as an engineer in the education space after transitioning from his former role developing the talents of professional baseball players. 
 <br><br>
 
+## Day 2 | ECON Track | 10:00 - 10:25
+<br>
+<i>Developing the Bitcoin developer Pipeline</i><br><br>
+<br><br>
+
 ## Day 2 | DEV Track | 5:15 - 6:10
 
 <br>
