@@ -14,6 +14,7 @@ Justin is a former artist and high stakes poker player who found interest in str
 
 ## Day 2 | DEV Track | 4:15 - 4:40
 <br>
-<i>Bitcoin Beach Wallet - Building your own Bank</i><br>
+<i>Building a Bitcoin Bank</i><br><br>
+In this talk Justin Carter will give a brief overview of the technical stack that powers the Bitcoin Beach wallet including a deep dive into the details of some of the most common use-cases.
 
 <br><br>

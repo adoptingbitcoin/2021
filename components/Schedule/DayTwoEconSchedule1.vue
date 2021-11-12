@@ -17,8 +17,8 @@
       </ScheduleRow>
 
       <ScheduleRow time="10:00 - 10:25">
-        <b>Challenges for the African Market</b><br><br>
-        <nuxt-link to="/speaker/BernardParah">Bernard Parah</nuxt-link>- CEO and Co-Founder Bitnob
+        <b>Developing the Bitcoin developer pipeline</b><br><br>
+        <nuxt-link to="/speaker/AdamJonas">Adam Jonas</nuxt-link>- Chaincode / Qala
       </ScheduleRow>
 
       <ScheduleRow time="10:30 - 11:10">
