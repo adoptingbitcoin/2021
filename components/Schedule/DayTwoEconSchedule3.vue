@@ -2,7 +2,9 @@
   <table class="table text-center">
     <tbody class="">
       <ScheduleRow time="4:15 - 4:40">
-        <nuxt-link to="/speaker/FodeDiop">Fode Diop</nuxt-link> - Bitcoin Application Developper at the Global Mesh Lab
+        <b>From El Salvador to Sénégal </b> - or how to accelerate Bitcoin and Lightning adoption in Africa<br><br>
+
+        <nuxt-link to="/speaker/FodeDiop">Fode Diop</nuxt-link> - Bitcoin Application Developer at Global Mesh Labs
       </ScheduleRow>
 
       <ScheduleRow time="4:45 - 5:10">
