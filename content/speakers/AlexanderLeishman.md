@@ -17,6 +17,8 @@ Alex Leishman es el cofundador y director ejecutivo de River Financial. Con sede
 ## Day 2 | ECON Track | 9:05 - 9:25
 <br>
 <i>Bitcoin for Institutions</i><br><br>
+Large companies, institutional investors and governments are increasingly adopting Bitcoin. This fireside chat will explore the details of how big entities are embracing what many call “digital gold” -- and how Lightning can accelerate the use of Bitcoin for institutions in the coming years.<br><br>
+
 Alexander Leishman - River<br>
 <b>Host:</b> Chris Hunter - Co-Host / Galoy<br><br>
 
