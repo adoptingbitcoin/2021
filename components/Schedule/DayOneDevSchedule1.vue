@@ -34,17 +34,12 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="11:15 - 11:40">
-        <b>Integrating Lightning in an exchange</b> <br><br>
-        <nuxt-link to="/speaker/FrancisPouliot">Francis Pouliot</nuxt-link> - CEO Founder of Bull Bitcoin
-      </ScheduleRowRight>
-
-      <ScheduleRowRight time="11:45 - 12:10">
         <b>Where do you fit in the Lightning Network?</b> <br><br>
 
         <nuxt-link to="/speaker/Jesse">Jesse Jestopher</nuxt-link> - Co-Founder Amboss Technologies
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="12:10 - 1:30" :fixedheight="true">
+      <ScheduleRowRight time="11:45 - 1:30" :fixedheight="true">
         Lunch break
       </ScheduleRowRight>
     </tbody>
