@@ -28,7 +28,7 @@
         Host: <nuxt-link to="/speaker/RodrigoGomez">Rodrigo Gomez</nuxt-link> - Country Manager of Bitrefill - El Salvador
       </ScheduleRow>
 
-      <ScheduleRow time="3:50 - 4:15" :fixedheight="true">
+      <ScheduleRow time="3:50 - 4:10" :fixedheight="true">
         Coffee Break
       </ScheduleRow>
     </tbody>
