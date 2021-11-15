@@ -26,7 +26,7 @@
         <nuxt-link to="/speaker/StefanRichter">Stefan Richter</nuxt-link> -  netpositive.money and host of the Honigdachs Podcast
       </ScheduleRowRight>
 
-      <ScheduleRowRight time="11:35 - 12:00">
+      <ScheduleRowRight time="11:15 - 12:00">
         <b>All About LNbits and Local Custodianship</b><br><br>
         <nuxt-link to="/speaker/BenArc">Ben Arc</nuxt-link> - Teacher LNBits
       </ScheduleRowRight>

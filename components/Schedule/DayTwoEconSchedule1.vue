@@ -32,7 +32,7 @@
         Host: <nuxt-link to="/speaker/AnitaPosch">Anita Posch</nuxt-link> - Bitcoin Advocate, Author and Podcaster
       </ScheduleRow>
 
-      <ScheduleRow time="11:35 - 12:00">
+      <ScheduleRow time="11:15 - 12:00">
         <b>Fireside Chat: El Salvador's Future is Bright with Bitcoin</b><br><br>
 
         <nuxt-link to="/speaker/MonicaTaher">Monica Taher</nuxt-link> - Technological & Economic International Affairs at Trade & Investments Secretariat - Government of El Salvador
