@@ -16,8 +16,8 @@
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:00 - 10:25">
-        <b>A Short History of Double Spend Protection</b><br><br>
-        <nuxt-link to="/speaker/PeterTodd">Peter Todd</nuxt-link> - Bitcoin Core Developer
+        <b>Privacy on Lightning</b> <br><br>
+        <nuxt-link to="/speaker/BastienTeinturier">Bastien Teinturier</nuxt-link> - Software Developer ACINQ
       </ScheduleRowRight>
 
       <ScheduleRowRight time="10:30 - 11:10">
