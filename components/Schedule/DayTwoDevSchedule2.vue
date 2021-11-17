@@ -2,8 +2,8 @@
   <table class="table text-center">
     <tbody class="even:bg-red">
       <ScheduleRowRight time="1:35 - 2:00">
-        <b>Bitcoin Applied to Digital Truth</b><br><br>
-        <nuxt-link to="/speaker/GillesCadignan">Gilles Cadigan</nuxt-link> - CEO Woolet
+        <b>Liquid Q&A</b><br><br>
+        Samson Mow - CSO Blockstream
       </ScheduleRowRight>
 
       <ScheduleRowRight time="2:05 - 2:30">
