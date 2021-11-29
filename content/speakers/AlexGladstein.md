@@ -63,3 +63,5 @@ Fireside Video with Gerson Martinez
 </div>
 
 <br>
+
+<iframe title="How The Dollar Became The Global Reserve Currency - Bitcoin Spaces Live with Alex Gladstein" width="560" height="315" src="https://bitcointv.com/videos/embed/b1340eb6-8fcc-45e9-a333-2b470a7534d1" frameborder="0" allowfullscreen="" sandbox="allow-same-origin allow-scripts allow-popups"></iframe>
