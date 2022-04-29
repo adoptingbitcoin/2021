@@ -76,6 +76,7 @@ export default {
     ]
   },
   router: {
+    base: '/2021/',
     scrollBehavior: async (to, from, savedPosition) => {
       if (savedPosition) {
         return savedPosition
