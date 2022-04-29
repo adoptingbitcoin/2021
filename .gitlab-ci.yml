@@ -1,10 +1,20 @@
+stages:
+  - test
+  - build
+  - deploy
 
-pages:
+build:
   image: node:14
-  stage: deploy
+  stage: build
+  cache:
+    key:
+      files:
+        - package-lock.json
+    paths:
+      - .npm/
   script:
     - set -e
-    - npm install
+    - npm ci --cache .npm --prefer-offline
     - npm run generate
     - cp -r dist public
   artifacts:
@@ -12,10 +22,41 @@ pages:
       - public
   rules:
     - if: '$CI_COMMIT_BRANCH == "master"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
+.deploy:
+  stage: deploy
+  image: eeacms/rsync:2.3
+  artifacts:
+    paths:
+      - public
+  script:
+    - chmod 400 $SSH_KEY
+    - rsync -Pavp --delete --rsh="ssh -p ${SSH_PORT} -i ${SSH_KEY} -o StrictHostKeyChecking=no" ${CI_PROJECT_DIR}/public/* ${SSH_USER}@${SSH_IP}:/home/adopotvj/public_html/${DEPLOY_PATH}
+
+deploy_master:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "adoptingbitcoin.org/2021"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'
+
+deploy_staging:
+  extends:
+    - .deploy
+  variables:
+    DEPLOY_PATH: "staging.adoptingbitcoin.org/2021"
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "staging"'
+
 
 purge_cache:
   image: curlimages/curl:7.78.0
   stage: .post
+  rules:
+    - if: '$CI_COMMIT_BRANCH == "master"'
+    - if: '$CI_COMMIT_BRANCH == "staging"'
   script:
     - |
       set -e
